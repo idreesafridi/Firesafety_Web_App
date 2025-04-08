@@ -1,0 +1,147 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 02:27:02
+2023 7 6 2 27 2
+22 0 3 0 1 8 5532 6 4 0
+2 4 5 1 6
+4 0 997 1 2 1
+2 0 503 1 0 0
+2 0 497 1 1 1
+2 0 503 1 0 0
+3 0 750 1 1 1
+9 0 2282 2 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 0 1281 2
+2 0 494 2
+13 0 3263 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 247 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 247 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 7 0 1779 1 1688603183
+-
+crawl-66-249-77-70.googlebot.com
+0 2 0 503 0 0
+-
+cpcl47.hostingcare.net
+0 13 0 3250 3 1688538932
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 7 0 1779 1 1688603183
+-
+crawl-66-249-77-70.googlebot.com
+0 2 0 503 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 22
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 11
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2
+python-requests/2.31.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

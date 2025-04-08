@@ -1,0 +1,184 @@
+# Webalizer V2.23-08 Incremental Data - 06/29/2023 10:28:16
+2023 6 29 10 28 16
+16 5 13 3 1 10 2599 11 10 0
+1 1 9 7 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+9 5 881 7 4 3
+3 0 734 3 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 246 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 246 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 246 1 1 1
+1 0 246 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+9 5 881 4
+1 0 246 1
+0 0 0 0
+0 0 0 0
+2 0 488 2
+0 0 0 0
+0 0 0 0
+1 0 246 1
+0 0 0 0
+1 0 246 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 246 1
+1 0 246 1
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/CXH6QS6ZA3NDZGPQGF30QPKH17XMOU-C
+0 1 0 64 0 0
+/.well-known/acme-challenge/MGBY30528A70TMGE2B9KXCJKOIIPIDLE
+0 1 0 64 0 0
+/.well-known/acme-challenge/tIyxrjFSMfVM4Gmy77Ov241iVplMl-csu346v0wnCRs
+0 3 0 261 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-35-162-213-66.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+137.184.199.150
+0 1 0 246 1 1687042893
+-
+12.148.27.34.bc.googleusercontent.com
+0 1 0 0 1 1686099847
+-
+146.70.172.10
+0 1 0 246 1 1686190449
+-
+101.53.234.37
+0 1 0 242 1 1686200821
+-
+170.64.145.77
+0 1 0 246 1 1686214340
+-
+205.169.39.185
+0 2 0 492 1 1686100144
+-
+ec2-54-152-165-247.compute-1.amazonaws.com
+0 1 0 246 1 1686609387
+-
+65.155.30.101
+0 1 0 246 1 1687931381
+-
+ec2-3-145-146-248.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+outbound2c.letsencrypt.org
+0 1 1 87 0 0
+-
+65.154.226.166
+0 1 0 0 1 1686099843
+-
+cpcl47.hostingcare.net
+0 3 2 374 1 1688034496
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpcl47.hostingcare.net
+0 1 0 246 1 1688034496
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 16
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+0 1
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.121 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

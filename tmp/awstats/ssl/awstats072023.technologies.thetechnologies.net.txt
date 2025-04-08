@@ -1,0 +1,448 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202307 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.technologies.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2040                
+POS_TIME 2723                
+POS_VISITOR 7843                
+POS_DAY 10336               
+POS_DOMAIN 3528                
+POS_LOGIN 3834                
+POS_ROBOT 3989                
+POS_WORMS 4814                
+POS_EMAILSENDER 4945                
+POS_EMAILRECEIVER 5088                
+POS_SESSION 10553               
+POS_SIDER 10760               
+POS_FILETYPES 5223                
+POS_DOWNLOADS 5480                
+POS_OS 5528                
+POS_BROWSER 5720                
+POS_SCREENSIZE 6210                
+POS_UNKNOWNREFERER 6284                
+POS_UNKNOWNREFERERBROWSER 6531                
+POS_ORIGIN 6715                
+POS_SEREFERRALS 6857                
+POS_PAGEREFS 7022                
+POS_SEARCHWORDS 7170                
+POS_KEYWORDS 7322                
+POS_MISC 2387                
+POS_ERRORS 7381                
+POS_CLUSTER 3690                
+POS_SIDER_404 7534                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230706075729 821 228729 19950765577041
+FirstTime 20230701001450
+LastTime 20230706075729
+LastUpdate 20230706085538 821 0 821 0 0
+TotalVisits 89                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 69                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 7 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 60 561201 23 28 1346556
+1 6 6 0 44 54 2723546
+2 18 19 157385 45 120 5238294
+3 16 16 0 53 123 6872114
+4 91 152 3488856 60 99 4846602
+5 29 102 2184398 49 90 5071365
+6 22 24 411539 35 58 4041628
+7 61 78 1701911 75 101 3661858
+8 10 10 71270 36 50 2356099
+9 5 5 0 27 82 3059986
+10 9 9 0 27 111 3782390
+11 8 9 50478 29 37 2402308
+12 9 11 29684 28 48 2929394
+13 121 451 6767462 54 63 1161389
+14 34 45 1049947 32 138 3612647
+15 21 21 35633 57 173 11589088
+16 8 8 0 20 34 1396010
+17 17 19 65319 31 37 2686642
+18 21 21 498864 39 90 3358799
+19 17 17 142542 25 44 1766532
+20 9 9 0 30 37 2787165
+21 19 19 249433 39 73 4619107
+22 25 97 3711110 19 45 2753185
+23 11 13 65320 23 47 2893706
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 509 1103 17637216
+bg 55 55 1917031
+in 36 53 1488109
+ir 1 1 35635
+ao 1 5 104993
+ie 0 4 59368
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+AhrefsBot/ 462 14477370 20230706054345 11
+facebookexternalhit/ 303 50354104 20230706073850 0
+SemrushBot/ 228 4535368 20230706044039 65
+bot[\s_+:,\.\;\/\\-] 182 6224517 20230706064629 2
+Googlebot/ 181 4020688 20230706055718 5
+YandexBot/ 108 2216388 20230706073007 33
+Applebot/ 99 682074 20230705075928 2
+bingbot/ 56 1162240 20230705170506 4
+Googlebot\-Image/ 22 825189 20230706025453 0
+sitemap 18 166349 20230704134920 1
+[\s_+:,\.\;\/\\-]bot 5 178177 20230705050014 0
+LinkedInBot/ 3 539860 20230705130157 0
+no_user_agent 3 719466 20230705182807 0
+unknown 2 494 20230702221940 2
+Go\-http\-client/ 2 445408 20230703062429 0
+YandexImages/ 1 2534 20230706074152 0
+survey 1 239822 20230703092032 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 175 735420 0 0
+jpg 4 208830 0 0
+png 19 1615993 0 0
+woff2 30 2487660 0 0
+html 259 10222292 0 0
+Unknown 33 74481 0 0
+xml 4 2468 0 0
+js 306 1890259 0 0
+php 276 96453 0 0
+webp 115 3908496 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+android10 1 1
+Unknown 373 291
+androidpie 1 1
+linux 622 118
+win10 127 94
+win7 2 2
+macosx15 5 5
+win8.1 10 10
+androidnougat 80 80
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome83.0.4103.106 1 1
+msie9.0 1 1
+chrome60.0.3112.107 80 80
+edge44 48 31
+chrome83.0.4103.97 14 14
+mozilla 87 16
+chrome74.0.3729.169 10 10
+Unknown 286 275
+chrome109.0.0.0 1 1
+chrome104.0.5112.101 77 4
+chrome114.0.0.0 40 24
+opera89.0.4447.51 37 26
+chrome112.0.0.0 26 26
+firefox77.0 5 5
+chrome110.0.5478.0 408 33
+chrome103.0.0.0 83 38
+chrome90.0.4430.85 2 2
+android 1 1
+chrome51.0.2704.106 10 10
+chrome108.0.0.0 3 3
+chrome80.0.3987.162 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230702222038
+cortex/1.0 20230705124934
+Ruby 20230701062805
+WordPress/6.2.2;_https://technologies.pk 20230706075653
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/6.2.2;_https://technologies.pk 20230706075653
+Ruby 20230701062805
+cortex/1.0 20230705124934
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 398 409
+From1 12 12
+From2 11 11
+From3 0 0
+From4 181 789
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 11 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+206 5 155912
+400 1 52
+402 2 2
+500 4 10108
+508 1 288
+302 2 0
+503 1 0
+301 83 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 69
+107.161.191.226 274 274 570157 20230706075653 20230706052544 /wp-cron.php
+107.161.191.229 199 460 12998869 20230705082052
+87.121.221.166 55 55 1917031 20230705132459
+45.130.155.162 31 48 1309930 20230706075729 20230706075452 /2023/04/28/google-meet-will-currently-offer-1080p-video-calls/
+45.139.196.219 5 5 178179 20230706021957
+152.44.105.168 2 11 193804 20230705130624
+139.180.7.50 2 4 182824 20230705130631
+38.170.6.24 2 11 207298 20230705130631
+142.147.108.10 2 23 185250 20230705130628
+38.152.15.13 2 9 149657 20230705130630
+192.186.160.194 1 10 122636 20230705130630
+54.189.56.57 1 1 35636 20230706045028
+99.81.216.206 1 1 35635 20230706072156 20230706072156 /
+172.245.1.79 1 9 97699 20230705130631
+172.96.94.102 1 9 129508 20230705130625
+38.170.8.38 1 7 148176 20230705130629
+34.213.41.85 1 1 35636 20230706043905
+138.229.100.44 1 13 132083 20230705130630
+152.44.104.14 1 1 30294 20230705130625
+54.190.158.200 1 1 35636 20230706044027
+5.78.110.75 1 1 35635 20230706000944
+54.149.40.215 1 1 35636 20230706045044
+172.96.81.174 1 7 124363 20230705130624
+206.198.216.36 1 4 81390 20230705130630
+69.58.78.3 1 5 105027 20230705130630
+192.198.102.13 0 10 97334 
+31.13.103.9 0 1 14842 
+206.198.219.18 0 1 665 
+142.147.111.22 0 7 69776 
+167.160.73.72 0 9 27585 
+69.171.251.13 0 1 14842 
+31.13.127.13 0 1 14842 
+138.229.111.66 0 9 43025 
+173.252.111.10 0 1 14842 
+66.84.88.147 0 2 15990 
+66.220.149.12 0 1 14842 
+38.154.6.20 0 6 61067 
+192.210.224.172 0 3 15943 
+38.152.34.24 0 2 3203 
+69.63.189.2 0 1 14842 
+38.152.41.41 0 17 94636 
+66.220.149.1 0 1 14842 
+172.81.112.106 0 4 14829 
+138.229.104.24 0 11 75643 
+172.96.80.245 0 17 101275 
+192.186.190.185 1 9 95879 20230705130628
+173.252.95.2 0 1 14842 
+38.152.45.26 0 6 30338 
+34.220.184.140 1 1 35635 20230706044139
+35.88.100.124 1 1 35636 20230706043814
+52.25.205.163 1 1 35636 20230706044954
+152.44.102.245 1 13 142712 20230705130631
+38.170.5.6 1 8 110163 20230705130629
+23.229.65.222 1 14 117461 20230705130626
+172.96.87.2 0 5 22883 
+68.234.46.143 0 11 57985 
+154.202.95.49 1 5 104993 20230705130632
+31.13.127.14 0 1 14842 
+67.218.5.24 0 4 6875 
+69.171.251.1 0 1 14842 
+38.170.7.6 1 9 125032 20230705130630
+147.92.53.41 1 10 80008 20230705130623
+130.44.202.4 0 2 40360 
+216.213.27.11 0 5 15577 
+31.13.127.111 0 1 14842 
+149.20.244.172 1 8 70702 20230705130624
+209.163.118.13 0 5 23096 
+38.170.15.37 1 10 94384 20230705130630
+192.210.128.231 1 14 134775 20230705130627
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20230701 100 113 1782201 10
+20230702 118 236 6608451 7
+20230703 59 63 166276 8
+20230704 119 210 4314241 13
+20230705 145 521 6562354 37
+20230706 61 78 1808829 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 3
+0s-30s 49
+2mn-5mn 2
+1h+ 21
+30mn-1h 5
+5mn-15mn 2
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 70
+/wp-cron.php 258 0 35 34
+/ 137 5658114 27 21
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 10 767970 6 6
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 10 938700 5 10
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 10 780990 5 6
+/wp-login.php 7 26984 0 0
+/2023/04/28/microsofts-computer-based-intelligence-fueled-architect-accessible-for-public-to-see/ 6 181761 1 1
+/wp-json/oembed/1.0/embed 6 7848 0 0
+/2023/04/28/superchat-a-man-made-intelligence-chatbot-with-fictitious-people/ 6 346972 1 1
+/wp-admin/admin-ajax.php 6 606 0 0
+/2023/04/28/mihoyos-new-computer-game-tops-download-outlines-as-large-send-offs-return-to-china/ 5 158167 1 1
+/2023/04/28/google-meet-will-currently-offer-1080p-video-calls/ 5 151879 1 0
+/category/mobile-phones/ 5 154840 0 0
+/category/tech-news/ 5 153911 1 0
+/2023/04/28/cloud-not-consoles-obstructs-microsofts-activision-view-in-uk/ 5 157165 1 1
+/category/latest-gadgets/ 5 154819 0 0
+/2023/04/28/twitter-limits-search-capability-to-enrolled-clients/ 5 152460 1 1
+/wp-json/ 4 44236 0 0
+/2023/04/07/tesla-laborers-shared-delicate-pictures-recorded-by-client-vehicles/ 4 124114 0 0
+/2023/04/18/microsoft-carries-windows-11-to-hololens-2-headsets/ 4 121384 0 0
+/2023/03/27/india-rocket-tech-science-heaviest-satellites/ 4 124943 0 0
+/2023/04/28/eu-proposes-new-copyright-rules-for-generative-simulated-intelligence/ 4 124917 1 1
+/category/tech-trends/ 4 123362 0 0
+/2023/04/03/indian-flying-vehical-success/ 4 121942 0 1
+/2023/04/11/musk-says-the-spacex-starship-rocket-send-off-slipping-later-in-april/ 4 124229 0 0
+/2023/04/18/twitter-will-name-tweets-for-abusing-disdain-discourse-strategy/ 3 92097 0 0
+/bc 1 0 0 0
+/2023/03/24/tiktok-technology-openai-chatgpt-google/ 3 94762 0 0
+/wp-content/index.php 1 0 0 0
+/old 1 0 0 0
+/2023/04/04/nasa-spacex-satellite-develop/ 3 91631 0 0
+/wp-json/wp/v2/categories 2 282 0 0
+/wp-json/wp/v2/tags 2 338 0 0
+/main 1 0 0 0
+/2023/03/22/whatsapp-meta-groups-privacy-updates-news/ 1 195326 0 0
+/new 1 0 0 0
+/home 1 0 0 1
+/wp-json/wp/v2/pages/6 3 37650 0 0
+/2023/04/10/substack-president-disappointed-over-twitters-response-to-another-element/ 1 30878 0 1
+/2023/04/18/samsung-might-dump-google-quest-for-bing-as-letter-set-shares-drop/ 3 93547 0 0
+/wp-json/wp/v2/themes 1 1493 0 0
+/wp-json/wp/v2/posts/545 1 1876 0 0
+/2023/03/24/smart-contractor-discover-technology-terms-potential/ 1 198319 0 0
+/2023/04/18/chatgpt-uses-artificial-intelligence-to-control-chegg-to-concentrate-on-pal-as-instructors-grapple-with-tech/ 3 95448 0 0
+/2023/04/28/meta-to-acquaint-man-made-intelligence-specialists-with-billions-across-the-globe/ 3 91694 1 0
+/wp-json/wp/v2/media/546 2 2172 0 0
+/backup 1 0 0 0
+/feed/ 2 109868 0 0
+/wp-json/wp/v2/taxonomies/category 1 884 0 0
+/wp 1 0 0 0
+/feed/atom/ 1 59838 0 0
+/comments/feed/ 1 2088 0 0
+/wp-json/wp/v2/block-patterns/categories 1 607 0 0
+/wp-json/wp/v2/users 1 50 0 0
+/xmlrpc.php 3 909 0 0
+/2023/04/18/instagram-reels-gets-new-elements-for-maker-recordings/ 4 124016 0 0
+/category/future/ 4 123025 0 0
+/bk 1 0 0 0
+/wordpress 1 0 1 0
+/wp-json/wp/v2/taxonomies/post_tag 1 836 0 0
+/2023/03/22/chatgpt-for-writers-chatgpt-privacy-chatgpt/ 1 196653 0 0
+/category/tech-autos/ 4 114991 0 0
+/2023/03/24/mercedes-benz-launch-electric-vehicle-sustainable/ 4 132527 0 0
+/wp-json/wp/v2/taxonomies 1 1100 0 0
+/wp-includes/wlwmanifest.xml 3 1380 0 0
+/sitemap_index.xml 1 1088 0 0
+/wp-json/wp/v2/block-patterns/patterns 1 19343 0 0
+/wp-json/wp/v2/blocks 1 2 0 0
+/2023/03/27/application-video-find-people-online-earn/ 1 196369 0 0
+/wp-admin/post.php 1 67954 1 0
+END_SIDER

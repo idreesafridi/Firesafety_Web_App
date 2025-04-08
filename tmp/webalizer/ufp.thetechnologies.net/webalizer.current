@@ -1,0 +1,164 @@
+# Webalizer V2.23-08 Incremental Data - 07/04/2023 05:10:32
+2023 7 4 5 10 32
+19 17 1 17 4 1 506964 2 1 0
+1 29 29 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 17 506964 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+19 17 506964 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/plugin/waves/waves.min.js
+0 1 20728768 6234 0 0
+/assets/images/sativa.png
+0 1 20729696 4929 0 0
+/assets/scripts/jquery.min.js
+0 1 20728368 86341 0 0
+/assets/scripts/main.min.js
+0 1 20728896 11847 0 0
+/assets/plugin/bootstrap/js/bootstrap.min.js
+0 1 20728624 48944 0 0
+/assets/plugin/nprogress/nprogress.css
+0 1 20729568 1170 0 0
+/assets/fonts/font-awesome/css/fontawesome-all.min.css
+0 1 20729152 35393 0 0
+/assets/styles/custom.css
+0 1 20727984 3125 0 0
+/login
+0 1 20727632 4165 0 0
+/assets/styles/style.css
+0 1 20727744 81058 0 0
+/assets/fonts/font-awesome/webfonts/fa-regular-400.woff2
+0 1 0 12240 0 0
+/assets/scripts/modernizr.min.js
+0 1 20728112 8552 0 0
+/assets/plugin/waves/waves.min.css
+0 1 20728240 3872 0 0
+/assets/fonts/font-awesome/webfonts/fa-solid-900.woff2
+0 1 20729824 40148 0 0
+/assets/scripts/mycommon.js
+0 1 20729024 680 0 0
+/assets/plugin/bootstrap/css/bootstrap.min.css
+0 1 20729424 144771 0 0
+/assets/plugin/nprogress/nprogress.js
+0 1 20728496 6486 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cpcl47.hostingcare.net
+0 19 17 506964 1 1688447431
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpcl47.hostingcare.net
+0 19 17 506964 1 1688447431
+/login
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.ufp.thetechnologies.net/assets/styles/style.css
+0 4
+- (Direct Request)
+0 2
+http://www.ufp.thetechnologies.net/assets/fonts/font-awesome/css/fontawesome-all.min.css
+0 2
+http://www.ufp.thetechnologies.net/login
+0 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.121 Safari/537.36
+0 19
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

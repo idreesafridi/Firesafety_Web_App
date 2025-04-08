@@ -1,0 +1,335 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.lights.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2694                
+POS_VISITOR 7087                
+POS_DAY 7687                
+POS_DOMAIN 3423                
+POS_LOGIN 3716                
+POS_ROBOT 3871                
+POS_WORMS 4114                
+POS_EMAILSENDER 4245                
+POS_EMAILRECEIVER 4388                
+POS_SESSION 8051                
+POS_SIDER 8236                
+POS_FILETYPES 4523                
+POS_DOWNLOADS 4742                
+POS_OS 5189                
+POS_BROWSER 5322                
+POS_SCREENSIZE 5557                
+POS_UNKNOWNREFERER 5631                
+POS_UNKNOWNREFERERBROWSER 5718                
+POS_ORIGIN 5800                
+POS_SEREFERRALS 5938                
+POS_PAGEREFS 6101                
+POS_SEARCHWORDS 6249                
+POS_KEYWORDS 6401                
+POS_MISC 2357                
+POS_ERRORS 6460                
+POS_CLUSTER 3572                
+POS_SIDER_404 6597                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230604163406 1 0 11927141177493
+FirstTime 0
+LastTime 20230527011916
+LastUpdate 20230605084414 1 0 0 0 0
+TotalVisits 19                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 14 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 7 96202
+1 2 2 9454 6 6 11022
+2 0 0 0 0 0 0
+3 0 0 0 4 4 998
+4 0 0 0 0 0 0
+5 1 1 4683 5 13 761917
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 193 193 144581628 38 38 16798
+9 92 92 42843777 18 18 8172
+10 66 74 97458723 9 10 10366
+11 144 154 302071899 35 37 2670539
+12 94 133 145372486 22 25 2002957
+13 124 124 154069989 27 34 795258
+14 110 110 138839973 20 20 9080
+15 28 28 60775694 6 6 6905
+16 106 106 109522468 24 24 18389
+17 207 209 323087095 48 61 794415
+18 547 547 485515710 108 111 48952
+19 270 270 180533908 58 69 789106
+20 0 0 0 12 23 710613
+21 0 0 0 2 9 644201
+22 1 1 4683 1 1 406
+23 0 0 0 2 3 26346
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+pa 1899 1948 1125811692
+us 79 79 25302638
+na 4 14 1274650
+ca 2 2 9410
+ru 1 1 4727
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Googlebot/ 72 4566016 20230530215435 7
+unknown 2 48 20230507172421 2
+Googlebot\-Image/ 1 6308 20230512102211 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 14 1811115 0 0
+svg 5 10945 0 0
+Unknown 1980 98318292 0 0
+css 13 1321846 0 0
+js 19 1200252 0 0
+pdf 8 1049508513 0 0
+woff2 3 137288 0 0
+html 2 94866 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/LightingSchedule/801161683818928.pdf 2 286 1042762829
+/LightingSchedule/294311678734799.pdf 1 0 399111
+/LightingSchedule/24971674832356.pdf 1 0 3935924
+/LightingSchedule/777431678734799.pdf 1 0 372072
+/LightingSchedule/416551678734799.pdf 1 0 446743
+/LightingSchedule/217771678734799.pdf 1 0 278896
+/LightingSchedule/99831678734799.pdf 1 0 416174
+/LightingSchedule/532761682626145.pdf 0 12 2690292
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 2323 1976
+macosx6 2 2
+android 1 1
+macosx14 2 2
+android10 14 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome103.0.5060.114 1 1
+chrome76.0.3809.132 1 1
+chrome104.0.0.0 2 2
+chrome86.0.4240.111 2 2
+chrome113.0.0.0 2327 1976
+chrome87.0.4280.88 1 1
+chrome112.0.0.0 6 0
+chrome94.0.4606.61 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 10
+From1 0 0
+From2 1 1
+From3 0 0
+From4 1974 2331
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 412 184296
+508 2 576
+419 4 6232
+404 5 7760
+500 7 4644506
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/sitemap.xml 2 -
+/static/admin/javascript/hetong.js 1 -
+/Public/home/js/check.js 1 -
+/password/assets/images/favicon.ico')%7D%7D 1 https://lights.thetechnologies.net/password/reset
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+181.118.37.187 1045 1185 554676231 20230522193305
+181.118.54.236 854 1055 572928989 20230523092516
+107.161.191.226 73 79 25274408 20230519142643
+197.244.133.67 4 14 1274650 20230519114400
+45.90.61.130 1 1 4727 20230506190143
+54.89.198.78 1 1 4683 20230520222705
+176.53.218.23 1 1 4727 20230505190305
+108.62.158.142 1 1 4683 20230515181454
+172.105.158.60 1 1 4683 20230513053937
+3.80.91.75 1 1 4727 20230527011916
+168.235.94.138 1 1 4727 20230513010108
+47.242.77.54 1 1 4683 20230507172408
+47.254.85.182 1 1 4727 20230505124023
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20230505 2 2 9454 2
+20230506 1 1 4727 1
+20230507 1 1 4683 1
+20230511 10 11 24931005 1
+20230513 2 2 9410 2
+20230515 1 1 4683 1
+20230518 7 13 21470058 1
+20230519 601 651 826969917 4
+20230520 1 1 4683 1
+20230521 380 382 584961032 1
+20230522 693 693 496057642 2
+20230523 285 285 168896631 1
+20230527 1 1 4727 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 10
+15mn-30mn 2
+30mn-1h 1
+30s-2mn 1
+1h+ 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/CheckSubLabel 382 172103 0 1
+/Lighting-Schedule 372 27563937 0 1
+/create-custom-lamp/41 367 36792914 4 1
+/loadDataByLampLuminaireProfile 362 199299 0 2
+/loadDataByLuminaireProfile 352 184483 1 0
+/Lighting-Schedule/41 77 14994199 1 3
+/login 11 51733 10 9
+/Flex-Strip-Lamps 9 737641 0 0
+/add-more/41 5 344675 0 0
+/create/41 3 150873 0 1
+/CustomLamp/389/edit 3 291892 0 0
+/Flex-Strip-Lamps/14 2 62314 0 0
+/Models 2 137000 0 0
+/csv_file_export/40 2 9779488 0 0
+/Profile-Luminaire 2 140446 0 0
+/Flex-Strip-Lamps/32 2 62612 0 0
+/ 2 94866 1 0
+/Flex-Strip-Lamps/34/edit 2 63578 0 0
+/LightType 2 106416 0 0
+/password/reset 2 14228 0 1
+/Lighting-Schedule/create 2 123462 1 0
+/assets/fonts/Simple-Line-Iconsb26c.woff2 2 60128 0 0
+/Lighting-Schedule/38 2 192646 1 0
+/Flex-Strip-Lamps/14/edit 2 63298 0 0
+/Flex-Strip-Lamps/create 1 31554 0 0
+/CustomLamp/395/edit 1 97311 0 0
+/CustomLamp/391/edit 1 97301 0 0
+/CustomLamp/709/edit 1 97333 0 0
+/CustomLamp/398/edit 1 97311 0 0
+/Flex-Strip-Lamps/13 1 31181 0 0
+/CustomLamp/396/edit 1 97311 0 0
+/Flex-Strip-Lamps/32/edit 1 31651 0 0
+/Flex-Strip-Lamps/23 1 31228 0 0
+/CustomLamp/390/edit 1 97301 0 0
+/csv_file_export_final/40 1 4889133 0 0
+/CustomLamp/505/edit 1 97289 0 0
+/CustomLamp/397/edit 1 97311 0 0
+/assets/fonts/fontawesome-webfont3e6e.woff2 1 77160 0 0
+/CustomLamp/407/edit 1 97310 0 0
+/Lighting-Schedule/39 1 198530 0 0
+END_SIDER

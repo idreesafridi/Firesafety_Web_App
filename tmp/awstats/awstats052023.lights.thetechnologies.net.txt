@@ -1,0 +1,723 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.lights.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2703                
+POS_VISITOR 37266               
+POS_DAY 37965               
+POS_DOMAIN 3285                
+POS_LOGIN 3596                
+POS_ROBOT 3751                
+POS_WORMS 3946                
+POS_EMAILSENDER 4077                
+POS_EMAILRECEIVER 4220                
+POS_SESSION 38222               
+POS_SIDER 38385               
+POS_FILETYPES 4355                
+POS_DOWNLOADS 4571                
+POS_OS 4670                
+POS_BROWSER 4831                
+POS_SCREENSIZE 5155                
+POS_UNKNOWNREFERER 5229                
+POS_UNKNOWNREFERERBROWSER 5457                
+POS_ORIGIN 5577                
+POS_SEREFERRALS 5712                
+POS_PAGEREFS 5856                
+POS_SEARCHWORDS 6004                
+POS_KEYWORDS 6156                
+POS_MISC 2366                
+POS_ERRORS 6215                
+POS_CLUSTER 3452                
+POS_SIDER_404 6358                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230604163638 1 0 10604513029590
+FirstTime 20230505003439
+LastTime 20230530014720
+LastUpdate 20230605084414 1 0 0 0 0
+TotalVisits 16                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 12 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 81 5737753 9 11 2099133
+1 32 33 39064383 7 7 4029401
+2 2 10 795548 1 1 418
+3 0 0 0 8 8 10132
+4 0 0 0 0 0 0
+5 2 2 0 11 12 24
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 1 1 0
+9 4 5 355794 385 646 4227087
+10 0 0 0 0 0 0
+11 1 1 4672 1 1 402
+12 6 41 10352117 1 5 645595
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 1 1 4716 1 1 418
+18 1 1 4716 2 3 820
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 1 1 4672 3 6 4704
+22 1 1 4672 1 1 402
+23 0 0 0 14 14 12731
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+cn 46 84 42961930
+us 17 44 2649727
+pa 6 41 10352117
+ma 4 5 355794
+ca 1 1 4672
+gb 1 1 4716
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 2 48 20230508214024 2
+Googlebot/ 1 24 20230511053023 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+svg 10 21890 0 0
+woff2 7 304640 0 0
+Unknown 67 33110242 0 0
+js 42 2393536 0 0
+css 27 2897159 0 0
+png 20 2549202 0 0
+pdf 2 14957596 0 0
+html 2 94778 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/LightingSchedule/801161683818928.pdf 2 0 14957596
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx6 1 1
+win10 14 6
+win7 4 1
+macosx15 125 52
+macosx14 2 2
+Unknown 5 5
+android 5 4
+linux 21 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome112.0.5615.121 21 5
+chrome83.0.4103.61 4 1
+chrome87.0.4280.141 5 4
+mozilla 4 4
+chrome79.0.3945.79 10 2
+chrome113.0.0.0 84 46
+chrome94.0.4606.61 1 1
+safari15.3 41 6
+chrome76.0.3809.132 1 1
+Unknown 2 2
+chrome87.0.4280.88 1 1
+chrome104.0.0.0 1 1
+chrome74.0.3729.169 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20230505003458
+Cpanel-HTTP-Client/1.0 20230505003439
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20230505003439
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16 16
+From1 0 0
+From2 0 0
+From3 0 0
+From4 60 161
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 32 960
+404 577 4238696
+500 11 6766273
+301 61 15682
+302 19 6134
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 408
+/reg.php 2 http://lights.thetechnologies.net/reg.php
+/themes/pay/assets/core.css 1 http://lights.thetechnologies.net/themes/pay/assets/core.css
+/mobile/config.js 1 http://lights.thetechnologies.net/mobile/config.js
+/api/index/grailindex 2 http://lights.thetechnologies.net/api/index/grailindex
+/dist/azzara/css/down.css 1 http://lights.thetechnologies.net/dist/azzara/css/down.css
+/install.inc/vipsignInstall.css 1 http://lights.thetechnologies.net/install.inc/vipsignInstall.css
+/anquan/qgga.asp 1 http://lights.thetechnologies.net/anquan/qgga.asp
+/public/phalapi/public 4 http://lights.thetechnologies.net/phalapi/public/
+/files/pub_reset.css 1 http://lights.thetechnologies.net/files/pub_reset.css
+/public/api/st/index 2 http://lights.thetechnologies.net/api/st/index/
+/img/phonetrackeronline.png 1 http://lights.thetechnologies.net/img/phonetrackeronline.png
+/index/aurl 1 http://lights.thetechnologies.net/index/aurl
+/apple-touch-icon.png 1 -
+/statics/js/API.js 1 http://lights.thetechnologies.net/statics/js/API.js
+/uploads/admin/202103/60584c5b88017.png 1 http://lights.thetechnologies.net/uploads/admin/202103/60584c5b88017.png
+/api/grame/getHomePtLottery 1 http://lights.thetechnologies.net/api/grame/getHomePtLottery
+/melody/api/v1/pageconfig/list 1 http://lights.thetechnologies.net/melody/api/v1/pageconfig/list
+/static/wap/css/common.css 2 http://lights.thetechnologies.net/static/wap/css/common.css
+/api/apps/config 1 http://lights.thetechnologies.net/api/apps/config
+/js/lang.js 1 http://lights.thetechnologies.net/js/lang.js
+/static/home/css/common.css 1 http://lights.thetechnologies.net/static/home/css/common.css
+/admin/webadmin.php 1 http://lights.thetechnologies.net/admin/webadmin.php
+/css/main.css 2 http://lights.thetechnologies.net/css/main.css
+/public/js/post.js 1 http://lights.thetechnologies.net/js/post.js/
+/assets/mstock/newimg/guid-info.png 1 http://lights.thetechnologies.net/assets/mstock/newimg/guid-info.png
+/public/xy 2 http://lights.thetechnologies.net/xy/
+/www.xianyu_os/js/common.js 1 http://lights.thetechnologies.net/www.xianyu_os/js/common.js
+/res/kuai/1.css 2 http://lights.thetechnologies.net/res/kuai/1.css
+/index/user/get_server_info 1 http://lights.thetechnologies.net/index/user/get_server_info
+/source/20220119/static/wap/js/order.js 2 http://lights.thetechnologies.net/source/20220119/static/wap/js/order.js
+/main 2 http://lights.thetechnologies.net/main
+/m/env.js 2 http://lights.thetechnologies.net/m/env.js
+/api/stock/getSingleStock.do 2 http://lights.thetechnologies.net/api/stock/getSingleStock.do
+/api/index/config 2 http://lights.thetechnologies.net/api/index/config
+/api/config/getwebsitename 1 http://lights.thetechnologies.net/api/config/getwebsitename
+/public/index/index/info 2 http://lights.thetechnologies.net/index/index/info/
+/static/download/img/stars.png 1 http://lights.thetechnologies.net/static/download/img/stars.png
+/manager/js/left.js 1 http://lights.thetechnologies.net/manager/js/left.js
+/api/v1/member/kefu 1 http://lights.thetechnologies.net/api/v1/member/kefu
+/api/uploads/apimap 2 http://lights.thetechnologies.net/api/uploads/apimap
+/Public/Wchat/js/cvphp.js 2 http://lights.thetechnologies.net/Public/Wchat/js/cvphp.js
+/csjs/bankCheck.js 2 http://lights.thetechnologies.net/csjs/bankCheck.js
+/mobile 2 http://lights.thetechnologies.net/mobile
+/Public/Wchat/css/index.css 1 http://lights.thetechnologies.net/Public/Wchat/css/index.css
+/views/home/home.js 2 http://lights.thetechnologies.net/views/home/home.js
+/public/sites/default/files 1 binance.com
+/api/v/index/queryOfficePage 1 http://lights.thetechnologies.net/api/v/index/queryOfficePage
+/api/shares/hqStrList 1 http://lights.thetechnologies.net/api/shares/hqStrList
+/static/wap/css/tipmask.css 2 http://lights.thetechnologies.net/static/wap/css/tipmask.css
+/new 1 -
+/platform 2 http://lights.thetechnologies.net/platform
+/index.php/Wap/Api/getBanner 1 http://lights.thetechnologies.net/index.php/Wap/Api/getBanner
+/chatlink.html 1 http://lights.thetechnologies.net/chatlink.html
+/api/lottery/color 2 http://lights.thetechnologies.net/api/lottery/color
+/index/login/register 2 http://lights.thetechnologies.net/index/login/register
+/site.js 1 http://lights.thetechnologies.net/site.js
+/api/index 1 http://lights.thetechnologies.net/api/index
+/assets/res/mods/room.js 1 http://lights.thetechnologies.net/assets/res/mods/room.js
+/public/mobile 1 http://lights.thetechnologies.net/mobile/
+/css/style.css 2 http://lights.thetechnologies.net/css/style.css
+/static/diff_worker.js 2 http://lights.thetechnologies.net/static/diff_worker.js
+/index/police/index.html 1 http://lights.thetechnologies.net/index/police/index.html
+/api/hevent 1 http://lights.thetechnologies.net/api/hevent
+/static/data/configjs.js 2 http://lights.thetechnologies.net/static/data/configjs.js
+/static/v2/css/index.css 2 http://lights.thetechnologies.net/static/v2/css/index.css
+/uis/app/get/config 2 http://lights.thetechnologies.net/uis/app/get/config
+/mindex.html 1 http://lights.thetechnologies.net/mindex.html
+/api/v1/about 1 http://lights.thetechnologies.net/api/v1/about
+/static/data/gamedatas.js 2 http://lights.thetechnologies.net/static/data/gamedatas.js
+/common.js 2 http://lights.thetechnologies.net/common.js
+/index/login/reg.html 2 http://lights.thetechnologies.net/index/login/reg.html
+/loan/css/index.css 1 http://lights.thetechnologies.net/loan/css/index.css
+/index/open/login.html 1 http://lights.thetechnologies.net/index/open/login.html
+/chat.html 1 http://lights.thetechnologies.net/chat.html
+/verification.asp 2 http://lights.thetechnologies.net/verification.asp
+/api/exclude/siteConfig/webSiteConfig 2 http://lights.thetechnologies.net/api/exclude/siteConfig/webSiteConfig
+/index 3 http://lights.thetechnologies.net/index
+/api/config-init 1 http://lights.thetechnologies.net/api/config-init
+/detail1/js/add.js 1 http://lights.thetechnologies.net/detail1/js/add.js
+/Home/Bind/binding 1 http://lights.thetechnologies.net/Home/Bind/binding
+/static/home/css/feiqi-ee5401a8e6.css 2 http://lights.thetechnologies.net/static/home/css/feiqi-ee5401a8e6.css
+/apiapp/Ygn_Girl.CityList 2 http://lights.thetechnologies.net/apiapp/Ygn_Girl.CityList
+/wap 2 http://lights.thetechnologies.net/wap
+/Scripts/common.js 2 http://lights.thetechnologies.net/Scripts/common.js
+/source/20220119/static/wap/css/trade-history.css 1 http://lights.thetechnologies.net/source/20220119/static/wap/css/trade-history.css
+/mobile/v3/appSuperDownload.do 2 http://lights.thetechnologies.net/mobile/v3/appSuperDownload.do
+/Public/css/hall.css 1 http://lights.thetechnologies.net/Public/css/hall.css
+/public/wap 1 http://lights.thetechnologies.net/wap/
+/home.html 1 http://lights.thetechnologies.net/home.html
+/skin/main/onload.js 2 http://lights.thetechnologies.net/skin/main/onload.js
+/getConfig/listPopFrame.do 2 http://lights.thetechnologies.net/getConfig/listPopFrame.do
+/public/bapi/st/news 1 http://lights.thetechnologies.net/bapi/st/news/
+/static/_zxzx/bottom/index_bottom.shtml 1 http://lights.thetechnologies.net/static/_zxzx/bottom/index_bottom.shtml
+/my/zijin.png 1 http://lights.thetechnologies.net/my/zijin.png
+/getConfig/getArticle.do 3 http://lights.thetechnologies.net/getConfig/getArticle.do
+/skin/js/common.js 1 http://lights.thetechnologies.net/skin/js/common.js
+/static/customer/js/xiaotian.cli.v2.js 1 http://lights.thetechnologies.net/static/customer/js/xiaotian.cli.v2.js
+/lottery/lottery_list 1 http://lights.thetechnologies.net/lottery/lottery_list
+/sucai/zxkf.png 1 http://lights.thetechnologies.net/sucai/zxkf.png
+/data/json/config.json 1 http://lights.thetechnologies.net/data/json/config.json
+/public/admin/controller/extension/extension 1 binance.com
+/common/member/js/user.util.js 1 http://lights.thetechnologies.net/common/member/js/user.util.js
+/public/config 2 http://lights.thetechnologies.net/config
+/index/home/login.html 2 http://lights.thetechnologies.net/index/home/login.html
+/kkrps/im_group/show_members 1 http://lights.thetechnologies.net/kkrps/im_group/show_members
+/nyyh/game.css 1 http://lights.thetechnologies.net/nyyh/game.css
+/service 1 http://lights.thetechnologies.net/service
+/m.html 2 http://lights.thetechnologies.net/m.html
+/index/gzid.js 1 http://lights.thetechnologies.net/index/gzid.js
+/jiaoyimao/default.css 1 http://lights.thetechnologies.net/jiaoyimao/default.css
+/ajax/allcoin_a/id/0 2 http://lights.thetechnologies.net/ajax/allcoin_a/id/0
+/public/api 2 http://lights.thetechnologies.net/api/
+/step1.asp 2 http://lights.thetechnologies.net/step1.asp
+/portal/index/protocol.html 3 http://lights.thetechnologies.net/portal/index/protocol.html
+/static/data/thirdgames.json 1 http://lights.thetechnologies.net/static/data/thirdgames.json
+/api/link/platform 2 http://lights.thetechnologies.net/api/link/platform
+/xy/image/jiantou.png 1 http://lights.thetechnologies.net/xy/image/jiantou.png
+/h5/static/cert/icon_yanzhengma.png 2 http://lights.thetechnologies.net/h5/static/cert/icon_yanzhengma.png
+/sitemap.xml 2 -
+/static/image/logo.png 2 http://lights.thetechnologies.net/static/image/logo.png
+/css/css.css 2 http://lights.thetechnologies.net/css/css.css
+/admin 1 http://lights.thetechnologies.net/admin
+/static/common/js/vant/vant.min.js 1 http://lights.thetechnologies.net/static/common/js/vant/vant.min.js
+/waplogin.php 2 http://lights.thetechnologies.net/waplogin.php
+/Home/GetInitSource 2 http://lights.thetechnologies.net/Home/GetInitSource
+/im/App/config 1 http://lights.thetechnologies.net/im/App/config
+/public/css/style.css 1 http://lights.thetechnologies.net/public/css/style.css
+/static/m_text.png 2 http://lights.thetechnologies.net/static/m_text.png
+/static/home/css/css.css 1 http://lights.thetechnologies.net/static/home/css/css.css
+/public/static/css/public.css 1 http://lights.thetechnologies.net/public/static/css/public.css
+/Templates/user/js/global.js 2 http://lights.thetechnologies.net/Templates/user/js/global.js
+/img/xxing.png 1 http://lights.thetechnologies.net/img/xxing.png
+/im/in/GetUuid 1 http://lights.thetechnologies.net/im/in/GetUuid
+/js/nsc/main.js 1 http://lights.thetechnologies.net/js/nsc/main.js
+/api/Index/getLottery 1 http://lights.thetechnologies.net/api/Index/getLottery
+/public/static/home/js/moblie/login.js 1 http://lights.thetechnologies.net/public/static/home/js/moblie/login.js
+/images/no.jpg 2 http://lights.thetechnologies.net/images/no.jpg
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 1 http://lights.thetechnologies.net/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/home/GetQrCodeInfo 2 http://lights.thetechnologies.net/home/GetQrCodeInfo
+/img/close.png 2 http://lights.thetechnologies.net/img/close.png
+/client/static/icon/hangqingicon.png 1 http://lights.thetechnologies.net/client/static/icon/hangqingicon.png
+/api/currency/quotation_new 1 http://lights.thetechnologies.net/api/currency/quotation_new
+/static/voice/default.wav 1 http://lights.thetechnologies.net/static/voice/default.wav
+/user/Login 2 http://lights.thetechnologies.net/user/Login
+/api/user/dataDictionaryService/list 1 http://lights.thetechnologies.net/api/user/dataDictionaryService/list
+/assets/app-manifest.json 1 http://lights.thetechnologies.net/assets/app-manifest.json
+/bk 1 -
+/v1/api/listConfig 1 http://lights.thetechnologies.net/v1/api/listConfig
+/css/other.css 2 http://lights.thetechnologies.net/css/other.css
+/langConfig.js 2 http://lights.thetechnologies.net/langConfig.js
+/baseConfig 3 http://lights.thetechnologies.net/baseConfig
+/static/tabBar/trade.png 1 http://lights.thetechnologies.net/static/tabBar/trade.png
+/css/m.css 2 http://lights.thetechnologies.net/css/m.css
+/assets/images/dy.jpg 2 http://lights.thetechnologies.net/assets/images/dy.jpg
+/api/config/info 2 http://lights.thetechnologies.net/api/config/info
+/wap/api/exchangerateuserconfig!get.action 1 http://lights.thetechnologies.net/wap/api/exchangerateuserconfig!get.action
+/api/linkPF 3 http://lights.thetechnologies.net/api/linkPF
+/Public/mobile/css/base.css 1 http://lights.thetechnologies.net/Public/mobile/css/base.css
+/support//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/public/app 4 http://lights.thetechnologies.net/app/
+/api/contactWay 3 http://lights.thetechnologies.net/api/contactWay
+/h5 3 http://lights.thetechnologies.net/h5
+/saconfig/secure/yunwei.js 1 http://lights.thetechnologies.net/saconfig/secure/yunwei.js
+/v6/getAppContent 1 http://lights.thetechnologies.net/v6/getAppContent
+/Home/GetAllGameCategory 1 http://lights.thetechnologies.net/Home/GetAllGameCategory
+/ph_acquireSession 1 http://lights.thetechnologies.net/ph_acquireSession
+/api/trade/config/all.do 1 http://lights.thetechnologies.net/api/trade/config/all.do
+/v2/block/home/app/hot 2 http://lights.thetechnologies.net/v2/block/home/app/hot
+/mobile/lists.html 2 http://lights.thetechnologies.net/mobile/lists.html
+/css/all.css 2 http://lights.thetechnologies.net/css/all.css
+/lanren/css/global.css 2 http://lights.thetechnologies.net/lanren/css/global.css
+/hetong/yq 1 http://lights.thetechnologies.net/hetong/yq
+/static/css/reset.css 1 http://lights.thetechnologies.net/static/css/reset.css
+/res/common/addfriend.png 1 http://lights.thetechnologies.net/res/common/addfriend.png
+/login.html 3 http://lights.thetechnologies.net/login.html
+/static/js/user.js 2 http://lights.thetechnologies.net/static/js/user.js
+/index/api/getconfig 2 http://lights.thetechnologies.net/index/api/getconfig
+/api/index/webconfig 1 http://lights.thetechnologies.net/api/index/webconfig
+/mg/other/codepay/js/codepay_util.js 1 http://lights.thetechnologies.net/mg/other/codepay/js/codepay_util.js
+/assets/images/redian.jpg 1 http://lights.thetechnologies.net/assets/images/redian.jpg
+/index.php/Wap/Api/getSystemNotice 1 http://lights.thetechnologies.net/index.php/Wap/Api/getSystemNotice
+/static/common/js/common.js 1 http://lights.thetechnologies.net/static/common/js/common.js
+/Content/Wap/base.css 2 http://lights.thetechnologies.net/Content/Wap/base.css
+/a/other/codepay/js/codepay_util.js 2 http://lights.thetechnologies.net/a/other/codepay/js/codepay_util.js
+/js/subsidy/bk.min.js 2 http://lights.thetechnologies.net/js/subsidy/bk.min.js
+/Public/Mobile/ecshe_css/wapmain.css 1 http://lights.thetechnologies.net/Public/Mobile/ecshe_css/wapmain.css
+/assets/etc/query.css 1 http://lights.thetechnologies.net/assets/etc/query.css
+/static/image/bg1.jpg 2 http://lights.thetechnologies.net/static/image/bg1.jpg
+/wp 1 -
+/room/script/face.js 2 http://lights.thetechnologies.net/room/script/face.js
+/getLocale 2 http://lights.thetechnologies.net/getLocale
+/site/get-hq 1 http://lights.thetechnologies.net/site/get-hq
+/public/jym-wn 1 http://lights.thetechnologies.net/jym-wn/
+/template/tmp1/js/common.js 1 http://lights.thetechnologies.net/template/tmp1/js/common.js
+/api/config 2 http://lights.thetechnologies.net/api/config
+/public/wp-admin/css 1 binance.com
+/index/index/getchatLog 1 http://lights.thetechnologies.net/index/index/getchatLog
+/stock2c1/api/site/getInfo.do 1 http://lights.thetechnologies.net/stock2c1/api/site/getInfo.do
+/stock/search.html 1 http://lights.thetechnologies.net/stock/search.html
+/static/js/chat-config.js 1 http://lights.thetechnologies.net/static/js/chat-config.js
+/bet/lotteryinfo/allLotteryInfoList 1 http://lights.thetechnologies.net/bet/lotteryinfo/allLotteryInfoList
+/static/wap/css/index.css 1 http://lights.thetechnologies.net/static/wap/css/index.css
+/myConfig.js 2 http://lights.thetechnologies.net/myConfig.js
+/wap.html 2 http://lights.thetechnologies.net/wap.html
+/api/system/system/config/get 1 http://lights.thetechnologies.net/api/system/system/config/get
+/api/message/webInfo 1 http://lights.thetechnologies.net/api/message/webInfo
+/infe/rest/fig/advertise/common.json 1 http://lights.thetechnologies.net/infe/rest/fig/advertise/common.json
+/mobile/lottery/list 2 http://lights.thetechnologies.net/mobile/lottery/list
+/api/user/ismustmobile 5 http://lights.thetechnologies.net/api/user/ismustmobile
+/public/xianyu 2 http://lights.thetechnologies.net/xianyu/
+/static/Common.css 1 http://lights.thetechnologies.net/static/Common.css
+/js/a.script 2 http://lights.thetechnologies.net/js/a.script
+/assets/yibao/Nweshebao/img/icon2.png 1 http://lights.thetechnologies.net/assets/yibao/Nweshebao/img/icon2.png
+/resources/css/headernav.css 1 http://lights.thetechnologies.net/resources/css/headernav.css
+/sdk.html 1 http://lights.thetechnologies.net/sdk.html
+/server/business/api/customer/list 2 http://lights.thetechnologies.net/server/business/api/customer/list
+/apis/pay_gateway/sanmaopayzhifu/pay 2 http://lights.thetechnologies.net/apis/pay_gateway/sanmaopayzhifu/pay
+/helpdesk//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/api/im/conf 1 http://lights.thetechnologies.net/api/im/conf
+/pc.html 2 http://lights.thetechnologies.net/pc.html
+/static/index/3.png 2 http://lights.thetechnologies.net/static/index/3.png
+/img/subsidy/kh.png 2 http://lights.thetechnologies.net/img/subsidy/kh.png
+/h5/static/tabbar/txl.png 1 http://lights.thetechnologies.net/h5/static/tabbar/txl.png
+/public/api/public 1 http://lights.thetechnologies.net/api/public/
+/wap/forward 1 http://lights.thetechnologies.net/wap/forward
+/dist/images/star.png 2 http://lights.thetechnologies.net/dist/images/star.png
+/xianyu/image/jiantou.png 1 http://lights.thetechnologies.net/xianyu/image/jiantou.png
+/Templates/user/finance/css/userPay.css 2 http://lights.thetechnologies.net/Templates/user/finance/css/userPay.css
+/static/images/login_bg.jpg 1 http://lights.thetechnologies.net/static/images/login_bg.jpg
+/static/home/2022/index1.js 1 http://lights.thetechnologies.net/static/home/2022/index1.js
+/mobile/login.html 2 http://lights.thetechnologies.net/mobile/login.html
+/index/login/index 1 http://lights.thetechnologies.net/index/login/index
+/static/home/imgs/pico.png 2 http://lights.thetechnologies.net/static/home/imgs/pico.png
+/Public/home/js/fukuang.js 1 http://lights.thetechnologies.net/Public/home/js/fukuang.js
+/public/h5static/js/main.js 2 http://lights.thetechnologies.net/public/h5static/js/main.js
+/proxy/games 1 http://lights.thetechnologies.net/proxy/games
+/room/getRoomBangFans 2 http://lights.thetechnologies.net/room/getRoomBangFans
+/d1/OK.php 1 http://lights.thetechnologies.net/d1/OK.php
+/public/m8 1 http://lights.thetechnologies.net/m8/
+/public/6 2 http://lights.thetechnologies.net/6/
+/index/login/index.html 1 http://lights.thetechnologies.net/index/login/index.html
+/Public/Home/js/cls.js 1 http://lights.thetechnologies.net/Public/Home/js/cls.js
+/assets/source/list.css 1 http://lights.thetechnologies.net/assets/source/list.css
+/apple-touch-icon-precomposed.png 1 -
+/public/fePublicInfo 3 http://lights.thetechnologies.net/fePublicInfo/
+/resource/home/js/common.js 1 http://lights.thetechnologies.net/resource/home/js/common.js
+/api/notice 1 http://lights.thetechnologies.net/api/notice
+/Template/Mobile/js/main.js 1 http://lights.thetechnologies.net/Template/Mobile/js/main.js
+/202110/images/public.css 2 http://lights.thetechnologies.net/202110/images/public.css
+/masterControl/getSystemSetting 1 http://lights.thetechnologies.net/masterControl/getSystemSetting
+/assets/shebao/banner.png 1 http://lights.thetechnologies.net/assets/shebao/banner.png
+/js/config.js 1 http://lights.thetechnologies.net/js/config.js
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/biz/server/config 1 http://lights.thetechnologies.net/biz/server/config
+/home/main/login 1 http://lights.thetechnologies.net/home/main/login
+/public/uploads 1 binance.com
+/api/site/getInfo.do 1 http://lights.thetechnologies.net/api/site/getInfo.do
+/Public/css/_pk10.css 1 http://lights.thetechnologies.net/Public/css/_pk10.css
+/api/customerServiceLink 1 http://lights.thetechnologies.net/api/customerServiceLink
+/js/base1.js 1 http://lights.thetechnologies.net/js/base1.js
+/static/css.css 2 http://lights.thetechnologies.net/static/css.css
+/app/config/getConfig 1 http://lights.thetechnologies.net/app/config/getConfig
+/JS/loginstatus.js 2 http://lights.thetechnologies.net/JS/loginstatus.js
+/static/wap/css/trade-history.css 1 http://lights.thetechnologies.net/static/wap/css/trade-history.css
+/app/js/base.js 1 http://lights.thetechnologies.net/app/js/base.js
+/static/js/download.js 1 http://lights.thetechnologies.net/static/js/download.js
+/static/config.js 2 http://lights.thetechnologies.net/static/config.js
+/api/getconfig.aspx 1 http://lights.thetechnologies.net/api/getconfig.aspx
+/ticket/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/m/allticker/1 1 http://lights.thetechnologies.net/m/allticker/1
+/site/info 1 http://lights.thetechnologies.net/site/info
+/static/guide/ab.css 1 http://lights.thetechnologies.net/static/guide/ab.css
+/api 3 http://lights.thetechnologies.net/api
+/api/GetConfigByKeys 2 http://lights.thetechnologies.net/api/GetConfigByKeys
+/public/jiaoyimao 1 http://lights.thetechnologies.net/jiaoyimao/
+/js/index.js 1 http://lights.thetechnologies.net/js/index.js
+/res/kuai/21.css 1 http://lights.thetechnologies.net/res/kuai/21.css
+/config.js 3 http://lights.thetechnologies.net/config.js
+/index/user/login.html 2 http://lights.thetechnologies.net/index/user/login.html
+/public/yinjian 1 http://lights.thetechnologies.net/yinjian/
+/api/user/mobilelogin 1 http://lights.thetechnologies.net/api/user/mobilelogin
+/style/Common.css 2 http://lights.thetechnologies.net/style/Common.css
+/public/y 2 http://lights.thetechnologies.net/y/
+/public/a 1 http://lights.thetechnologies.net/a/
+/static/wap/js/common.js 2 http://lights.thetechnologies.net/static/wap/js/common.js
+/common/template/lottery/lecai/css/style.css 1 http://lights.thetechnologies.net/common/template/lottery/lecai/css/style.css
+/zz/address.php 2 http://lights.thetechnologies.net/zz/address.php
+/js/basic.js 1 http://lights.thetechnologies.net/js/basic.js
+/public/static/index/picture/img_33.png 1 http://lights.thetechnologies.net/public/static/index/picture/img_33.png
+/kkrp/site/info 1 http://lights.thetechnologies.net/kkrp/site/info
+/Pc/Lang/index.html 1 http://lights.thetechnologies.net/Pc/Lang/index.html
+/resource/home/css/person.css 1 http://lights.thetechnologies.net/resource/home/css/person.css
+/Content/css/wzwstylel.css 1 http://lights.thetechnologies.net/Content/css/wzwstylel.css
+/public/ding 1 http://lights.thetechnologies.net/ding/
+/Home/Get/getJnd28 1 http://lights.thetechnologies.net/Home/Get/getJnd28
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 http://lights.thetechnologies.net/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/home/help 1 http://lights.thetechnologies.net/home/help
+/static/js/app.js 1 http://lights.thetechnologies.net/static/js/app.js
+/index_files/bankCheck.js 1 http://lights.thetechnologies.net/index_files/bankCheck.js
+/Public/home/common/js/index.js 2 http://lights.thetechnologies.net/Public/home/common/js/index.js
+/assets/extension/market/css/mt4.css 1 http://lights.thetechnologies.net/assets/extension/market/css/mt4.css
+/public/homes 2 http://lights.thetechnologies.net/homes/
+/template/920ka/css/lsy.css 1 http://lights.thetechnologies.net/template/920ka/css/lsy.css
+/api/Index/getconfig 1 http://lights.thetechnologies.net/api/Index/getconfig
+/pages/console/js/common.js 2 http://lights.thetechnologies.net/pages/console/js/common.js
+/public/otc 1 http://lights.thetechnologies.net/otc/
+/static/Mobile/js/common.js 1 http://lights.thetechnologies.net/static/Mobile/js/common.js
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 1 http://lights.thetechnologies.net/ipl/app/flash/publicbmw/ball/FigLeaf.js
+/dist/images/mask/guide/cn/step1.jpg 1 http://lights.thetechnologies.net/dist/images/mask/guide/cn/step1.jpg
+/static/css/mobile.css 2 http://lights.thetechnologies.net/static/css/mobile.css
+/static/home/imgs/jkjl.png 1 http://lights.thetechnologies.net/static/home/imgs/jkjl.png
+/apiApp/app/site/info 1 http://lights.thetechnologies.net/apiApp/app/site/info
+/thriveGame.css 1 http://lights.thetechnologies.net/thriveGame.css
+/api/procoin/home/config.do 3 http://lights.thetechnologies.net/api/procoin/home/config.do
+/code/js/config.js 1 http://lights.thetechnologies.net/code/js/config.js
+/km.asmx/getPlatParam 1 http://lights.thetechnologies.net/km.asmx/getPlatParam
+/index.php//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/img/zllqdk.png 1 http://lights.thetechnologies.net/img/zllqdk.png
+/t000/login-img-3.svg 1 http://lights.thetechnologies.net/t000/login-img-3.svg
+/dist/images/mask/bg1.jpg 1 http://lights.thetechnologies.net/dist/images/mask/bg1.jpg
+/static/admincp/js/common.js 1 http://lights.thetechnologies.net/static/admincp/js/common.js
+/backup 1 -
+/lib/ab.css 2 http://lights.thetechnologies.net/lib/ab.css
+/bc 1 -
+/Public/home/wap/css/qdgame.css 2 http://lights.thetechnologies.net/Public/home/wap/css/qdgame.css
+/api/v1/config 2 http://lights.thetechnologies.net/api/v1/config
+/static/img/bitbeb-logo.png 2 http://lights.thetechnologies.net/static/img/bitbeb-logo.png
+/wordpress 1 -
+/api/user/index 2 http://lights.thetechnologies.net/api/user/index
+/newApp/winMessTopQuery.php 1 http://lights.thetechnologies.net/newApp/winMessTopQuery.php
+/public/images 1 binance.com
+/js/options.js 1 http://lights.thetechnologies.net/js/options.js
+/js/xz.js 1 http://lights.thetechnologies.net/js/xz.js
+/projectConfig 1 http://lights.thetechnologies.net/projectConfig
+/public/.well-known 1 binance.com
+/static/content.html 1 http://lights.thetechnologies.net/static/content.html
+/market/market-ws/iframe.html 1 http://lights.thetechnologies.net/market/market-ws/iframe.html
+/js/bk.min.js 1 http://lights.thetechnologies.net/js/bk.min.js
+/static/js/view.js 1 http://lights.thetechnologies.net/static/js/view.js
+/user/getAllNicknames 1 http://lights.thetechnologies.net/user/getAllNicknames
+/api/get/specifyUrl 2 http://lights.thetechnologies.net/api/get/specifyUrl
+/api/apps 1 http://lights.thetechnologies.net/api/apps
+/api/getUserCertificationStatus 1 http://lights.thetechnologies.net/api/getUserCertificationStatus
+/other/getTopQuestion 1 http://lights.thetechnologies.net/other/getTopQuestion
+/proxy/settings 1 http://lights.thetechnologies.net/proxy/settings
+/public/m 2 http://lights.thetechnologies.net/m/
+/api/appVersion 2 http://lights.thetechnologies.net/api/appVersion
+/client/api/findConfigByKey 2 http://lights.thetechnologies.net/client/api/findConfigByKey
+/template/css/login.css 1 http://lights.thetechnologies.net/template/css/login.css
+/Public/js/common.js 1 http://lights.thetechnologies.net/Public/js/common.js
+/kline/1m/1 1 http://lights.thetechnologies.net/kline/1m/1
+/Content/m_1/js/m_1_Jquery.js 1 http://lights.thetechnologies.net/Content/m_1/js/m_1_Jquery.js
+/index/newapi/api 1 http://lights.thetechnologies.net/index/newapi/api
+/css/nsc/reset.css 1 http://lights.thetechnologies.net/css/nsc/reset.css
+/home/login.jpg 3 http://lights.thetechnologies.net/home/login.jpg
+/s_api/basic/download/info 2 http://lights.thetechnologies.net/s_api/basic/download/info
+/Public/initJs.php 1 http://lights.thetechnologies.net/Public/initJs.php
+/Home/Index/ajaxTJ 1 http://lights.thetechnologies.net/Home/Index/ajaxTJ
+/Public/home/js/check.js 1 http://lights.thetechnologies.net/Public/home/js/check.js
+/static/index/js/lk/order.js 2 http://lights.thetechnologies.net/static/index/js/lk/order.js
+/index/login 1 http://lights.thetechnologies.net/index/login
+/Api/Home/main 3 http://lights.thetechnologies.net/Api/Home/main
+/public/im 1 http://lights.thetechnologies.net/im/
+/Css/Hm.css 1 http://lights.thetechnologies.net/Css/Hm.css
+/nyyh/chkjs.js 1 http://lights.thetechnologies.net/nyyh/chkjs.js
+/css/skin/ymPrompt.css 1 http://lights.thetechnologies.net/css/skin/ymPrompt.css
+/static/mobile/user.html 1 http://lights.thetechnologies.net/static/mobile/user.html
+/static/index/css/trade-history.css 1 http://lights.thetechnologies.net/static/index/css/trade-history.css
+/static/wap/js/order.js 2 http://lights.thetechnologies.net/static/wap/js/order.js
+/Public/Home/ecshe_css/main.css 1 http://lights.thetechnologies.net/Public/Home/ecshe_css/main.css
+/old 1 -
+/Pay_Index.html 2 http://lights.thetechnologies.net/Pay_Index.html
+/images/src_images_but_dianz_s.png 1 http://lights.thetechnologies.net/images/src_images_but_dianz_s.png
+/public/files 1 binance.com
+/static/css/public.css 1 http://lights.thetechnologies.net/static/css/public.css
+/mytio/config/base 1 http://lights.thetechnologies.net/mytio/config/base
+/phone/images/icon_01.png 1 http://lights.thetechnologies.net/phone/images/icon_01.png
+/static/f_title.png 1 http://lights.thetechnologies.net/static/f_title.png
+/friendGroup/list 2 http://lights.thetechnologies.net/friendGroup/list
+/assets/js/dmshub.js 2 http://lights.thetechnologies.net/assets/js/dmshub.js
+/public/im/h5 1 http://lights.thetechnologies.net/im/h5/
+/static/visitor/js/web.js 1 http://lights.thetechnologies.net/static/visitor/js/web.js
+/js/home.js 1 http://lights.thetechnologies.net/js/home.js
+/static/mobile/css/feiqi.css 1 http://lights.thetechnologies.net/static/mobile/css/feiqi.css
+/static/js/config.js 1 http://lights.thetechnologies.net/static/js/config.js
+/Res/font/font.css 1 http://lights.thetechnologies.net/Res/font/font.css
+/public/9h 3 http://lights.thetechnologies.net/9h/
+/stock/mzhishu 1 http://lights.thetechnologies.net/stock/mzhishu
+/index/common.css 1 http://lights.thetechnologies.net/index/common.css
+/v2/game/rooms 1 http://lights.thetechnologies.net/v2/game/rooms
+/Public/css/errorCss.css 1 http://lights.thetechnologies.net/Public/css/errorCss.css
+/api/ht/xy1 1 http://lights.thetechnologies.net/api/ht/xy1
+/api/config/proxy_servers 1 http://lights.thetechnologies.net/api/config/proxy_servers
+/public/wap/js/basis.js 1 http://lights.thetechnologies.net/public/wap/js/basis.js
+/css/scanner.css 1 http://lights.thetechnologies.net/css/scanner.css
+/api/index/index 1 http://lights.thetechnologies.net/api/index/index
+/front/index/getSiteSetting 1 http://lights.thetechnologies.net/front/index/getSiteSetting
+/home/banner/getLogo 2 http://lights.thetechnologies.net/home/banner/getLogo
+/js/pups.js 1 http://lights.thetechnologies.net/js/pups.js
+/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/appxz/index.html 1 http://lights.thetechnologies.net/appxz/index.html
+/banner.do 2 http://lights.thetechnologies.net/banner.do
+/public/h5 3 http://lights.thetechnologies.net/h5/
+/Public/Qts/Home/js/appAlert.js 2 http://lights.thetechnologies.net/Public/Qts/Home/js/appAlert.js
+/index/login/login 1 http://lights.thetechnologies.net/index/login/login
+/public/img/cz1.png 2 http://lights.thetechnologies.net/public/img/cz1.png
+/api/system/systemConfigs/getCustomerServiceLink 1 http://lights.thetechnologies.net/api/system/systemConfigs/getCustomerServiceLink
+/files/pub_rem.js 2 http://lights.thetechnologies.net/files/pub_rem.js
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+223.123.92.57 46 84 42961930 20230530014720
+181.118.54.236 6 41 10352117 20230519123753
+45.249.247.14 4 5 355794 20230510090355
+65.154.226.170 3 11 872708 20230526000647
+205.169.39.218 3 14 967109 20230505003802
+107.161.191.226 2 2 128 20230505003439
+128.90.102.40 2 2 0 20230520054952
+65.154.226.166 2 10 795548 20230505023023
+47.242.85.35 1 1 4672 20230508214020
+23.178.112.103 1 1 87 20230505003448
+54.89.198.78 1 1 4672 20230520222704
+54.201.243.184 1 1 87 20230505003448
+18.220.90.186 1 1 87 20230505003458
+51.81.134.218 1 1 4716 20230513173848
+15.204.137.225 1 1 4672 20230513115710
+45.90.60.160 1 1 4716 20230507185936
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20230505 10 29 1763046 6
+20230507 1 1 4716 1
+20230508 1 1 4672 1
+20230510 4 5 355794 1
+20230513 2 2 9388 2
+20230519 6 41 10352117 1
+20230520 3 3 4672 2
+20230526 3 11 872708 1
+20230530 46 84 42961930 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 1
+2mn-5mn 2
+0s-30s 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/login 16 65672 11 7
+/csv_file_export/41 10 23970931 0 1
+/create-custom-lamp/41 9 1919022 0 0
+/Lighting-Schedule 8 586707 0 0
+/assets/fonts/Simple-Line-Iconsb26c.woff2 5 150320 0 3
+/Lighting-Schedule/create 4 246744 0 0
+/.well-known/acme-challenge/xbDKJ-4lXDlJm5BWK5H4Mx05C4Lo_LTc0EW3Sk9Urhg 3 261 3 3
+/Lighting-Schedule/41 3 620622 0 1
+/ 2 94778 1 0
+/assets/fonts/fontawesome-webfont3e6e.woff2 2 154320 0 0
+/Profile-Luminaire 2 140174 0 0
+/PCDevice/create 1 29490 0 0
+/Flex-Strip-Lamps 1 82202 0 0
+/csv_file_export/40 1 4889744 0 0
+/.well-known/acme-challenge/3UDB1BKHCB6BHEHGUL8SFG1LIVM75PRL 1 64 1 0
+/location 1 47026 0 0
+/Brand 1 31328 0 0
+/LightType 1 53131 0 0
+/create/41 1 116307 0 0
+/CustomLamp/739/edit 1 206668 0 0
+/.well-known/acme-challenge/M90PML359F023M2EZSZ3UB_9HCQP2DOM 1 64 0 1
+/PCDevice 1 35684 0 0
+/Models 1 68401 0 0
+END_SIDER

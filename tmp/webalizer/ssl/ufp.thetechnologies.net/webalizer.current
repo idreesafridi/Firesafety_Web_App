@@ -1,0 +1,154 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 05:24:06
+2023 7 6 5 24 6
+28 10 3 5 7 2 6671811 17 4 0
+1 17 17 3 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+9 3 880700 1 4 1
+2 1 4523 1 2 1
+0 0 0 0 0 0
+17 6 5786588 1 11 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 6603 0
+0 0 0 0
+0 0 0 0
+2 1 4523 2
+8 3 874097 4
+17 6 5786588 11
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/Quotes
+0 1 38741360 1867787 0 0
+/login
+0 3 0 12387 1 0
+/home
+0 1 0 421583 0 0
+/
+0 4 0 1686332 3 1
+/Category
+0 1 38741472 58567 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cerebro-ldc-prod-103.kaspersky-labs.com
+0 2 1 4523 1 1688441702
+/login
+39.33.226.111
+0 17 6 5786588 2 1688621044
+/
+cpcl47.hostingcare.net
+0 9 3 880700 1 1688359462
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+39.33.226.111
+0 17 6 5786588 2 1688621044
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://ufp.thetechnologies.net/home
+0 2
+https://ufp.thetechnologies.net/Category
+0 2
+- (Direct Request)
+0 4
+https://ufp.thetechnologies.net/login
+0 8
+https://ufp.thetechnologies.net/
+0 7
+https://ufp.thetechnologies.net/Quotes
+0 4
+https://ufp.thetechnologies.net
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 26
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

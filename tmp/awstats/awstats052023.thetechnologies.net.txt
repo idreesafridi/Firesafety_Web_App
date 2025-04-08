@@ -1,0 +1,343 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2688                
+POS_VISITOR 10940               
+POS_DAY 11167               
+POS_DOMAIN 3228                
+POS_LOGIN 3466                
+POS_ROBOT 3621                
+POS_WORMS 3753                
+POS_EMAILSENDER 3884                
+POS_EMAILRECEIVER 4027                
+POS_SESSION 11328               
+POS_SIDER 11484               
+POS_FILETYPES 4162                
+POS_DOWNLOADS 4247                
+POS_OS 4295                
+POS_BROWSER 4370                
+POS_SCREENSIZE 4460                
+POS_UNKNOWNREFERER 4534                
+POS_UNKNOWNREFERERBROWSER 4621                
+POS_ORIGIN 4703                
+POS_SEREFERRALS 4833                
+POS_PAGEREFS 4977                
+POS_SEARCHWORDS 5125                
+POS_KEYWORDS 5277                
+POS_MISC 2352                
+POS_ERRORS 5336                
+POS_CLUSTER 3322                
+POS_SIDER_404 5422                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601011413 13 2379 10013137920442
+FirstTime 0
+LastTime 20230527080020
+LastUpdate 20230601084754 13 0 12 0 0
+TotalVisits 6                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 8 0
+1 0 0 0 7 12 0
+2 0 0 0 28 28 0
+3 1 1 33945 24 26 0
+4 1 1 33945 28 56 0
+5 0 0 0 36 37 0
+6 0 0 0 18 18 0
+7 1 1 33945 15 17 0
+8 1 1 33945 9 12 0
+9 2 2 67890 29 31 0
+10 0 0 0 10 10 0
+11 0 0 0 16 22 0
+12 0 0 0 24 38 0
+13 0 0 0 22 35 0
+14 0 0 0 23 25 0
+15 0 0 0 8 12 0
+16 0 0 0 31 32 0
+17 1 1 33945 9 9 0
+18 0 0 0 43 65 0
+19 0 0 0 14 34 0
+20 0 0 0 15 28 0
+21 0 0 0 11 15 0
+22 0 0 0 11 12 0
+23 0 0 0 7 8 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+au 5 5 169725
+pk 2 2 67890
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+Unknown 7 237615 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+win10 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+chrome113.0.0.0 3 3
+chrome112.0.0.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 7
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 554 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 107
+/wp-content/themes/seotheme/db.php 1 www.google.com
+/ticket/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-includes/ID3/.well-known/pki-validation/index.php 2 http://simplesite.com
+/wp-includes/PHPMailer/.well-known/pki-validation/index.php 2 http://simplesite.com
+/apple-touch-icon-120x120.png 2 -
+/old/wp-content/uploads/2022/05/index.php 1 http://simplesite.com
+/old 3 -
+/wp-includes/blocks/tag-cloud/index.php 1 http://simplesite.com
+/wp-content/plugins/easy-digital-downloads/assets/js/edd-admin-dashboard.js 1 thetechnologies.net
+/robots.txt 47 -
+/wp-json/wp/v2/posts 1 thetechnologies.net/wp-json/wp/v2/posts
+/cgi-bin/.well-known/pki-validation/index.php 2 http://simplesite.com
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 -
+/helpdesk//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/ 276 -
+/.well-known/991176.php 1 http://simplesite.com
+/autoload_classmap.php 2 http://simplesite.com
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 -
+/wp-includes/SimplePie/.well-known/pki-validation/index.php 1 http://simplesite.com
+/wp-includes/SimplePie/HTTP/index.php 1 http://simplesite.com
+/wp-includes/Requests/Response/index.php 2 http://simplesite.com
+/wp-2019.php 1 http://simplesite.com
+/wp-content/updates.php 4 www.google.com
+/.well-known/security.txt 7 -
+/main 3 -
+/radio.php 1 http://simplesite.com
+/bk 3 -
+/wp-content/4price.php 1 http://simplesite.com
+/apple-touch-icon-120x120-precomposed.png 2 -
+/wp-admin/network/config-info.php 1 http://simplesite.com
+/wp-includes/ 1 -
+/wp-admin/wp-coomments-post.php 1 http://simplesite.com
+/apple-touch-icon-precomposed.png 6 -
+/wp-content/plugins/anttt/simple.php 1 http://simplesite.com
+/wp-pref.php 1 http://simplesite.com
+/wordpress 3 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-content/uploads/2023/index.php 1 http://simplesite.com
+/wp-content/plugins/akismeet/0z.php 1 http://simplesite.com
+/shell20211028.php 1 http://simplesite.com
+/support//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/sitemap.xml 1 -
+/wp-includes/js/tinymce/plugins/wpview/index.php 1 http://simplesite.com
+/wp-content/plugins/TOPXOH/XleetSeller85.php 1 http://simplesite.com
+/wp-content/themes/twentyfifteen/404.php 1 http://simplesite.com
+/wp-admin/network/softwars.php 1 http://simplesite.com
+/wp-content/plugins/cong.php 1 http://simplesite.com
+/mari.php 1 http://simplesite.com
+/apple-touch-icon.png 6 -
+/wp-includes/SimplePie/Decode/HTML/wp-load.php 1 http://simplesite.com
+/wp-admin/network/nationals.php 1 http://simplesite.com
+/ads.txt 33 -
+/wp-links-opml.php 1 http://simplesite.com
+/wp-content/plugins/woocommerce-payments/changelog.txt 1 www.google.com
+/wp-includes/SimplePie/Captions.php 1 -
+/zhrmqsqx1.php 1 http://simplesite.com
+/wp-admin/network/.well-known/pki-validation/index.php 1 http://simplesite.com
+/web/wp-content/plugins/wp-daft/miin.php 1 http://simplesite.com
+/wp-content/plugins/seoplugins/bd.php 1 http://simplesite.com
+/wp-includes/blocks/file/index.php 1 http://simplesite.com
+/index.php 1 thetechnologies.net
+/wp-admin/moon.php 1 http://simplesite.com
+/humans.txt 3 -
+/wp-includes/customize/update.php 1 http://simplesite.com
+/wp-includes/IXR/.well-known/pki-validation/index.php 2 http://simplesite.com
+/wp-admin/toolsbase-ws.php 1 http://simplesite.com
+/backup 3 -
+/wp-admin/images/index.php 1 http://simplesite.com
+/wp-includes/css/dist/editor/fxp.php 1 http://simplesite.com
+/.well-known/ 5 binance.com
+/wp-includes/index.php 1 http://simplesite.com
+/wp-content/themes/seotheme/mar.php.suspected 2 http://simplesite.com
+/new 3 -
+/wp-content/plugins/wordfence-old/modules/login-security/views/options/option-code.php 2 http://simplesite.com
+/wp-content/themes/index.php 1 http://simplesite.com
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-content/wp-content.php 1 -
+/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-admin/css/ 5 binance.com
+/wp-content/small.php 1 http://simplesite.com
+/wp-content/plugins/akismeet/local.php 2 http://simplesite.com
+/inputs.php 1 thetechnologies.net
+/wp-content/themes/twentytwenty/content.php 1 http://simplesite.com
+/wp-includes/customize/themes.php 4 http://simplesite.com
+//wp-content/themes/seotheme/db.php 1 -
+/wp-content/plugins/seoox/alfa-rex.php 1 -
+/api/index.php/v1/config/application 28 -
+/ss.php 1 http://simplesite.com
+/archivarix.cms.php 1 -
+/wp-content/plugins/column/t62.php 1 http://simplesite.com
+/wp 3 -
+/wp-content/upgrade/index.php 1 http://simplesite.com
+/wp-admin/maint/.well-known/pki-validation/index.php 1 http://simplesite.com
+/wp-content/plugins/wp-freeform/style.php 2 http://simplesite.com
+/.well-known/pki-validation/index.php 1 http://simplesite.com
+/wp-admin/maint/repair.php 1 http://simplesite.com
+/bc 3 -
+/wp-atom.php 3 http://simplesite.com
+/wp-admin/dropdown.php 1 http://simplesite.com
+/wp-admin/network/subjects.php 1 http://simplesite.com
+/small.php 1 http://simplesite.com
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/cloud.css 2 -
+/home 3 -
+/wp-conflg.php 2 http://simplesite.com
+/wp-content/plugins/gutenberg/zmari.php 1 http://simplesite.com
+/wp-content/themes/seotheme/mar.php 2 http://simplesite.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+101.53.234.74 3 3 101835 20230508090602
+101.53.234.37 2 2 67890 20230527080020
+39.45.47.134 1 1 33945 20230506030621
+39.45.145.63 1 1 33945 20230526170416
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20230505 2 2 67890 2
+20230506 1 1 33945 1
+20230508 1 1 33945 1
+20230526 1 1 33945 1
+20230527 2 2 67890 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/cpanel 7 237615 6 6
+END_SIDER

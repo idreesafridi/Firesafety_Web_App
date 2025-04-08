@@ -1,0 +1,521 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.flower.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2706                
+POS_VISITOR 21763               
+POS_DAY 23174               
+POS_DOMAIN 3421                
+POS_LOGIN 3777                
+POS_ROBOT 3932                
+POS_WORMS 4182                
+POS_EMAILSENDER 4313                
+POS_EMAILRECEIVER 4456                
+POS_SESSION 23610               
+POS_SIDER 23816               
+POS_FILETYPES 4591                
+POS_DOWNLOADS 4895                
+POS_OS 4943                
+POS_BROWSER 5147                
+POS_SCREENSIZE 5461                
+POS_UNKNOWNREFERER 5535                
+POS_UNKNOWNREFERERBROWSER 5802                
+POS_ORIGIN 6064                
+POS_SEREFERRALS 6202                
+POS_PAGEREFS 6365                
+POS_SEARCHWORDS 6513                
+POS_KEYWORDS 6665                
+POS_MISC 2370                
+POS_ERRORS 6724                
+POS_CLUSTER 3633                
+POS_SIDER_404 6863                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230604000927 1 0 12548265434238
+FirstTime 20230502030132
+LastTime 20230530233443
+LastUpdate 20230604085253 1 0 0 0 0
+TotalVisits 38                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 9 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 54 165 8720435 29 263 5648914
+1 111 236 14340945 58 327 7855228
+2 57 99 9737487 39 132 11006314
+3 17 118 6515350 4 40 333393
+4 25 172 5614632 0 14 79236
+5 0 0 0 0 0 0
+6 13 49 1492779 1 13 79682
+7 0 0 0 0 0 0
+8 23 214 9754251 1 15 92888
+9 1 1 94343 1 1 6603
+10 0 0 0 0 0 0
+11 20 123 6777386 2 40 251790
+12 0 0 0 0 0 0
+13 2 2 61655 2 13 166978
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 29 126 5261906 7 18 75213
+17 0 0 0 0 0 0
+18 167 495 26658571 119 1011 6472504
+19 61 70 3608552 70 522 3360816
+20 24 27 1574515 26 118 729252
+21 0 0 0 0 0 0
+22 27 159 10789272 8 58 333092
+23 3 5 244150 3 3 13206
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+cn 223 547 32290188
+jo 217 688 33551809
+om 110 308 17325645
+au 28 232 12710686
+pk 28 168 10280503
+us 23 87 3753724
+ru 3 29 1144988
+ir 2 2 188686
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bot[\s_+:,\.\;\/\\-] 2 93899 20230515132554 0
+survey 1 94343 20230511033219 0
+no_user_agent 1 102096 20230527004802 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+Unknown 392 15969842 0 0
+jpeg 6 227990 0 0
+css 312 15558266 0 0
+js 457 40771204 0 0
+woff2 69 8532440 0 0
+png 582 13890521 0 0
+jpg 34 5334238 0 0
+html 102 10027833 0 0
+webp 23 518220 0 0
+ttf 14 281680 0 0
+gif 13 35659 0 0
+avif 57 98336 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linux 73 9
+Unknown 13 13
+macosx15 590 237
+ios_iphone 236 50
+win10 745 240
+android10 390 71
+macosx14 2 2
+macosx10 2 2
+android 1 1
+win7 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome113.0.0.0 1122 401
+chrome112.0.5615.121 73 9
+chrome110.0.0.0 1 1
+msie11.0 9 9
+chrome86.0.4240.111 1 1
+chrome99.0.4844.88 96 25
+safari16.4 236 50
+Unknown 13 13
+chrome87.0.4280.88 1 1
+chrome39.0.2171.95 2 2
+firefox82.0 2 2
+mozilla 1 1
+chrome112.0.0.0 504 119
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WhatsApp/2.23.9.77_i 20230530184808
+WhatsApp/2.23.9.75_A 20230513223705
+WhatsApp/2.2318.2_W 20230523180523
+WhatsApp/2.23.8.76_A 20230502115830
+WhatsApp/2.23.10.77_A 20230530164028
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WhatsApp/2.23.8.76_A 20230502115830
+WhatsApp/2.23.10.77_A 20230530164028
+WhatsApp/2.23.9.77_i 20230530184808
+WhatsApp/2.23.9.75_A 20230513223705
+WhatsApp/2.2318.2_W 20230523180523
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 94 111
+From1 0 0
+From2 2 2
+From3 0 0
+From4 538 1948
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 2364 15609492
+206 16 8465533
+500 22 12063516
+302 173 76230
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 138
+/admin/assets/images/avatars/avatar-5.png 163 https://flower.thetechnologies.net/admin/settings
+/admin/category/3/assets/images/avatars/avatar-4.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/edit_vendor/assets/images/avatars/avatar-9.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/customer/assets/images/avatars/avatar-9.png 1 https://flower.thetechnologies.net/admin/customer/24
+/payment/assets/images/favicon.png 2 https://flower.thetechnologies.net/payment/22
+/admin/vendor/31/assets/images/avatars/avatar-3.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/customer/assets/images/avatars/avatar-5.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/customer/assets/images/avatars/avatar-6.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/product_admin/assets/images/avatars/avatar-2.png 10 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/company/assets/images/avatars/avatar-5.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/vendor/31/assets/images/avatars/avatar-1.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/edit_vendor/assets/images/avatars/avatar-1.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/product_admin/assets/images/avatars/avatar-7.png 7 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/company/6/assets/images/avatars/avatar-6.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/vendor/assets/images/avatars/avatar-5.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/assets/images/favicon.png 34 https://flower.thetechnologies.net/login
+/admin/vendor/assets/images/avatars/avatar-3.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/product_admin/24/assets/images/avatars/avatar-3.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/edit_deliever_company/assets/images/avatars/avatar-5.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/product_admin/24/assets/images/avatars/avatar-2.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/customer/assets/images/avatars/avatar-1.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/assets/images/avatars/avatar-3.png 162 https://flower.thetechnologies.net/admin/settings
+/admin/vendor/assets/images/avatars/avatar-10.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/company/6/assets/images/avatars/avatar-4.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/vendor/assets/images/avatars/avatar-9.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/edit_vendor/assets/images/avatars/avatar-11.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/vendor/assets/images/avatars/avatar-11.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/assets/images/avatars/avatar-1.png 191 https://flower.thetechnologies.net/admin/settings
+/admin/vendor/assets/images/avatars/avatar-6.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/category/3/assets/images/avatars/avatar-9.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/category/3/assets/images/avatars/avatar-6.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/customer/assets/images/avatars/avatar-3.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/category/3/assets/images/avatars/avatar-1.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/customer/assets/images/avatars/avatar-7.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/category/3/assets/images/avatars/avatar-11.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/edit_deliever_company/assets/images/avatars/avatar-10.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/product/assets/images/favicon.png 2 https://flower.thetechnologies.net/product/26
+/apple-touch-icon-120x120-precomposed.png 2 -
+/admin/product_admin/24/assets/images/avatars/avatar-9.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/edit_deliever_company/assets/images/avatars/avatar-8.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/product_admin/24/assets/images/avatars/avatar-7.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/shop.html 1 https://flower.thetechnologies.net/
+/admin/category/3/assets/images/avatars/avatar-8.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/company/6/assets/images/avatars/avatar-7.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/assets/images/avatars/avatar-7.png 162 https://flower.thetechnologies.net/admin/settings
+/admin/company/6/assets/images/avatars/avatar-2.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/vendor/assets/images/avatars/avatar-7.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/category/3/assets/images/avatars/avatar-5.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/vendor/31/assets/images/avatars/avatar-4.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/company/6/assets/images/avatars/avatar-1.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/assets/images/avatars/avatar-11.png 160 https://flower.thetechnologies.net/admin/settings
+/admin/vendor/31/assets/images/avatars/avatar-11.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/assets/images/avatars/avatar-8.png 160 https://flower.thetechnologies.net/admin/settings
+/admin/vendor/assets/images/avatars/avatar-1.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/assets/images/avatars/avatar-4.png 161 https://flower.thetechnologies.net/admin/settings
+/admin/vendor/assets/images/avatars/avatar-2.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/company/assets/images/avatars/avatar-2.png 10 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-6.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-4.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/edit_vendor/assets/images/avatars/avatar-6.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/product_admin/assets/images/avatars/avatar-9.png 7 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/customer/assets/images/avatars/avatar-10.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/product_admin/assets/images/avatars/avatar-4.png 8 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/company/6/assets/images/avatars/avatar-10.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/vendor/31/assets/images/avatars/avatar-7.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/product_admin/assets/images/avatars/avatar-3.png 7 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/company/assets/images/avatars/avatar-1.png 10 https://flower.thetechnologies.net/admin/company/create
+/admin/edit_deliever_company/assets/images/avatars/avatar-11.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/product_admin/assets/images/avatars/avatar-6.png 7 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/company/6/assets/images/avatars/avatar-5.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 -
+/admin/assets/images/avatars/avatar-2.png 176 https://flower.thetechnologies.net/admin/settings
+/admin/edit_deliever_company/assets/images/avatars/avatar-2.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/single-product.html 7 https://flower.thetechnologies.net/
+/admin/product_admin/24/assets/images/avatars/avatar-11.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/company/assets/images/avatars/avatar-9.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/customer/assets/images/avatars/avatar-2.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/product_admin/24/assets/images/avatars/avatar-4.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/site/assets/maps/style.min.css.map 1 -
+/admin/product_admin/assets/images/avatars/avatar-5.png 8 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/edit_vendor/assets/images/avatars/avatar-3.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/edit_deliever_company/assets/images/avatars/avatar-1.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/edit_vendor/assets/images/avatars/avatar-2.png 4 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/company/6/assets/images/avatars/avatar-3.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/product_admin/assets/images/avatars/avatar-8.png 8 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/vendor/31/assets/images/avatars/avatar-8.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/vendor/assets/images/avatars/avatar-4.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/edit_deliever_company/assets/images/avatars/avatar-9.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/vendor/assets/images/avatars/avatar-8.png 1 https://flower.thetechnologies.net/admin/vendor/31
+/admin/product_admin/24/assets/images/avatars/avatar-1.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/lo 1 -
+/admin/edit_vendor/assets/images/avatars/avatar-10.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/category/3/assets/images/avatars/avatar-3.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/category/3/assets/images/avatars/avatar-7.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/product_admin/24/assets/images/avatars/avatar-5.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/edit_vendor/assets/images/avatars/avatar-7.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/product_admin/assets/images/avatars/avatar-10.png 7 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/edit_vendor/assets/images/avatars/avatar-8.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/customer/assets/images/favicon.png 2 https://flower.thetechnologies.net/customer/dashboard
+/apple-touch-icon-120x120.png 2 -
+/admin/company/6/assets/images/avatars/avatar-9.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/edit_deliever_company/assets/images/avatars/avatar-3.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/assets/images/avatars/avatar-9.png 159 https://flower.thetechnologies.net/admin/settings
+/admin/product_admin/24/assets/images/avatars/avatar-6.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/product_admin/24/assets/images/avatars/avatar-8.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/admin/customer/assets/images/avatars/avatar-8.png 1 https://flower.thetechnologies.net/admin/customer/24
+/vendor/assets/images/favicon.png 6 https://flower.thetechnologies.net/vendor/dashboard
+/admin/edit_deliever_company/assets/images/avatars/avatar-7.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/edit_vendor/assets/images/avatars/avatar-5.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/customer/order-details/assets/images/favicon.png 1 https://flower.thetechnologies.net/customer/order-details/21
+/admin/company/assets/images/avatars/avatar-8.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/product_admin/24/assets/images/avatars/avatar-10.png 2 https://flower.thetechnologies.net/admin/product_admin/24/edit
+/apple-touch-icon-precomposed.png 2 -
+/admin/customer/assets/images/avatars/avatar-11.png 1 https://flower.thetechnologies.net/admin/customer/24
+/apple-touch-icon.png 2 -
+/admin/customer/assets/images/avatars/avatar-4.png 1 https://flower.thetechnologies.net/admin/customer/24
+/admin/company/6/assets/images/avatars/avatar-11.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/product_admin/assets/images/avatars/avatar-11.png 7 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/edit_deliever_company/assets/images/avatars/avatar-6.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/admin/company/assets/images/avatars/avatar-11.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/category/3/assets/images/avatars/avatar-2.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/vendor/31/assets/images/avatars/avatar-6.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/vendor/31/assets/images/avatars/avatar-10.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/company/assets/images/avatars/avatar-7.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/category/3/assets/images/avatars/avatar-10.png 1 https://flower.thetechnologies.net/admin/category/3/edit
+/admin/edit_vendor/assets/images/avatars/avatar-4.png 3 https://flower.thetechnologies.net/admin/edit_vendor/25
+/admin/vendor/31/assets/images/avatars/avatar-2.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/vendor/order-details/assets/images/favicon.png 1 https://flower.thetechnologies.net/vendor/order-details/28
+/admin/assets/images/avatars/avatar-10.png 160 https://flower.thetechnologies.net/admin/settings
+/admin/assets/images/avatars/avatar-6.png 164 https://flower.thetechnologies.net/admin/settings
+/admin/company/assets/images/avatars/avatar-10.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-3.png 9 https://flower.thetechnologies.net/admin/company/create
+/admin/vendor/31/assets/images/avatars/avatar-5.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+/admin/edit_deliever_company/assets/images/avatars/avatar-4.png 2 https://flower.thetechnologies.net/admin/edit_deliever_company/5
+/cart.json 158 -
+/admin/company/6/assets/images/avatars/avatar-8.png 1 https://flower.thetechnologies.net/admin/company/6/edit
+/admin/product_admin/assets/images/avatars/avatar-1.png 11 https://flower.thetechnologies.net/admin/product_admin/create
+/admin/vendor/31/assets/images/avatars/avatar-9.png 1 https://flower.thetechnologies.net/admin/vendor/31/edit
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+223.123.85.117 132 253 12936669 20230518013122
+188.123.166.222 121 230 10386686 20230530233443
+134.0.204.210 108 306 17263990 20230523184510
+223.123.89.122 74 176 12835813 20230506022327
+46.32.120.190 42 156 9222744 20230523184308
+101.53.234.74 28 232 12710686 20230517112445
+188.247.77.200 25 96 4015314 20230530164428
+223.123.90.3 15 116 6326664 20230502030342
+103.255.7.59 14 43 5895244 20230508012707
+203.101.178.21 11 96 3213338 20230518041150
+188.247.79.162 11 47 1304093 20230516060207
+65.154.226.167 9 73 2363201 20230505084222
+34.150.223.83 9 9 918808 20230530233208
+46.32.127.104 6 7 466237 20230516201358
+37.202.72.8 6 42 3900021 20230513223921
+188.247.78.226 3 29 1144988 20230530164028
+39.45.45.7 2 2 106463 20230502115830
+37.40.43.238 2 2 61655 20230518134730
+5.78.46.229 2 2 188686 20230514110706
+185.176.44.14 2 28 1043384 20230503045308
+45.79.113.187 1 1 94343 20230513062403
+198.12.99.105 1 1 94343 20230517062723
+107.161.20.131 1 1 94343 20230513092011
+144.202.70.79 1 1 94343 20230514034559
+185.51.215.4 1 27 1037242 20230513223831
+188.247.73.60 1 27 1037242 20230513223640
+119.153.111.199 1 27 1065458 20230518084820
+45.77.214.145 1 1 94343 20230514034559
+223.123.102.26 1 1 93899 20230515012903
+223.123.93.201 1 1 97143 20230522113652
+93.159.230.89 1 1 101604 20230530165248
+37.202.72.69 1 27 1037242 20230526011915
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20230502 17 118 6433127 2
+20230503 2 28 1043384 1
+20230505 22 187 8688793 2
+20230506 74 176 12835813 1
+20230508 14 43 5895244 1
+20230513 18 144 10250959 6
+20230514 4 4 377372 3
+20230515 1 1 93899 1
+20230516 29 102 3128240 3
+20230517 16 119 6479437 2
+20230518 146 378 17277120 4
+20230522 1 1 97143 1
+20230523 133 371 21341404 3
+20230526 1 27 1037242 1
+20230530 156 362 16267052 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+0s-30s 17
+30s-2mn 7
+15mn-30mn 3
+2mn-5mn 3
+30mn-1h 4
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 51
+/ 102 10027833 23 15
+/login 60 371438 14 6
+/admin/product_admin 36 1847941 0 1
+/admin/dashboard 31 1669655 0 3
+/checkout 31 1516413 0 0
+/admin/plans 22 1079518 0 2
+/shop 20 855894 0 1
+/vendor/dashboard 20 1409349 0 0
+/images/1680944857.avif 19 30064 0 0
+/images/1680944756.avif 19 32912 0 1
+/images/1680944741.avif 19 35360 0 1
+/add-to-cart 19 21781 0 0
+/site/assets/fonts/fa-brands-400.woff2 15 1119780 0 0
+/site/assets/fonts/fa-light-300.woff2 15 2474520 0 0
+/site/assets/fonts/fa-regular-400.woff2 15 2282700 0 0
+/site/assets/fonts/fa-solid-900.woff2 14 1722840 0 0
+/site/assets/css/vendor/flaticon/flaticon2916.ttf 14 281680 0 0
+/admin/settings 14 676562 0 1
+/admin/category 13 726680 0 0
+/admin/vendor 11 549603 0 0
+/assets/fonts/boxicons.woff2 10 932600 0 1
+/admin/product_attribute 10 529207 0 0
+/admin/company/create 9 434181 0 0
+/shop-search 9 387056 0 0
+/customer/dashboard 8 682513 0 0
+/admin/edit_vendor/25 2 92365 0 0
+/admin/company 7 339781 0 0
+/payment/22 1 10868 0 0
+/vendor/order-details/28 2 170222 0 1
+/admin/category/3/edit 1 46897 0 0
+/admin/company/6/edit 1 47989 0 1
+/admin/customer/24 1 48266 0 0
+/admin/edit_deliever_company/5 1 46191 0 0
+/admin/delivery_balance 5 233273 0 0
+/admin/edit_vendor/31 1 46182 0 0
+/payment/25 1 10868 0 0
+/admin/product_admin/24/edit 2 105293 0 0
+/admin/users 7 349989 0 0
+/admin/vendor/31 1 49529 0 0
+/cart 6 251655 0 0
+/product/26 3 113577 0 1
+/admin/edit_deliever_company/6 1 46191 0 0
+/payment/31 1 10868 0 0
+/admin/customers 4 187780 0 0
+/admin/vendor/31/edit 1 48546 0 0
+/thankyou 7 223738 0 1
+/register 8 70845 1 1
+/admin/coupons 3 151755 0 0
+/remove-from-cart 3 0 0 0
+/admin/product_admin/create 7 373428 0 1
+/customer/order-details/21 2 135955 0 0
+END_SIDER

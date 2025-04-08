@@ -1,0 +1,294 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202307 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.event.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2702                
+POS_VISITOR 7100                
+POS_DAY 7220                
+POS_DOMAIN 3228                
+POS_LOGIN 3459                
+POS_ROBOT 3614                
+POS_WORMS 3794                
+POS_EMAILSENDER 3925                
+POS_EMAILRECEIVER 4068                
+POS_SESSION 7330                
+POS_SIDER 7493                
+POS_FILETYPES 4203                
+POS_DOWNLOADS 4426                
+POS_OS 4502                
+POS_BROWSER 4608                
+POS_SCREENSIZE 4721                
+POS_UNKNOWNREFERER 4795                
+POS_UNKNOWNREFERERBROWSER 4882                
+POS_ORIGIN 4964                
+POS_SEREFERRALS 5100                
+POS_PAGEREFS 5263                
+POS_SEARCHWORDS 5411                
+POS_KEYWORDS 5563                
+POS_MISC 2366                
+POS_ERRORS 5622                
+POS_CLUSTER 3315                
+POS_SIDER_404 5742                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230706015740 2 256 9959266524609
+FirstTime 20230703010141
+LastTime 20230705064429
+LastUpdate 20230706085544 2 0 2 0 0
+TotalVisits 3                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 2 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 6609
+1 1 1 23942 1 1 6609
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 51 278 19983177 43 200 8152859
+6 100 310 22055705 58 588 3743781
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 152 589 42045172
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+facebookexternalhit/ 10 793166 20230705055958 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 17 455060 0 0
+mp3 1 17652 0 0
+png 97 4694117 0 0
+jpg 71 12083597 0 0
+css 124 4719596 0 0
+Unknown 119 3607274 0 0
+js 144 15416692 0 0
+woff2 16 1051184 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/QRCodes/beep.mp3 0 2 17652
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+android10 53 7
+win10 537 144
+macosx6 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+firefox114.0 228 77
+chrome114.0.0.0 362 74
+chrome104.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 13
+From1 0 0
+From2 1 1
+From3 0 0
+From4 139 577
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 33 13910
+404 728 4811352
+500 17 6291430
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/assets/images/avatars/avatar-9.png 69 http://event.thetechnologies.net/organizer/events
+/user/assets/js/bootstrap.min.js.map 11 -
+/user/assets/css/bootstrap.min.css.map 12 -
+/assets/images/avatars/avatar-7.png 69 http://event.thetechnologies.net/organizer/events
+/assets/images/avatars/avatar-4.png 68 http://event.thetechnologies.net/organizer/events
+/.env 2 -
+/assets/images/avatars/avatar-8.png 69 http://event.thetechnologies.net/organizer/events
+/assets/images/avatars/avatar-6.png 67 http://event.thetechnologies.net/organizer/events
+/user/assets/css/main.css.map 12 -
+/background.css.map 11 -
+/assets/images/avatars/avatar-3.png 67 http://event.thetechnologies.net/organizer/events
+/assets/images/avatars/avatar-5.png 68 http://event.thetechnologies.net/organizer/events
+/assets/images/avatars/avatar-11.png 69 http://event.thetechnologies.net/organizer/events
+/assets/images/avatars/avatar-10.png 69 http://event.thetechnologies.net/organizer/events
+/assets/images/avatars/avatar-1.png 65 http://event.thetechnologies.net/organizer/events
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+107.161.191.229 152 591 42045172 20230705064429
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20230703 57 220 16408120 2
+20230705 95 369 25654704 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+1h+ 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/ 17 455060 3 1
+/login 13 72822 0 0
+/admin/events-management 11 589394 0 0
+/admin/organizers 10 396554 0 0
+/organizer/events 9 353985 0 1
+/admin/dashboard 8 296812 0 0
+/events-list 8 152452 0 0
+/organizer/ticket-verification 6 250625 0 0
+/getPrice 6 7 0 0
+/user/assets/webfonts/fa-solid-900.woff2 6 377200 0 0
+/user/assets/webfonts/fa-brands-400.woff2 5 298032 0 0
+/admin/categories 5 238563 0 0
+/about-us 5 125820 0 0
+/pricing 4 44794 0 1
+/organizer/dashboard 4 153335 0 0
+/admin/finances 4 184840 0 0
+/assets/fonts/boxicons.woff2 4 373040 0 0
+/organizer/wallet 3 111381 0 0
+/privacy 2 33828 0 0
+/organizer/events/create 2 100584 0 0
+/organizer/get_attendance 2 74245 0 0
+/admin/reports 2 97030 0 0
+/register 2 12564 0 0
+/event-checkout/14 2 70475 0 0
+/organizer/notifications 2 73516 0 0
+/event-details/14 1 27076 0 0
+/tickets/41 1 8777 0 0
+/contact-us 1 14284 0 0
+/event-details/13 1 25599 0 0
+/tickets/43 1 8887 0 0
+/admin/ads-management 1 36209 0 0
+/tickets/45 1 8797 0 0
+/event-checkout/13 1 35256 0 0
+/tickets/42 1 8763 0 0
+/user/assets/css/Flaticon.woff2 1 2912 0 0
+END_SIDER

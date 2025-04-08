@@ -1,0 +1,311 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.ufp.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2699                
+POS_VISITOR 7368                
+POS_DAY 8100                
+POS_DOMAIN 3290                
+POS_LOGIN 3580                
+POS_ROBOT 3735                
+POS_WORMS 3867                
+POS_EMAILSENDER 3998                
+POS_EMAILRECEIVER 4141                
+POS_SESSION 8327                
+POS_SIDER 8484                
+POS_FILETYPES 4276                
+POS_DOWNLOADS 4492                
+POS_OS 4540                
+POS_BROWSER 4681                
+POS_SCREENSIZE 4938                
+POS_UNKNOWNREFERER 5012                
+POS_UNKNOWNREFERERBROWSER 5240                
+POS_ORIGIN 5360                
+POS_SEREFERRALS 5495                
+POS_PAGEREFS 5658                
+POS_SEARCHWORDS 5806                
+POS_KEYWORDS 5958                
+POS_MISC 2363                
+POS_ERRORS 6017                
+POS_CLUSTER 3436                
+POS_SIDER_404 6133                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230704051030 1 0 10198851142462
+FirstTime 20230601054441
+LastTime 20230621124321
+LastUpdate 20230704081914 1 0 0 0 0
+TotalVisits 16                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 7 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 119 2412939 18 22 5659151
+1 0 0 0 0 0 0
+2 0 0 0 1 1 390
+3 0 0 0 0 0 0
+4 4 32 975334 12 15 80016
+5 9 132 3056666 3 10 40764
+6 3 24 660964 3 6 27224
+7 8 145 3371051 5 15 54360
+8 0 0 0 0 0 0
+9 0 0 0 1 1 406
+10 0 0 0 8 8 52824
+11 0 0 0 0 1 6603
+12 4 18 504120 2 3 7415
+13 0 0 0 0 0 0
+14 0 0 0 1 1 6603
+15 0 0 0 0 0 0
+16 6 115 2564882 7 15 386133
+17 0 0 0 1 1 6603
+18 0 0 0 1 2 13206
+19 0 0 0 0 0 0
+20 0 0 0 1 1 7365
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 1 1 406
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+pk 16 276 6423600
+us 14 63 1657170
+au 8 131 3052549
+cn 5 114 2412550
+zz 1 1 87
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 388 7804428 0 0
+jpeg 2 233432 0 0
+png 17 711121 0 0
+woff2 16 502828 0 0
+html 3 160951 0 0
+woff 2 34408 0 0
+css 134 3850859 0 0
+Unknown 23 247929 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+macosx15 114 5
+win10 409 26
+linux 17 3
+android10 16 2
+win7 24 3
+Unknown 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome114.0.0.0 261 15
+mozilla 3 3
+chrome83.0.4103.61 8 1
+chrome109.0.0.0 16 2
+firefox114.0 129 6
+chrome79.0.3945.79 16 2
+chrome113.0.0.0 131 8
+chrome112.0.5615.121 17 3
+chrome99.0.4859.172 2 2
+Unknown 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Cpanel-HTTP-Client/1.0 20230613003454
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20230613003559
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20230613003454
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 18 18
+From1 0 0
+From2 1 1
+From3 0 0
+From4 25 566
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 20 8582
+500 6 5866485
+404 70 474402
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 22
+/wp-content/plugins/mstore-api/assets/js/mstore-inspireui.js 1 -
+/wp-fox.php 2 -
+/api/index.php/v1/config/application 2 -
+/wp-login.php 1 -
+/wp-content/plugins/td-cloud-library/assets/css/tdb_wp_admin_taxonomies.css 1 -
+/wp-2019.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 www.google.com
+/autoload_classmap.php 2 -
+/fox.php 2 -
+/Products/assets/plugin/tinymce/content.min.css 3 http://ufp.thetechnologies.net/Products/create
+/assets/plugin/waves/waves.min.js.map 5 -
+/local.php 2 -
+/alwso.php 2 -
+/assets/plugin/bootstrap/css/bootstrap.min.css.map 5 -
+/shell.php 2 -
+/style.php 2 -
+/wso.php 1 -
+/wso112233.php 2 -
+/assets/plugin/bootstrap/js/bootstrap.min.js.map 5 -
+/cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js 23 http://ufp.thetechnologies.net/Products/create
+/assets/plugin/tinymce/skins/lightgray/content.min.css 3 http://ufp.thetechnologies.net/Products/create
+/ffAA531.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+203.101.178.21 8 145 3371051 20230621073715
+101.53.234.37 8 131 3052549 20230614040956
+39.45.145.63 6 115 2564882 20230607164729
+223.123.100.81 4 113 2364047 20230612000457
+65.154.226.171 3 17 499955 20230613123552
+205.169.39.236 3 24 660964 20230613063121
+182.176.130.7 2 16 487667 20230601054459
+107.161.191.226 2 2 128 20230613003454
+74.125.212.201 2 7 287472 20230618043250
+23.178.112.209 1 1 87 20230613003549
+64.227.129.203 1 1 4165 20230621124321
+223.123.98.13 1 1 48503 20230612001158
+64.227.153.151 1 1 4117 20230618051448
+34.213.138.182 1 1 87 20230613003549
+18.117.148.113 1 1 87 20230613003559
+74.125.212.200 0 6 112140 
+74.125.212.202 0 3 88055 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20230601 8 131 3052549 2
+20230607 6 115 2564882 1
+20230612 5 114 2412550 2
+20230613 11 46 1161308 6
+20230614 2 16 487667 1
+20230618 3 17 491784 2
+20230621 9 146 3375216 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 12
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/login 14 58592 11 2
+/assets/fonts/font-awesome/webfonts/fa-solid-900.woff2 11 441628 0 6
+/assets/fonts/font-awesome/webfonts/fa-regular-400.woff2 5 61200 0 1
+/ 3 160951 0 0
+/.well-known/acme-challenge/GATPhyIjKCdDvDEmogfn6bQVdHWuypV5TrXxrlL9Y08 3 261 3 3
+/assets/plugin/tinymce/skins/lightgray/fonts/tinymce.woff 2 34408 0 2
+/Products/create 2 91942 0 0
+/home 2 97006 1 1
+/.well-known/acme-challenge/5VZLXHW4PM1I0NK2BQECD9LQHPBKT-Q7 1 64 1 0
+/.well-known/acme-challenge/NOS0BTKZ91-UMK8Y5TA6HVXU3BCHP8I- 1 64 0 1
+END_SIDER

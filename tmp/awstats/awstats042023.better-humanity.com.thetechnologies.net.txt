@@ -1,0 +1,417 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.better-humanity.com.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2043                
+POS_TIME 2724                
+POS_VISITOR 9181                
+POS_DAY 10346               
+POS_DOMAIN 3437                
+POS_LOGIN 3797                
+POS_ROBOT 3952                
+POS_WORMS 4296                
+POS_EMAILSENDER 4427                
+POS_EMAILRECEIVER 4570                
+POS_SESSION 10667               
+POS_SIDER 10844               
+POS_FILETYPES 4705                
+POS_DOWNLOADS 4981                
+POS_OS 5048                
+POS_BROWSER 5298                
+POS_SCREENSIZE 5888                
+POS_UNKNOWNREFERER 5962                
+POS_UNKNOWNREFERERBROWSER 6119                
+POS_ORIGIN 6271                
+POS_SEREFERRALS 6406                
+POS_PAGEREFS 6563                
+POS_SEARCHWORDS 6756                
+POS_KEYWORDS 6908                
+POS_MISC 2388                
+POS_ERRORS 6967                
+POS_CLUSTER 3653                
+POS_SIDER_404 7080                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501005132 148 30139 8648876014490
+FirstTime 20230419103937
+LastTime 20230430194433
+LastUpdate 20230501083646 148 0 147 0 0
+TotalVisits 30                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 76 8988395 4 10 66090
+1 5 11 2812195 8 13 85917
+2 14 102 17492532 15 18 118962
+3 12 51 7942834 12 22 138813
+4 5 5 263330 2 2 59275
+5 1 1 52038 5 6 39654
+6 10 72 11424903 15 30 198270
+7 12 76 13923088 16 28 185052
+8 2 8 1270488 0 3 13242
+9 7 11 1017845 10 15 99135
+10 1 1 50452 0 0 0
+11 0 0 0 2 3 104100
+12 16 48 5433168 3 8 91716
+13 0 0 0 1 1 214892
+14 0 0 0 1 14 2838921
+15 1 1 0 48 57 844309
+16 2 2 103804 6 11 233100
+17 0 0 0 7 13 1713404
+18 3 3 90415 0 0 0
+19 3 32 6452926 11 15 303439
+20 1 1 52038 4 28 3768968
+21 0 0 0 2 2 30954
+22 1 1 52038 2 3 135380
+23 0 0 0 11 20 1813108
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 34 135 19955440
+pk 32 229 37154322
+pl 21 92 14750325
+gb 4 4 90415
+cn 3 4 155642
+hu 3 33 5110299
+se 2 2 102218
+ru 1 1 0
+eu 1 1 51766
+de 1 1 52038
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+AhrefsBot/ 100 11550237 20230430234848 2
+Googlebot/ 4 156766 20230428043503 1
+unknown 2 48 20230429081356 2
+facebookexternalhit/ 1 24 20230430194420 1
+crawl 1 52038 20230421124822 0
+curl 1 52038 20230424205733 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+html 45 2228386 0 0
+Unknown 37 1211668 0 0
+jpeg 3 589002 0 0
+png 30 4268761 0 0
+woff2 10 599616 0 0
+css 170 9255743 0 0
+webp 1 154694 0 0
+woff 10 527004 0 0
+gif 1 8476 0 0
+js 98 14469310 0 0
+jpg 97 44109805 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 24
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+android 33 3
+androidoreo 1 1
+win8.1 1 1
+macosx8 1 1
+macosx10 1 1
+macosx15 1 1
+androidnougat 1 1
+winnt 2 2
+win7 14 2
+win10 141 43
+android10 65 6
+Unknown 5 4
+linux 235 35
+ios_iphone 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome91.0.4472.101 1 1
+chrome91.0.4472.114 1 1
+Unknown 5 4
+chrome26.0.1410.65 1 1
+chrome102.0.5005.125 33 3
+chrome83.0.4103.61 14 2
+chrome111.0.0.0 197 29
+chrome112.0.0.0 124 24
+chrome81.0.4044.138 1 1
+chrome50.0.2661.102 1 1
+chrome79.0.3945.79 31 3
+chrome95.0.4638.54 1 1
+firefox49.0 1 1
+opera9.80 1 1
+chrome72.0.3626.121 1 1
+firefox67.0 1 1
+chrome79.0.3945.130 14 14
+safari13.0.3 1 1
+chrome81.0.4044.92 33 1
+chrome108.0.0.0 1 1
+msie11.0 2 2
+chrome74.0.3729.169 1 1
+chrome83.0.4103.97 3 3
+chrome34.0.1847.137 1 1
+chrome96.0.4664.45 32 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WhatsApp/2.23.7.78_A 20230428025839
+cpp-httplib/0.10.9 20230427182616
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+cpp-httplib/0.10.9 20230427182616
+WhatsApp/2.23.7.78_A 20230428025839
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 49 50
+From1 0 0
+From2 2 2
+From3 1 1
+From4 50 449
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandexru 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://facebook.com//twitter.com//vk.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 1 0
+500 1 214892
+404 209 1070658
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 66
+/OLD 1 -
+/wp-old 1 -
+/bak 1 -
+/website/css/bootstrap.min.css.map 3 -
+/main 1 -
+/Backup 1 -
+/Site 1 -
+/BACKUP 1 -
+/humans.txt 2 -
+/ads.txt 2 -
+/backup 1 -
+/Test 1 -
+/NEW 1 -
+/New 1 -
+/bac 1 -
+/2022 1 -
+/website/images/restore.jpg 3 http://better-humanity.com/global-donation-center
+/api/index.php/v1/config/application 6 -
+/voting-details/color-switcher/style-switcher.html 1 http://better-humanity.com/voting-details/1
+/Wp 1 -
+/2021 1 -
+/2019 1 -
+/www 1 -
+/ajax-load/bootstrap-parent-modal.html 34 http://better-humanity.com/
+/color-switcher/style-switcher.html 34 http://better-humanity.com/
+/WWW 1 -
+/Wordpress 1 -
+/website/images/platform.jpg 3 http://better-humanity.com/global-donation-center
+/subject-Details/color-switcher/style-switcher.html 5 http://better-humanity.com/subject-Details/2
+/images/1677565702.jpg 6 http://better-humanity.com/will-of-the-people
+/website/images/a.jpg 11 http://better-humanity.com/
+/test 1 -
+/old 1 -
+/bc 1 -
+/Shop 1 -
+/new 1 -
+/wordpress 1 -
+/website/images/image.jpg 21 http://better-humanity.com/
+/WP 1 -
+/19837437_notfound.html 1 http://better-humanity.com.thetechnologies.net
+/Www 1 -
+/website/images/b.jpg 19 http://better-humanity.com/
+/wp 1 -
+/blog 1 -
+/2018 1 -
+/SITE 1 -
+/site 1 -
+/website/images/indivi.jpeg 3 http://better-humanity.com/global-donation-center
+/SHOP 1 -
+/WordPress 1 -
+/bk 1 -
+/TEST 1 -
+/Old 1 -
+/Blog 1 -
+/subject-Details/ajax-load/bootstrap-parent-modal.html 5 http://better-humanity.com/subject-Details/2
+/shop 1 -
+/oldsite 1 -
+/2020 1 -
+/voting-details/ajax-load/bootstrap-parent-modal.html 1 http://better-humanity.com/voting-details/1
+/website/images/bg41.jpg 2 http://better-humanity.com/global-support-center
+/BLOG 1 -
+/sitio 1 -
+/public/demo/ 1 http://better-humanity.com/demo
+/WORDPRESS 1 -
+/old-site 1 -
+/sito 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+221.120.209.221 32 229 37154322 20230428033820
+178.159.172.195 21 92 14750325 20230428092413
+69.160.160.55 15 47 5381402 20230421124836
+35.178.180.13 5 5 263330 20230428043457
+205.169.39.68 4 38 6327400 20230425034801
+51.83.238.159 3 3 90415 20230427182616
+37.111.148.109 3 33 5110299 20230421071128
+173.252.127.2 2 15 1774501 20230430194433
+93.158.90.166 1 1 50452 20230420035445
+223.123.96.93 1 2 53152 20230428025837
+140.246.164.95 1 1 52038 20230420222747
+38.122.112.147 1 1 52038 20230426093335
+35.86.177.152 1 1 52038 20230423024457
+51.89.22.139 1 1 0 20230419150059
+34.220.193.104 1 1 52038 20230427204741
+213.176.224.148 1 1 0 20230422073908
+42.194.183.52 1 1 50452 20230419103937
+44.193.25.146 1 1 52038 20230422051448
+173.252.127.118 1 4 2793744 20230430194433
+205.169.39.140 1 7 1218722 20230428084416
+46.228.199.158 1 1 52038 20230422161134
+35.165.134.129 1 1 51766 20230430164442
+178.62.207.244 1 1 51766 20230430031935
+18.237.59.109 1 1 51766 20230429124008
+130.255.166.26 1 1 51766 20230429081400
+173.252.127.15 0 5 546853 
+173.252.127.1 0 3 938001 
+173.252.127.18 0 5 399803 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20230419 2 2 50452 2
+20230420 12 96 13839630 3
+20230421 18 80 10491701 2
+20230422 3 3 104076 3
+20230423 1 1 52038 1
+20230425 19 119 18767150 2
+20230426 13 89 11885258 3
+20230427 7 36 6595627 3
+20230428 20 40 8976567 5
+20230429 2 2 103532 2
+20230430 5 34 6556458 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 20
+30mn-1h 4
+2mn-5mn 2
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 45 2228386 27 18
+/website/fonts/fontawesome-webfont3295.woff2 10 599616 1 3
+/website/fonts/Pe-icon-7-strokebb1d.woff 10 527004 0 3
+/subject-Details/3 7 330374 0 1
+/will-of-the-people 7 229742 1 1
+/subject-Details/2 5 287614 0 1
+/about-us 4 88596 1 0
+/voting-details/1 3 49791 0 2
+/global-donation-center 2 41548 0 0
+/donate 2 25484 0 0
+/global-support-center 2 43962 0 0
+/contact 2 34890 0 1
+/register 1 15779 0 0
+/subject-Details/1 1 47305 0 0
+/voting-details/2 1 16583 0 0
+END_SIDER

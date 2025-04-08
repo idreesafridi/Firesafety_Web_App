@@ -1,0 +1,588 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.sparetrac.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2037                
+POS_TIME 2710                
+POS_VISITOR 9589                
+POS_DAY 11740               
+POS_DOMAIN 3602                
+POS_LOGIN 3904                
+POS_ROBOT 4059                
+POS_WORMS 4191                
+POS_EMAILSENDER 4322                
+POS_EMAILRECEIVER 4465                
+POS_SESSION 12545               
+POS_SIDER 12754               
+POS_FILETYPES 4600                
+POS_DOWNLOADS 4894                
+POS_OS 5011                
+POS_BROWSER 5166                
+POS_SCREENSIZE 5519                
+POS_UNKNOWNREFERER 5593                
+POS_UNKNOWNREFERERBROWSER 5741                
+POS_ORIGIN 5884                
+POS_SEREFERRALS 6026                
+POS_PAGEREFS 6191                
+POS_SEARCHWORDS 6365                
+POS_KEYWORDS 6517                
+POS_MISC 2373                
+POS_ERRORS 6576                
+POS_CLUSTER 3760                
+POS_SIDER_404 6742                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230702180151 1 0 10777545532970
+FirstTime 20230601082450
+LastTime 20230629203207
+LastUpdate 20230703081103 1 0 0 0 0
+TotalVisits 98                  
+TotalUnique 48                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 49                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 19 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 37 92 10021283 55 58 1286831
+1 17 32 2766534 14 16 44102
+2 0 0 0 1 1 6609
+3 65 290 32598015 53 90 423688
+4 145 484 71086588 58 103 2818238
+5 104 155 22448515 108 183 855471
+6 130 616 77250750 125 243 9771335
+7 252 768 106085328 137 260 4201774
+8 152 354 44933678 98 166 717368
+9 227 544 82773005 154 299 1438563
+10 91 246 23157166 107 149 486520
+11 16 41 2831915 31 46 216724
+12 93 287 42186406 77 124 413209
+13 205 563 67906651 157 260 1228664
+14 78 146 12051708 72 112 526962
+15 238 1140 141024467 180 359 1696967
+16 474 1532 207125237 408 688 3094657
+17 404 819 178201248 270 537 2330592
+18 312 745 108770405 306 558 16488843
+19 105 262 62376251 112 233 1184436
+20 20 27 1830050 38 58 277043
+21 1 1 8580 3 4 1286
+22 0 0 0 2 2 868
+23 11 56 9078233 19 30 564416
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+in 3026 8646 1217927292
+cn 140 327 62189913
+us 7 199 24629328
+ru 2 2 17024
+pk 2 26 1748456
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+Unknown 3063 653112146 0 0
+css 745 29180161 0 0
+jpg 1097 47116547 0 0
+js 784 136673482 0 0
+pdf 2 433538 0 0
+svg 26 45754 0 0
+png 3143 429257268 0 0
+avif 75 302356 0 0
+jpeg 184 5478807 0 0
+webp 42 1368074 0 0
+woff2 39 3543880 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/feedback/1685998065.pdf 1 0 230804
+/files/1682204646.pdf 1 0 202734
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+android10 1233 334
+android 32 5
+win10 7417 2696
+linux 15 1
+macosx15 352 141
+Unknown 151 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome114.0.0.0 6573 2357
+chrome103.0.5060.114 1 1
+chrome113.0.0.0 2354 805
+chrome102.0.5005.115 13 1
+chrome106.0.5249.126 15 1
+chrome80.0.3987.162 1 1
+chrome112.0.5615.121 15 1
+chrome94.0.4606.61 3 3
+chrome102.0.5005.61 13 1
+chrome109.0.0.0 15 1
+Unknown 151 0
+chrome110.0.0.0 2 2
+chrome112.0.0.0 44 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Dompdf/2.0.0_https://github.com/dompdf/dompdf 20230621172512
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Dompdf/2.0.0_https://github.com/dompdf/dompdf 20230621172512
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 126 277
+From1 2 2
+From2 15 15
+From3 2 2
+From4 3032 8904
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 15 15
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://sparetrac.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 2878 19003434
+401 1 30
+500 516 11247411
+419 21 138789
+206 56 19235160
+302 1005 450342
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 35
+/customer/images/ep_arrow-down.png 556 https://sparetrac.thetechnologies.net/customer/filter
+/admin/factory/images/arrow.png 437 https://sparetrac.thetechnologies.net/admin/admin_orders
+/customer/product/images/mini/Cross.png 21 https://sparetrac.thetechnologies.net/customer/product/53
+/api/index.php/v1/config/application 1 -
+/factory/assets/js/bootstrap.bundle.min.js.map 18 -
+/assets/website.png 14 -
+/factory/assets/fonts/poppins/Poppins-Medium.ttf 233 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/admin/contactlist/images/user.png 34 https://sparetrac.thetechnologies.net/admin/contactlist/75
+/assets/images/user.png 34 https://sparetrac.thetechnologies.net/admin/contactlist/75
+/wp-content/plugins/revslider/includes/external/page/index.php 2 www.google.com
+/factory/assets/fonts/montserrat/Montserrat-Bold.ttf 236 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/factory/assets/plugins/metismenu/css/metisMenu.min.css.map 11 -
+/customer/images/icon-park-outline_order.png 84 https://sparetrac.thetechnologies.net/customer/order
+/customer/metisMenu.min.css.map 8 -
+/factory/assets/plugins/metismenu/js/metisMenu.min.js.map 19 -
+/customer/images/mini/Cross.png 181 https://sparetrac.thetechnologies.net/customer/dashboard
+/factory/assets/fonts/poppins/Poppins-Bold.ttf 236 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/factory/assets/fonts/poppins/Poppins-Regular.ttf 236 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/customers/assets/plugins/metismenu/js/metisMenu.min.js.map 8 -
+/assets/telephone.png 14 -
+/customers/assets/js/bootstrap.bundle.min.js.map 8 -
+/customers/assets/plugins/metismenu/css/metisMenu.min.css.map 3 -
+/assets/email.png 14 -
+/images/snd.png 24 https://sparetrac.thetechnologies.net/admin/contactlist/75
+/static/admin/javascript/hetong.js 1 -
+/customer/bootstrap.min.css.map 8 -
+/customer/product/images/ep_arrow-down.png 70 https://sparetrac.thetechnologies.net/customer/product/48
+/Public/home/js/check.js 1 -
+/wp-login.php 1 http://www.sparetrac.thetechnologies.net/wp-login.php
+/customers/assets/css/bootstrap.min.css.map 3 -
+/image/1674564960.png 1 https://sparetrac.thetechnologies.net/admin/company
+/factory/assets/css/bootstrap.min.css.map 11 -
+/customer/assets/images/Vector.png 87 https://sparetrac.thetechnologies.net/customer/dashboard
+/factory/js/main.js 239 https://sparetrac.thetechnologies.net/login
+/admin/contactlist/images/icons/metal-bolt.png 24 https://sparetrac.thetechnologies.net/admin/contactlist/75
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 49
+103.57.87.247 480 1433 241160284 20230617195239
+103.57.87.195 436 553 140765103 20230622204555
+103.57.87.137 420 1451 178264017 20230608140503
+103.57.87.253 408 916 123666497 20230603171858
+103.57.87.12 345 950 129931315 20230612175501
+106.215.91.191 296 980 106148923 20230619091508
+103.57.87.24 265 768 107701431 20230620190701
+106.215.92.88 189 662 79638868 20230610061041
+110.225.86.195 82 100 16736978 20230603041338
+223.123.91.49 45 87 7598213 20230606010655
+223.123.98.253 33 77 16979882 20230609041843
+223.123.98.199 23 28 12991511 20230605074338
+103.57.87.97 21 153 16260388 20230604045243
+106.223.112.34 18 35 2318008 20230607084948
+122.177.105.209 14 166 22432987 20230627080416
+223.123.92.31 12 44 6005384 20230603010353
+223.123.95.191 12 12 5315709 20230609042700
+223.228.223.246 11 150 20934810 20230624083819
+106.194.111.245 8 38 10582365 20230612072525
+223.123.91.251 7 48 8253873 20230607235835
+223.123.100.186 7 30 5036761 20230605063056
+106.223.115.34 6 6 292098 20230607092906
+103.57.87.147 6 18 847390 20230625110238
+110.225.80.231 5 94 5551969 20230604191132
+106.202.123.50 3 6 2836810 20230614054531
+49.44.81.41 1 15 1085738 20230618164049
+58.27.130.4 1 13 753541 20230605071841
+223.196.81.5 1 15 1085738 20230619181302
+93.159.230.88 1 1 8512 20230618044822
+42.106.160.202 1 15 1045629 20230601171048
+49.44.81.10 1 15 1085738 20230613182112
+172.58.61.186 2 29 1917664 20230601184102
+49.44.85.41 1 15 1085738 20230619175835
+65.154.226.168 1 15 1085806 20230628112013
+49.44.83.72 1 15 1085738 20230618164048
+123.108.201.100 1 15 1085738 20230613162332
+223.196.44.4 1 15 1085738 20230613102306
+112.133.228.134 1 15 1085738 20230610035651
+14.192.150.70 1 13 994915 20230609042632
+106.198.174.111 2 4 111819 20230609071606
+49.44.122.9 1 13 967931 20230611121251
+182.79.221.210 1 15 1045768 20230603152106
+47.88.6.178 1 1 8580 20230627184221
+107.161.191.229 1 1 8580 20230629203207
+42.228.9.78 1 1 8580 20230623011045
+45.90.60.48 1 1 8580 20230627204639
+45.90.60.230 1 1 8580 20230628210501
+107.161.191.226 0 151 21591538 
+93.159.230.89 1 1 8512 20230604034802
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20230601 161 378 76783856 4
+20230602 10 15 3690742 2
+20230603 360 775 82943278 7
+20230604 27 248 21820869 3
+20230605 281 1073 145355698 8
+20230606 169 549 60622179 4
+20230607 118 410 49125708 6
+20230608 48 71 11213770 3
+20230609 63 139 29468937 5
+20230610 236 781 99237233 3
+20230611 167 460 53583589 5
+20230612 12 43 12894893 2
+20230613 156 387 48276111 5
+20230614 104 527 52929044 5
+20230615 338 709 124018958 3
+20230616 68 308 45761706 2
+20230617 78 303 49504948 3
+20230618 98 364 60101784 4
+20230619 161 629 70009779 4
+20230620 49 100 19733716 2
+20230621 184 267 42600078 2
+20230622 252 310 101491244 6
+20230623 1 1 8580 1
+20230624 11 150 20934810 1
+20230625 6 18 847390 2
+20230627 16 168 22450147 3
+20230628 2 16 1094386 2
+20230629 1 1 8580 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 33
+30mn-1h 5
+30s-2mn 7
+2mn-5mn 9
+1h+ 24
+5mn-15mn 10
+15mn-30mn 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 205
+/login 256 2181238 81 62
+/customer/cart 253 16554444 3 2
+/admin/getProductData 217 138033 0 2
+/customer/filter 173 51736234 0 1
+/admin/dashboard 139 14440852 5 3
+/admin/product_list 133 21341810 0 3
+/admin/markNotificationsRead 132 132 1 0
+/customer/dashboard 121 19739385 2 1
+/admin/admin_orders 115 360668934 0 3
+/admin/contactlist 96 23905292 0 2
+/admin/rawmaterial 79 8453047 1 2
+/admin/getRMData 70 49288 1 3
+/admin/product_list/create 64 8902704 1 0
+/customer/loadMaker 63 5846 0 0
+/admin/admin_draft_orders 60 10569750 0 1
+/customer/order 57 15443146 0 0
+/admin/usermanagement 45 4843781 0 0
+/customer/pricerequest 42 5623648 0 0
+/admin/priceRequests 42 5285592 0 0
+/customer/cookie 38 38 0 1
+/equipment/1684741929.avif 36 214396 0 0
+/admin/admin_orders/create 34 3732598 1 0
+/admin/feedbacks 34 4339672 0 2
+/customer/loadSubCategory 33 4203 0 0
+/admin/loadSubCategories 33 4592 0 1
+/admin/draft-preview/2 3 56885 0 0
+/customer/product/50 3 466333 0 0
+/admin/preview/38 1 16838 0 0
+/admin/rawmaterial/22/edit 1 83864 0 0
+/customer/password 5 648837 0 0
+/customer/proforma 10 93585 0 1
+/admin/admin_orders/82/edit 1 128238 0 0
+/admin/category/5/edit 1 88662 0 0
+/admin/draft-preview/6 2 38804 0 0
+/admin/preview/100 5 82589 0 0
+/customer/print 4 32413 0 0
+/admin/admin_orders/130 3 206376 0 0
+/admin/admin_orders/133/edit 2 285697 0 0
+/admin/admin_orders/101 2 178087 0 0
+/admin/edit-password/120 1 82724 0 0
+/customer/filter-status-orders 2 403360 0 0
+/admin/contactlist/69 2 252399 0 0
+/admin/preview/137 2 38612 0 0
+/admin/profile 1 78789 0 0
+/admin/preview/126 1 19337 0 0
+/admin/category/16/edit 1 88669 0 0
+/customer/product/59 9 1416521 0 0
+/admin/admin_draft_orders/4 1 0 0 0
+/customer/product/56 2 314636 0 0
+/customer/feedback 31 4120855 1 0
+/admin/admin_orders/129 5 369614 0 0
+/admin/edit-password/132 3 259486 0 0
+/admin/admin_orders/132/edit 1 138383 0 0
+/admin/contactlist/81/edit 1 124585 0 0
+/admin/usermanagement/133/edit 1 124367 0 0
+/admin/product_list/56/edit 13 1900597 0 0
+/admin/preview/88 6 115382 0 1
+/admin/export-contacts 1 475810 0 1
+/admin/product_list/64/edit 3 432402 0 0
+/admin/product_list/59 1 103319 0 0
+/admin/edit-password/134 1 87131 0 0
+/admin/subcategory/8/edit 1 90175 0 0
+/admin/admin_orders/102 1 85077 0 0
+/admin/company 15 1696220 0 0
+/admin/draft-preview/7 1 19225 0 0
+/customer/loadCategory 31 3522 0 0
+/admin/bankinfo/13/edit 5 459897 0 0
+/admin/rawmaterial/19/edit 12 1037481 0 0
+/admin/bankinfo 7 676993 0 0
+/admin/preview/136 1 17551 0 0
+/admin/preview/102 2 36406 0 1
+/admin/contactlist/78/edit 2 245883 0 0
+/admin/draft-preview/3 2 39656 0 0
+/admin/contactlist/62 1 124521 0 0
+/admin/preview/138 3 53601 0 1
+/admin/product_list/54/edit 8 1179040 0 0
+/admin/admin_orders/137/edit 4 529500 0 0
+/admin/filter-status-orders 3 1607942 0 0
+/admin/contactlist/75 6 765874 0 0
+/admin/preview/92 2 39865 0 0
+/customer/company 13 1631890 0 0
+/password/reset 2 13033 0 0
+/admin/rawmaterial/4/edit 1 83776 0 0
+/admin/usermanagement/111 4 335246 0 0
+/admin/admin_orders/130/edit 1 122291 0 0
+/customer/saveProduct/61 2 2 0 0
+/admin/preview/89 1 19560 0 0
+/admin/product_list/55/edit 6 901148 0 0
+/admin/preview/133 2 39516 0 0
+/admin/usermanagement/create 7 866079 0 0
+/admin/usermanagement/1 2 179927 0 0
+/admin/equipmenttype/15/edit 1 88848 0 0
+/customer/export-cart 5 32968 0 0
+/admin/export-feedback 2 45103 0 0
+/admin/category/6/edit 2 177827 0 0
+/customer/saveProduct/59 2 2 0 0
+/admin/product_list/51 2 213507 0 0
+/admin/product_list/55 3 320176 0 0
+/admin/export-users 1 907025 0 0
+/admin/preview/128 4 79264 0 0
+/admin/admin_orders/101/edit 3 403440 0 0
+/admin/admin_orders/138/edit 1 120846 0 0
+/admin/preview/101 3 57366 0 0
+/admin/edit-password/135 1 87131 0 0
+/customer/download-reqsample 6 2998518 0 0
+/admin/role/19/edit 1 94560 0 0
+/admin/category 18 1798782 0 0
+/admin/product_list/57/edit 8 1168727 0 0
+/admin/product_list/58/edit 7 1010819 0 0
+/admin/imagesSearch 1 100075 0 0
+/customer/product/60 2 314762 0 0
+/customer/filter-orders 3 579419 0 0
+/admin/admin_orders/134/edit 1 150988 0 0
+/admin/rawmaterial/23/edit 10 861068 0 0
+/customer/product/49 1 158797 0 0
+/admin/role 1 106869 0 0
+/admin/contactlist/70 2 246998 0 0
+/admin/edit-password/109 1 83887 0 0
+/customer/product/63 7 1074217 0 0
+/admin/preview/86 1 17272 0 0
+/admin/preview/131 3 59470 0 0
+/admin/equipmenttype 15 1494415 0 0
+/customer/product/48 21 3356602 0 1
+/admin/export-rmpricing 1 22566 0 1
+/admin/contactlist/81 4 515741 0 0
+/admin/admin_orders/88/edit 2 249465 0 0
+/customer/product/43 1 163501 0 0
+/admin/product_list/56 1 101813 0 0
+/admin/category/7/edit 1 88666 0 0
+/admin/product_list/63/edit 4 566615 0 0
+/customer/product/62 6 906501 0 0
+/admin/admin_draft_orders/5 1 0 0 0
+/customer/print-product/58 1 17780 0 0
+/customer/print-product/48 7 124104 0 0
+/admin/product_list/53 4 429276 0 0
+/admin/category/11/edit 1 88676 0 0
+/admin/preview/98 3 52248 0 0
+/admin/preview/135 1 19620 0 0
+/customers/assets/fonts/boxicons.woff2 24 2238240 0 0
+/admin/admin_orders/98 1 79622 0 0
+/factory/assets/fonts/boxicons.woff2 15 1305640 0 0
+/customer/bankinfo 12 1503222 0 0
+/admin/preview/129 3 56787 0 0
+/admin/contactlist/create 16 1938137 0 0
+/admin/product_list/57 1 104427 0 0
+/admin/contactlist/79 7 885556 0 0
+/admin/equipmentmake 8 891691 1 0
+/admin/admin_orders/102/edit 1 122363 0 0
+/admin/preview/134 3 61038 0 0
+/admin/admin_orders/133 1 85026 0 0
+/customer/product/57 1 153318 0 0
+/admin/contactlist/70/edit 2 249130 0 0
+/admin/contactlist/79/edit 2 248212 0 0
+/admin/contactlist/80/edit 1 124689 0 0
+/admin/equipmenttype/16/edit 1 89113 0 0
+/admin/usermanagement/118 1 86334 0 0
+/admin/category/8/edit 1 88663 0 0
+/admin/product_list/42/edit 1 145522 0 0
+/admin/admin_orders/99 1 75721 0 0
+/admin/category/10/edit 1 88667 0 0
+/admin/product_list/62/edit 1 144781 0 0
+/admin/preview/82 1 18428 0 0
+/customer/export-excel-cart 5 35157 0 0
+/admin/loadVisiblityTo 4 1193 0 0
+/admin/draft-preview/4 3 57473 0 0
+/equipment/1672926332.avif 25 31224 0 0
+/customer/history 19 3073011 0 1
+/admin/filter-managed-orders 1 420341 0 0
+/admin/product_list/53/edit 5 721159 0 0
+/admin/export-order 4 696950 0 0
+/admin/admin_orders/100 2 141202 0 0
+/admin/admin_orders/131 3 228539 0 0
+/admin/preview/99 3 47061 0 0
+/customer/product/47 1 163412 0 0
+/admin/product_list/61/edit 1 144525 0 0
+/admin/admin_orders/128 3 236455 0 0
+/customer/product/61 4 615909 0 0
+/admin/product_list/59/edit 16 2437098 0 0
+/admin/subcategory 10 1075987 0 0
+/admin/preview/132 1 19390 0 0
+/customer/product/55 5 779579 0 0
+/avatar/1680000163.avif 14 56736 0 0
+/customer/profile 14 2083217 0 0
+/admin/contactlist/80 3 380338 0 0
+/admin/admin_orders/135 10 803560 0 0
+/admin/product_list/63 2 208551 0 0
+/customer/product/58 6 969693 0 0
+/customer/print-product/55 1 17658 0 0
+/admin/preview/130 3 56762 0 0
+/customer/print-product/63 1 13916 0 0
+/admin/company/3/edit 12 1331616 0 0
+/admin/product_list/48/edit 6 886876 0 0
+/admin/product_list/49 1 107298 0 0
+/admin/category/12/edit 1 88662 0 0
+/admin/admin_orders/87/edit 1 127288 0 0
+/admin/admin_orders/132 1 81454 0 0
+/admin/preview/97 2 34407 0 0
+/customer/product/64 5 764429 0 0
+/admin/getBuyerData 26 4876 0 0
+/admin/preview/107 1 18256 0 0
+/customer/saveProduct 8 8 0 1
+/admin/draft-preview/1 5 96807 0 0
+/admin/draft-preview/5 4 77034 0 0
+/customer/product/53 6 950625 0 0
+/admin/images 1 98265 0 0
+END_SIDER

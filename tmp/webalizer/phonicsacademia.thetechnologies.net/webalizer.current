@@ -1,0 +1,859 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 07:48:45
+2023 7 6 7 48 45
+1367 1155 53 168 36 50 87119328 268 99 0
+26 3 118 1 6
+205 182 13557064 2 32 15
+277 242 18017034 2 50 18
+413 371 27836231 3 45 16
+194 144 9859273 2 76 18
+148 97 7650745 24 56 26
+130 119 10198981 26 9 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 7 484767 5
+14 5 384224 5
+136 133 10140674 10
+171 160 12985991 23
+159 155 13737004 8
+87 86 5916552 3
+6 3 92901 3
+170 159 13472106 10
+98 94 5800167 7
+36 13 387344 31
+30 21 882886 13
+16 12 1343155 8
+11 6 449586 5
+18 11 879949 9
+144 138 8536831 12
+18 11 488894 13
+38 35 2047677 3
+15 10 389772 11
+45 8 488907 34
+11 8 913486 5
+36 4 109636 32
+9 5 262131 6
+13 6 412067 6
+74 65 6512621 6
+0
+0
+0
+1155
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+198
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/museums.html
+0 3 3760841235127820908 77883 0 2
+/calendar.html
+0 1 7596553746704183152 27504 1 1
+/director.html
+0 1 3544664359825468513 26336 0 0
+/images/resource/facility-3.png
+0 12 0 31764 0 0
+/images/parent/timing/1.jpg
+0 1 0 329694 0 0
+/plugins/revolution/js/extensions/revolution.extension.parallax.min.js
+0 15 0 163965 0 0
+/images/resource/baby-2.jpg
+0 12 0 719388 0 0
+/plugins/revolution/fonts/revicons/revicons90c6.woff
+0 7 0 52752 0 0
+/css/flaticon.css
+0 15 0 161955 0 0
+/fonts/fontawesome-webfonte0a5.woff2
+0 12 0 681360 0 0
+/images/icons/flower-2.png
+0 2 0 5052 0 0
+/images/icons/curve.png
+0 11 0 62975 0 0
+/images/academic/secondary/3.jpg
+0 1 0 253427 0 0
+/images/resource/facility-1.png
+0 13 0 31824 0 0
+/images/icons/star.png
+0 6 0 13488 0 0
+/general.html
+0 1 0 29304 0 1
+/library.html
+0 1 0 33643 1 1
+/images/academic/curriculam/4.jpg
+0 1 7334496 232487 0 0
+/images/resource/facility-5.png
+0 11 0 18667 0 0
+/aboutus.html
+0 6 0 92709 4 5
+/images/about/mission/4.jpg
+0 1 0 239095 0 0
+/images/resource/image-2.jpg
+0 12 0 956844 0 0
+/images/favicon.png
+0 11 0 164770 0 0
+/running.html
+0 2 0 60962 0 1
+/images/background/4.jpg
+0 7 0 95186 0 0
+/plugins/revolution/js/extensions/revolution.extension.navigation.min.js
+0 15 0 391515 0 0
+/early.html
+0 1 0 37217 0 0
+/images/main-slider/image-5.jpg
+0 12 0 6077148 0 0
+/images/resource/info-3.png
+0 11 0 16192 0 0
+/images/academic/curriculam/1.jpg
+0 1 7334752 281700 0 0
+/images/icons/pencil.png
+0 12 0 31056 0 0
+/results.html
+0 2 16306972611662917169 52038 2 1
+/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js
+0 14 3531103582835179520 784000 0 0
+/plugins/revolution/css/settings.css
+0 19 3531103582835179520 572337 0 0
+/secondary.html
+0 2 7277816997830721536 62842 1 1
+/animal.html
+0 1 0 29043 1 0
+/tournament.html
+0 3 7365056 86592 2 0
+/martial.html
+0 2 7956009162443664690 58192 1 0
+/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js
+0 13 0 382213 0 0
+/js/bootstrap.min.js
+0 19 8029918135601594368 703855 0 0
+/js/jquery.js
+0 19 0 1846192 0 0
+/fonts/flaticon.woff
+0 4 0 173024 0 0
+/images/academic/curriculam/2.jpg
+0 1 7334624 256988 0 0
+/images/icons/doll-6.png
+0 2 0 8672 0 0
+/images/main-slider/image-4.jpg
+0 13 0 5278354 0 0
+/mission.html
+0 3 0 102588 2 1
+/other.html
+0 4 0 110204 2 2
+/images/main-slider/image-3.jpg
+0 15 0 9653008 0 0
+/css/jquery.fancybox.min.css
+0 15 0 206025 0 0
+/boxing.html
+0 3 0 87132 1 1
+/images/logo.png
+0 18 0 548172 0 0
+/primary.html
+0 1 0 32086 0 1
+/js/appear.js
+0 19 0 83201 0 0
+/images/resource/facility-4.png
+0 12 0 22536 0 0
+/css/hover.css
+0 16 0 2121616 0 0
+/images/background/6.jpg
+0 7 0 48251 0 0
+/social.html
+0 2 0 52726 1 1
+/images/icons/line-3.png
+0 6 0 2430 0 0
+/enquire.html
+0 1 0 27815 0 0
+/css/animate.css
+0 13 0 1029197 0 0
+/images/about/about/princ.jpg
+0 1 0 129624 0 0
+/js/script.js
+0 20 0 141220 0 0
+/images/school/school/2.jpg
+0 1 0 0 0 0
+/academic.html
+0 3 0 90612 2 1
+/campus.html
+0 1 0 30128 0 0
+/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js
+0 14 0 52556 0 0
+/images/about/mission/5.jpg
+0 1 0 420562 0 0
+/admission.html
+0 2 0 51434 0 0
+/js/jquery.fancybox.js
+0 20 8102870973565186864 3082080 0 0
+/images/resource/info-1.png
+0 12 0 37152 0 0
+/football.html
+0 3 3472839362167701504 85578 1 1
+/national.html
+0 1 7939413431044943408 27416 1 1
+/images/icons/preloader.svg
+0 13 7308830331545740846 58786 0 0
+/images/resource/image-1.jpg
+0 14 3530822107858468864 7193989 0 0
+/plugins/revolution/css/layers.css
+0 18 3687945829297828407 2638746 0 0
+/events.html
+0 1 7228576 35788 1 0
+/cca.html
+0 2 27504 63682 2 2
+/plugins/revolution/js/extensions/revolution.extension.carousel.min.js
+0 15 0 114105 0 0
+/policies.html
+0 2 0 60014 0 1
+/css/style.css
+0 20 0 2164840 0 0
+/images/background/2.jpg
+0 6 0 51408 0 0
+/images/academic/academic/1.jpg
+0 1 0 294862 0 0
+/delivery.html
+0 1 0 37469 0 0
+/images/icons/line-4.png
+0 7 0 10948 0 0
+/images/about/mission/2.jpg
+0 1 0 420417 0 0
+/book.html
+0 3 0 76641 1 1
+/images/icons/flower-1.png
+0 11 0 36641 0 0
+/js/main-slider-script.js
+0 15 0 46500 0 0
+/images/academic/secondary/4.jpg
+0 1 0 353749 0 0
+/students.html
+0 1 0 25923 1 0
+/images/academic/academic/4.jpg
+0 1 0 416735 0 0
+/images/icons/doll-3.png
+0 7 0 46893 0 0
+/images/icons/line-1.png
+0 2 0 30256 0 0
+/images/icons/star-2.png
+0 2 0 3272 0 0
+/plugins/revolution/js/jquery.themepunch.revolution.min.js
+0 13 0 843648 0 0
+/financial.html
+0 1 0 25692 1 0
+/beyond.html
+0 1 0 30973 1 1
+/images/about/about/4.jpg
+0 1 0 222329 0 0
+/transportation.html
+0 2 0 54276 1 1
+/images/about/mission/1.jpg
+0 1 0 334973 0 0
+/images/background/3.jpg
+0 6 0 197136 0 0
+/images/resource/skill-3.png
+0 1 0 3789 0 0
+/tabletennis.html
+0 1 0 27763 0 0
+/images/parent/timing/2.jpg
+0 1 8299626380201780848 245560 0 0
+/year.html
+0 2 3617570470971387186 60282 0 1
+/schooltime.html
+0 1 0 27639 0 0
+/golf.html
+0 2 8535273909798318384 58128 1 0
+/images/icons/doll-2.png
+0 3 7939413431044943411 18228 0 0
+/css/bootstrap.css
+0 20 8752868413097146214 2424080 0 0
+/school.html
+0 2 0 66068 1 1
+/basketball.html
+0 1 3275365297520997477 29008 0 1
+/eal.html
+0 1 0 26701 1 1
+/oppurtunities.html
+0 6 0 159156 2 4
+/elearning.html
+0 1 0 29193 1 0
+/css/owl.css
+0 13 0 53469 0 0
+/curriculum.html
+0 2 0 72270 1 1
+/images/about/mission/3.jpg
+0 1 0 177896 0 0
+/images/academic/secondary/2.jpg
+0 1 0 412025 0 0
+/plugins/revolution/js/extensions/revolution.extension.migration.min.js
+0 14 0 365414 0 0
+/images/resource/facility-6.png
+0 7 0 36841 0 0
+/images/academic/academic/3.jpg
+0 1 0 261537 0 0
+/images/icons/moon.png
+0 2 0 3360 0 0
+/js/mixitup.js
+0 18 0 940032 0 0
+/welcome.html
+0 3 0 79458 2 0
+/css/jquery-ui.css
+0 15 0 559290 0 0
+/images/resource/info-2.png
+0 12 0 53040 0 0
+/images/icons/play-icon.png
+0 6 0 16866 0 0
+/images/icons/doll-7.png
+0 2 0 11578 0 0
+/
+0 64 0 5310300 38 22
+/drama.html
+0 1 0 28450 0 0
+/images/resource/baby-3.jpg
+0 12 0 1000680 0 0
+/plugins/revolution/js/extensions/revolution.extension.video.min.js
+0 15 0 363165 0 0
+/digital.html
+0 3 0 95889 3 3
+/plugins/revolution/css/navigation.css
+0 18 0 1072368 0 0
+/js/wow.js
+0 20 0 126000 0 0
+/images/icons/flower.png
+0 1 0 4203 0 0
+/trips.html
+0 3 0 85422 1 2
+/js/validate.js
+0 3 0 62673 0 0
+/images/academic/academic/2.jpg
+0 2 3688503264480342317 730652 0 0
+/images/icons/doll-4.png
+0 1 1686228427 6229 0 0
+/images/resource/baby-1.jpg
+0 12 110327437066544 1459380 0 0
+/plugins/revolution/js/jquery.themepunch.tools.min.js
+0 16 8246201381690540032 1769008 0 0
+/js/map-script.js
+0 2 7241182129406881337 13866 0 0
+/images/resource/skill-1.png
+0 1 28316319866762034 4093 0 0
+/clubs.html
+0 2 0 68660 2 1
+/process.html
+0 1 5140577499666710528 31141 0 0
+/apply.html
+0 2 0 85652 1 1
+/js/owl.js
+0 20 0 1583020 0 0
+/css/font-awesome.css
+0 14 0 428400 0 0
+/images/school/school/1.jpg
+0 1 0 234980 0 0
+/images/icons/doll-1.png
+0 3 0 19371 0 0
+/refer.html
+0 3 0 82233 1 1
+/images/academic/primary/4.jpg
+0 1 0 501580 0 0
+/music.html
+0 2 0 58298 1 1
+/images/icons/line-2.png
+0 7 0 4795 0 0
+/homework.html
+0 2 0 58192 0 0
+/images/icons/curve-2.png
+0 1 0 6551 0 0
+/images/main-slider/image-1.jpg
+0 13 0 3999216 0 0
+/fee.html
+0 2 0 68250 1 0
+/css/responsive.css
+0 18 0 304128 0 0
+/images/main-slider/image-2.jpg
+0 12 0 4969632 0 0
+/plugins/revolution/js/extensions/revolution.extension.actions.min.js
+0 12 0 99444 0 0
+/sc.html
+0 1 0 32748 1 0
+/schoollife.html
+0 1 7335216 28256 1 1
+/pyig.html
+0 1 0 29262 1 1
+/images/background/1.jpg
+0 7 0 82285 0 0
+/extra.html
+0 4 0 94353 1 2
+/images/resource/facility-2.png
+0 12 0 39588 0 0
+# End Of Table - urls
+# -sites- (monthly)
+hydrogen200-ext2.a.ahrefs.com
+0 1 0 0 0 0
+-
+ec2-34-219-186-9.us-west-2.compute.amazonaws.com
+0 1 1 88505 1 1688566180
+/
+static-host119-73-122-58.link.net.pk
+0 22 22 651447 0 0
+-
+45.139.196.219
+0 12 3 265515 2 1688607503
+/
+17.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+ec2-34-213-48-23.us-west-2.compute.amazonaws.com
+0 2 1 88505 1 1688566207
+/
+85.215.108.86
+0 28 0 0 1 1688589946
+-
+crawl-66-249-75-160.googlebot.com
+0 3 2 53774 2 1688590624
+/refer.html
+higgins.probe.onyphe.net
+0 1 0 0 1 1688629725
+-
+2.bl.bot.semrush.com
+0 1 1 29043 1 1688565596
+/animal.html
+proxy-ca001-ext2.a.ahrefs.com
+0 4 4 377009 0 0
+-
+26.bl.bot.semrush.com
+0 1 1 25547 1 1688581580
+/book.html
+crawl-66-249-75-161.googlebot.com
+0 3 3 133655 0 0
+-
+static-host119-73-122-56.link.net.pk
+0 14 14 1919827 0 0
+-
+proxy-ca006-ext2.a.ahrefs.com
+0 2 2 5851 0 0
+-
+proxy-ca007-ext2.a.ahrefs.com
+0 1 1 3299 0 0
+-
+hydrogen162-ext2.a.ahrefs.com
+0 1 0 0 0 0
+-
+202.69.43.106
+0 1 1 28864 1 1688563598
+/tournament.html
+fwdproxy-pnb-008.fbsv.net
+0 1 1 30454 0 0
+-
+192.71.3.26
+0 1 1 88505 1 1688580606
+/
+103.230.15.168.layerdns.com
+0 1 0 0 0 0
+-
+199.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+proxy-ca012-ext2.a.ahrefs.com
+0 3 3 505737 1 1688571967
+/
+proxy-ca003-ext2.a.ahrefs.com
+0 4 4 360779 1 1688615691
+/
+proxy-ca016-ext2.a.ahrefs.com
+0 2 2 119173 0 0
+-
+61.136.166.205
+0 2 1 88505 1 1688572706
+/
+proxy-ca018-ext2.a.ahrefs.com
+0 3 3 611968 0 0
+-
+proxy-ca004-ext2.a.ahrefs.com
+0 4 4 61406 0 0
+-
+proxy-ca005-ext2.a.ahrefs.com
+0 3 3 178586 0 0
+-
+crawl-66-249-77-75.googlebot.com
+0 2 1 35788 1 1688617385
+/events.html
+proxy-ca017-ext2.a.ahrefs.com
+0 4 3 208642 0 0
+-
+proxy-ca008-ext2.a.ahrefs.com
+0 5 5 353391 0 0
+-
+proxy-ca019-ext2.a.ahrefs.com
+0 2 2 801252 0 0
+-
+103.230.15.178.layerdns.com
+0 1 0 0 1 1688614324
+/
+proxy-ca013-ext2.a.ahrefs.com
+0 3 3 538830 0 0
+-
+fwdproxy-rva-002.fbsv.net
+0 1 1 88505 1 1688380245
+/
+proxy-ca009-ext2.a.ahrefs.com
+0 3 3 594104 0 0
+-
+kiana.probe.onyphe.net
+0 1 0 0 1 1688629725
+-
+192.36.52.37
+0 1 0 0 0 0
+-
+proxy-ca011-ext2.a.ahrefs.com
+0 1 1 3754 0 0
+-
+proxy-ca000-ext2.a.ahrefs.com
+0 1 1 7061 0 0
+-
+192.71.36.158
+0 1 0 0 0 0
+-
+192.36.53.165
+0 1 0 0 0 0
+-
+msnbot-40-77-167-138.search.msn.com
+0 1 1 31421 1 1688598083
+/secondary.html
+google-proxy-66-249-93-76.google.com
+0 1 1 28864 1 1688563599
+/tournament.html
+crawl-66-249-75-162.googlebot.com
+0 3 3 175986 2 1688576424
+/oppurtunities.html
+hydrogen001-ext2.a.ahrefs.com
+0 1 0 0 0 0
+-
+crawl-66-249-69-138.googlebot.com
+0 3 2 39946 1 1688578069
+/music.html
+static-host119-73-122-55.link.net.pk
+0 36 35 2699676 1 1688618608
+-
+cpcl47.hostingcare.net
+0 1167 1018 75634753 73 1688589909
+-
+proxy-ca014-ext2.a.ahrefs.com
+0 2 2 72896 0 0
+-
+fwdproxy-eag-003.fbsv.net
+0 1 1 88505 1 1688305276
+/
+hydrogen298-ext2.a.ahrefs.com
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+static-host119-73-122-58.link.net.pk
+0 22 22 651447 0 0
+-
+45.139.196.219
+0 6 2 177010 1 1688607503
+/
+higgins.probe.onyphe.net
+0 1 0 0 1 1688629725
+-
+proxy-ca001-ext2.a.ahrefs.com
+0 4 4 377009 0 0
+-
+static-host119-73-122-56.link.net.pk
+0 14 14 1919827 0 0
+-
+proxy-ca006-ext2.a.ahrefs.com
+0 2 2 5851 0 0
+-
+proxy-ca007-ext2.a.ahrefs.com
+0 1 1 3299 0 0
+-
+103.230.15.168.layerdns.com
+0 1 0 0 0 0
+-
+proxy-ca012-ext2.a.ahrefs.com
+0 2 2 417232 0 0
+-
+proxy-ca003-ext2.a.ahrefs.com
+0 4 4 360779 1 1688615691
+/
+proxy-ca016-ext2.a.ahrefs.com
+0 2 2 119173 0 0
+-
+proxy-ca018-ext2.a.ahrefs.com
+0 3 3 611968 0 0
+-
+proxy-ca004-ext2.a.ahrefs.com
+0 4 4 61406 0 0
+-
+proxy-ca005-ext2.a.ahrefs.com
+0 3 3 178586 0 0
+-
+crawl-66-249-77-75.googlebot.com
+0 2 1 35788 1 1688617385
+/events.html
+proxy-ca017-ext2.a.ahrefs.com
+0 4 3 208642 0 0
+-
+proxy-ca008-ext2.a.ahrefs.com
+0 5 5 353391 0 0
+-
+proxy-ca019-ext2.a.ahrefs.com
+0 2 2 801252 0 0
+-
+103.230.15.178.layerdns.com
+0 1 0 0 1 1688614324
+/
+proxy-ca013-ext2.a.ahrefs.com
+0 3 3 538830 0 0
+-
+proxy-ca009-ext2.a.ahrefs.com
+0 3 3 594104 0 0
+-
+kiana.probe.onyphe.net
+0 1 0 0 1 1688629725
+-
+proxy-ca011-ext2.a.ahrefs.com
+0 1 1 3754 0 0
+-
+proxy-ca000-ext2.a.ahrefs.com
+0 1 1 7061 0 0
+-
+static-host119-73-122-55.link.net.pk
+0 36 35 2699676 1 1688618608
+-
+proxy-ca014-ext2.a.ahrefs.com
+0 2 2 72896 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://phonicsacademia.edu.pk/policies.html
+0 1
+http://phonicsacademia.edu.pk/oppurtunities.html
+0 1
+http://www.phonicsacademia.edu.pk/css/style.css
+0 42
+http://phonicsacademia.edu.pk/apply.html
+0 3
+http://www.google.com
+0 6
+http://phonicsacademia.edu.pk/enquire.html
+0 1
+http://www.phonicsacademia.edu.pk/oppurtunities.html
+0 62
+http://phonicsacademia.edu.pk/process.html
+0 1
+http://www.phonicsacademia.edu.pk/social.html
+0 2
+http://phonicsacademia.edu.pk/fee.html
+0 1
+https://www.google.com/
+0 9
+- (Direct Request)
+0 563
+http://phonicsacademia.edu.pk/index.html
+0 1
+http://phonicsacademia.edu.pk/book.html
+0 1
+http://www.phonicsacademia.edu.pk/refer.html
+0 1
+http://phonicsacademia.edu.pk/other.html
+0 1
+http://phonicsacademia.edu.pk/academic.html
+0 5
+http://phonicsacademia.edu.pk/director.html
+0 1
+http://phonicsacademia.edu.pk/welcome.html
+0 2
+www.google.com
+0 59
+http://phonicsacademia.edu.pk/
+0 422
+http://www.phonicsacademia.edu.pk/beyond.html
+0 1
+http://phonicsacademia.edu.pk/primary.html
+0 1
+http://phonicsacademia.edu.pk/social.html
+0 1
+http://phonicsacademia.edu.pk/refer.html
+0 1
+http://phonicsacademia.edu.pk/css/font-awesome.css
+0 7
+http://www.phonicsacademia.edu.pk/welcome.html
+0 2
+http://www.phonicsacademia.edu.pk/
+0 12
+http://phonicsacademia.edu.pk/css/style.css
+0 128
+http://phonicsacademia.edu.pk/schooltime.html
+0 3
+http://www.phonicsacademia.edu.pk/css/font-awesome.css
+0 4
+http://phonicsacademia.edu.pk/mission.html
+0 8
+http://phonicsacademia.edu.pk/trips.html
+0 3
+http://phonicsacademia.edu.pk/css/flaticon.css
+0 3
+http://phonicsacademia.edu.pk/year.html
+0 1
+http://phonicsacademia.edu.pk/plugins/revolution/css/settings.css
+0 7
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 83
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 10
+Mozilla/5.0 (Linux; Android 9; RMX1811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36
+0 116
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36,gzip(gfe)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2_1) AppleWebKit/561.48 (KHTML, like Gecko) Chrome/57.0.938 Safari/537.36
+0 1
+GBWhatsApp/2.23.1.76 A
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-J400F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+0 28
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.1157.1580 Mobile S
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.17656 Chrome/85.0.4183.121 Elec
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 38
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 6
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 253
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.7119.1135 Mobile Sa
+0 1
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.179 Mobile
+0 43
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 56
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+0 269
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 19
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 54
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2285.1401 Mobile Sa
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 157
+Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+0 1
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.1
+0 1
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6146.1930 
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/114.0.5
+0 19
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.8788.1286 Mobile S
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 5
+python-requests/2.31.0
+0 3
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-
+0 65
+Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 6
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.1101.1855 Mobile Sa
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; 7c6acdbd
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 7
+com.google.android.apps.searchlite/792973 (Linux; U; Android 11; en_PK; itel S661L; Build/RP1A.201005.001; Cronet/114.0.5735.
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 4
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4783.1845 Mobile Sa
+0 1
+Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 61
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

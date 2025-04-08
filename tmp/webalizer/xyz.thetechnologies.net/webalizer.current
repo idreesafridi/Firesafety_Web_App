@@ -1,0 +1,153 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 01:58:47
+2023 7 6 1 58 47
+18 8 4 4 1 7 99782 11 3 0
+1 1 9 3 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 66883 1 1 1
+0 0 0 0 0 0
+15 7 28653 3 10 2
+2 0 4246 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 2123 0
+1 0 2123 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 389 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 66883 1
+9 1 22618 9
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 5646 1
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/FFSC9_NE-UXNVS2J1TUBM8FLLE9C9F5I
+0 1 0 64 0 0
+/
+0 3 0 78163 3 0
+/.well-known/acme-challenge/e_TsuAcmkHLe1OlHBamI73EBMUo1zbryt-gLZWRiSfI
+0 3 0 261 0 0
+/.well-known/acme-challenge/_Q0SIY08PC-VUAE6LIKYOKQJ58YDVX1N
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 2 0 4246 0 0
+-
+roopamadisars.com-1688640439993-s-1vcpu-2gb-blr1-01
+0 1 1 5646 1 1688598992
+/
+188.166.232.158
+0 9 1 22618 1 1688583901
+-
+cpcl47.hostingcare.net
+0 6 6 67272 1 1688407324
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 2 0 4246 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 18
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 9
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

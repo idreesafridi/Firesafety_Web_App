@@ -1,0 +1,423 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 01:59:41
+2023 7 6 1 59 41
+237 142 2 129 17 4 15731376 25 2 0
+1 1 234 4 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+235 142 15718170 1 25 2
+0 0 0 0 0 0
+2 0 13206 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 6603 0
+1 0 6603 0
+233 140 15621538 24
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 96632 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+142
+0
+0
+0
+0
+0
+7
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+82
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/site/assets/js/vendor/counterup.js
+0 1 0 1161 0 0
+/site/assets/css/vendor/flaticon/flaticon2916.ttf
+0 1 0 20120 0 0
+/site/assets/fonts/fa-brands-400.woff2
+0 1 0 74652 0 0
+/site/assets/fonts/fa-solid-900.woff2
+0 1 0 123060 0 0
+/assets/plugins/vectormap/jquery-jvectormap-2.0.2.min.js
+0 1 0 104822 0 0
+/site/assets/fonts/fa-light-300.woff2
+0 1 0 164968 0 0
+/site/assets/js/vendor/js.cookie.js
+0 1 0 3677 0 0
+/admin/type
+0 1 0 58062 0 0
+/assets/css/bootstrap.min.css
+0 1 0 155866 0 0
+/admin/dashboard
+0 1 0 60771 0 0
+/assets/css/header-colors.css
+0 1 0 4819 0 0
+/site/assets/js/vendor/modernizr.min.js
+0 1 0 8640 0 0
+/site/assets/images/ajax-loader.gif
+0 1 0 2743 0 0
+/assets/css/icons.css
+0 1 0 135866 0 0
+/site/assets/js/vendor/waypoints.min.js
+0 1 0 9124 0 0
+/site/assets/images/others/shape-2.png
+0 1 0 4356 0 0
+/site/assets/images/logo/logo-light.png
+0 1 0 3283 0 0
+/site/assets/images/icons/service3.png
+0 1 0 1247 0 0
+/site/assets/js/vendor/popper.min.js
+0 1 0 19697 0 0
+/vendor/dashboard
+0 1 0 739745 0 0
+/assets/plugins/simplebar/js/simplebar.min.js
+0 1 0 58015 0 0
+/site/assets/images/others/author3.png
+0 1 28268476145678386 2158 0 0
+/assets/plugins/datatable/js/dataTables.bootstrap5.min.js
+0 1 3616787888332603392 5721 0 0
+/assets/css/pace.min.css
+0 1 25692 1738 0 0
+/site/assets/js/vendor/isotope.pkgd.min.js
+0 1 7171939 35445 0 0
+/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js
+0 1 0 26482 0 0
+/assets/plugins/vectormap/jquery-jvectormap-world-mill-en.js
+0 1 7310597220861961006 104252 0 0
+/site/assets/fonts/fa-regular-400.woff2
+0 1 7596553746704183152 152180 0 0
+/images/1680944857.avif
+0 2 0 3758 0 0
+/site/assets/images/product/categories/elec-2.png
+0 1 0 1032 0 0
+/site/assets/images/bg/bg-image-9.jpg
+0 1 0 116366 0 0
+/assets/plugins/select2/css/select2-bootstrap4.css
+0 1 0 6658 0 0
+/site/assets/images/icons/service2.png
+0 1 0 2081 0 0
+/assets/css/bootstrap-extended.css
+0 1 0 8943 0 0
+/assets/plugins/morris/js/morris.js
+0 1 0 66047 0 0
+/images/1680678488.png
+0 2 0 7672 0 0
+/site/assets/images/product/categories/elec-4.png
+0 1 0 1445 0 0
+/assets/css/semi-dark.css
+0 1 0 2928 0 0
+/site/assets/images/product/categories/elec-10.png
+0 1 0 2452 0 0
+/assets/plugins/select2/js/select2.min.js
+0 1 0 67751 0 0
+/site/assets/images/product/electric/product-09.png
+0 1 0 2794 0 0
+/assets/plugins/datatable/css/dataTables.bootstrap5.min.css
+0 1 0 5370 0 0
+/assets/plugins/chartjs/js/Chart.extension.js
+0 1 0 3552 0 0
+/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css
+0 1 0 1819 0 0
+/assets/js/app.js
+0 1 0 5340 0 0
+/admin/users
+0 1 0 55717 0 0
+/product/26
+0 1 0 38095 0 0
+/site/assets/images/product/product-38.png
+0 1 0 92984 0 0
+/site/assets/images/logo/logo.png
+0 1 0 3600 0 0
+/favicon.ico
+0 1 0 0 0 0
+/site/assets/images/product/categories/elec-11.png
+0 1 0 2094 0 0
+/assets/images/logo-icon.png
+0 1 0 26185 0 0
+/admin/product_admin
+0 1 0 80000 0 0
+/site/assets/images/icons/cart/cart-2.png
+0 1 0 1038 0 0
+/site/assets/images/others/app-store.png
+0 1 0 1750 0 0
+/site/assets/images/product/electric/product-04.png
+0 1 0 8138 0 0
+/site/assets/css/vendor/bootstrap.min.css
+0 1 0 163854 0 0
+/assets/plugins/raphael/raphael-min.js
+0 1 0 93252 0 0
+/images/1680678593.png
+0 2 0 527266 0 0
+/site/assets/images/product/electric/product-03.png
+0 1 0 14876 0 0
+/admin/category
+0 1 0 59498 0 0
+/site/assets/images/product/product-45.png
+0 1 0 10999 0 0
+/site/assets/images/icons/arrow-icon.png
+0 1 0 151 0 0
+/assets/js/bootstrap.bundle.min.js
+0 1 0 78743 0 0
+/site/assets/css/vendor/sal.css
+0 1 0 7509 0 0
+/site/assets/css/vendor/slick-theme.css
+0 1 0 3170 0 0
+/site/assets/js/vendor/sal.js
+0 1 0 3282 0 0
+/assets/plugins/simplebar/css/simplebar.css
+0 1 0 2964 0 0
+/avatar/avatar.png
+0 1 0 17876 0 0
+/site/assets/js/vendor/jquery-ui.min.js
+0 1 0 47384 0 0
+/site/assets/js/main.js
+0 1 0 36571 0 0
+/site/assets/js/vendor/jquery.js
+0 1 0 88150 0 0
+/site/assets/images/product/categories/elec-8.png
+0 1 0 2418 0 0
+/login
+0 4 0 24836 0 1
+/site/assets/images/others/popup-bg.png
+0 1 0 40865 0 0
+/site/assets/images/icons/service4.png
+0 1 0 1571 0 0
+/site/assets/css/vendor/slick.css
+0 1 0 1749 0 0
+/assets/plugins/chartjs/js/Chart.min.js
+0 1 0 164550 0 0
+/assets/plugins/metismenu/css/metisMenu.min.css
+0 1 0 1922 0 0
+/assets/fonts/boxicons.woff2
+0 1 0 93260 0 0
+/assets/js/jquery.min.js
+0 1 0 89137 0 0
+/site/assets/css/vendor/flaticon/flaticon.css
+0 1 0 3885 0 0
+/site/assets/images/icons/cart/cart-1.png
+0 1 0 513 0 0
+/site/assets/images/others/play-store.png
+0 1 0 2285 0 0
+/site/assets/js/vendor/jquery.magnific-popup.min.js
+0 1 0 20216 0 0
+/site/assets/css/vendor/base.css
+0 1 0 6139 0 0
+/site/assets/images/product/categories/elec-6.png
+0 1 0 1107 0 0
+/site/assets/js/vendor/jquery.countdown.min.js
+0 1 0 5339 0 0
+/assets/css/app.css
+0 1 0 43518 0 0
+/site/assets/css/style.min.css
+0 1 0 273625 0 0
+/assets/plugins/metismenu/js/metisMenu.min.js
+0 1 0 4792 0 0
+/admin/vendor
+0 1 0 56562 0 0
+/site/assets/images/others/shape-1.png
+0 1 0 14863 0 0
+/site/assets/images/product/electric/product-05.png
+0 1 0 80134 0 0
+/site/assets/css/vendor/jquery-ui.min.css
+0 1 0 17611 0 0
+/
+0 4 0 392804 2 0
+/site/assets/images/product/categories/elec-1.png
+0 1 0 1961 0 0
+/assets/plugins/vectormap/jquery-jvectormap-2.0.2.css
+0 1 0 6586 0 0
+/site/assets/images/others/author2.png
+0 1 0 2151 0 0
+/images/1680944741.avif
+0 2 0 4420 0 0
+/site/assets/js/vendor/slick.min.js
+0 1 0 42863 0 0
+/admin/customers
+0 1 0 52463 0 0
+/site/assets/images/product/categories/elec-7.png
+0 1 0 2823 0 0
+/assets/js/pace.min.js
+0 1 0 12293 0 0
+/site/assets/images/others/author1.png
+0 1 0 2153 0 0
+/site/assets/js/vendor/imagesloaded.pkgd.min.js
+0 1 0 5594 0 0
+/assets/css/dark-theme.css
+0 1 0 20040 0 0
+/site/assets/images/others/author4.png
+0 1 0 2246 0 0
+/site/assets/css/vendor/font-awesome.css
+0 1 0 156686 0 0
+/site/assets/js/vendor/bootstrap.min.js
+0 1 0 59178 0 0
+/site/assets/images/icons/cart/cart-5.png
+0 1 0 1386 0 0
+/site/assets/images/product/product-39.png
+0 1 0 53500 0 0
+/assets/js/index2.js
+0 1 0 7597 0 0
+/site/assets/images/icons/service1.png
+0 1 0 1583 0 0
+/robots.txt
+0 1 0 24 0 0
+/assets/plugins/sparkline-charts/jquery.sparkline.min.js
+0 1 0 62673 0 0
+/assets/plugins/select2/css/select2.min.css
+0 1 0 15275 0 0
+/site/assets/images/product/categories/elec-5.png
+0 1 0 1473 0 0
+/products/1685488705.webp
+0 2 0 178800 0 0
+/site/assets/images/others/campaign-bg.png
+0 1 0 22559 0 0
+/products/1684880570.webp
+0 1 0 11870 0 0
+/site/assets/images/product/categories/elec-9.png
+0 1 0 1220 0 0
+/products/1684386241.png
+0 1 0 263633 0 0
+/assets/images/favicon-32x32.png
+0 1 0 2049 0 0
+/images/1680944756.avif
+0 2 0 4114 0 0
+/admin/location_cost
+0 1 0 54703 0 0
+/site/assets/css/vendor/magnific-popup.css
+0 1 0 6951 0 0
+/assets/plugins/datatable/js/jquery.dataTables.min.js
+0 9 0 8868809 0 0
+/admin/plans
+0 1 0 54054 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 2 0 13206 0 0
+-
+cpcl47.hostingcare.net
+0 235 149 15718170 2 1688460326
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 2 0 13206 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://flower.thetechnologies.net/login
+0 6
+https://flower.thetechnologies.net/site/assets/css/vendor/slick-theme.css
+0 1
+https://flower.thetechnologies.net/site/assets/css/vendor/font-awesome.css
+0 4
+https://flower.thetechnologies.net/admin/customers
+0 15
+https://flower.thetechnologies.net/admin/users
+0 14
+https://flower.thetechnologies.net/product/26
+0 4
+- (Direct Request)
+0 5
+https://flower.thetechnologies.net/
+0 71
+https://flower.thetechnologies.net/admin/dashboard
+0 47
+https://flower.thetechnologies.net/admin/product_admin
+0 14
+https://flower.thetechnologies.net/admin/plans
+0 14
+https://flower.thetechnologies.net/site/assets/css/vendor/flaticon/flaticon.css
+0 1
+https://flower.thetechnologies.net/assets/css/icons.css
+0 1
+https://flower.thetechnologies.net/site/assets/css/style.min.css
+0 4
+https://flower.thetechnologies.net/admin/location_cost
+0 14
+https://flower.thetechnologies.net/admin/category
+0 18
+https://flower.thetechnologies.net/vendor/dashboard
+0 4
+# End Of Table - referrers
+# -agents- 
+webprosbot/2.0 (+mailto:abuse-6337@webpros.com)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 233
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

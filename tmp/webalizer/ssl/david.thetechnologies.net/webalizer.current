@@ -1,0 +1,204 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 05:47:50
+2023 7 6 5 47 50
+68 61 6 21 5 7 8928994 11 7 0
+2 1 22 1 6
+1 1 24 1 0 0
+0 0 0 0 0 0
+42 40 5958890 1 4 2
+23 20 2969260 4 5 3
+0 0 0 0 0 0
+2 0 820 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+23 21 2979871 3
+1 0 402 1
+1 0 418 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+23 21 2986585 4
+0 0 0 0
+20 19 2961718 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+61
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/images/pexels-burak-the-weekender-1098982.jpg
+0 3 0 6653421 0 0
+/assets/css/bootstrap.min.css
+0 3 0 467601 0 0
+/assets/css/icons.css
+0 3 0 407598 0 0
+/assets/plugins/simplebar/js/simplebar.min.js
+0 3 0 174045 0 0
+/assets/css/pace.min.css
+0 3 0 5214 0 0
+/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js
+0 3 0 79446 0 0
+/assets/css/bootstrap-extended.css
+0 3 0 26526 0 0
+/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css
+0 3 0 5457 0 0
+/assets/js/app.js
+0 3 0 16020 0 0
+/assets/js/bootstrap.bundle.min.js
+0 3 0 236229 0 0
+/assets/plugins/simplebar/css/simplebar.css
+0 3 0 8892 0 0
+/login
+0 4 0 26952 0 2
+/assets/plugins/metismenu/css/metisMenu.min.css
+0 3 0 5766 0 0
+/assets/fonts/boxicons.woff2
+0 3 0 279780 0 0
+/assets/js/jquery.min.js
+0 3 0 267411 0 0
+/assets/css/app.css
+0 3 0 131232 0 0
+/assets/plugins/metismenu/js/metisMenu.min.js
+0 3 0 14376 0 0
+/assets/images/favicon.jpg
+0 2 0 35454 0 0
+/assets/js/pace.min.js
+0 3 0 36879 0 0
+/robots.txt
+0 1 0 24 0 0
+/assets/logo.png
+0 3 0 47841 0 0
+# End Of Table - urls
+# -sites- (monthly)
+104.28.255.45
+0 18 17 2891410 1 1688488363
+/login
+cerebro-ldc-stg-103.kaspersky-labs.com
+0 2 1 7140 1 1688481325
+/login
+128.199.130.103
+0 1 0 418 1 1688622470
+-
+159.65.63.89
+0 1 0 402 1 1688615074
+-
+cpcl47.hostingcare.net
+0 44 41 5959316 3 1688445661
+-
+104.28.223.45
+0 2 2 70308 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+128.199.130.103
+0 1 0 418 1 1688622470
+-
+159.65.63.89
+0 1 0 402 1 1688615074
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://david.thetechnologies.net/assets/css/icons.css
+0 2
+https://david.thetechnologies.net
+0 1
+- (Direct Request)
+0 12
+https://david.thetechnologies.net/login
+0 51
+https://david.thetechnologies.net/assets/css/app.css
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 App Version: 
+0 20
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,297 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.matrimonial.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2039                
+POS_TIME 2710                
+POS_VISITOR 6511                
+POS_DAY 7188                
+POS_DOMAIN 3272                
+POS_LOGIN 3558                
+POS_ROBOT 3713                
+POS_WORMS 3878                
+POS_EMAILSENDER 4009                
+POS_EMAILRECEIVER 4152                
+POS_SESSION 7644                
+POS_SIDER 7803                
+POS_FILETYPES 4287                
+POS_DOWNLOADS 4468                
+POS_OS 4516                
+POS_BROWSER 4672                
+POS_SCREENSIZE 4885                
+POS_UNKNOWNREFERER 4959                
+POS_UNKNOWNREFERERBROWSER 5189                
+POS_ORIGIN 5414                
+POS_SEREFERRALS 5547                
+POS_PAGEREFS 5691                
+POS_SEARCHWORDS 5865                
+POS_KEYWORDS 6017                
+POS_MISC 2374                
+POS_ERRORS 6076                
+POS_CLUSTER 3414                
+POS_SIDER_404 6173                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230702081829 1 0 6702206192746
+FirstTime 20230601014423
+LastTime 20230625231544
+LastUpdate 20230702082116 1 0 0 0 0
+TotalVisits 29                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 1 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 2 2 258970 0 0 0
+2 5 7 670879 0 0 0
+3 2 5 296934 0 0 0
+4 2 52 849847 0 1 0
+5 1 3 154963 0 0 0
+6 1 5 1574947 0 0 0
+7 0 2 259661 0 0 0
+8 2 2 257958 0 0 0
+9 0 0 0 0 0 0
+10 1 2 141971 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 3 5 412921 0 0 0
+14 11 11 1160811 1 1 0
+15 0 0 0 0 0 0
+16 3 3 257958 0 17 25603
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 1 1 128979 0 0 0
+20 0 0 0 0 0 0
+21 2 2 0 2 2 128979
+22 0 0 0 0 0 0
+23 3 3 257958 1 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 35 36 3754395
+pk 2 62 979767
+ru 2 2 257958
+au 0 4 1445968
+sc 0 1 246669
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+survey 1 128979 20230605212436 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+woff2 1 0 0 0
+css 34 364575 0 0
+php 6 0 0 0
+png 10 871639 0 0
+html 32 4124479 0 0
+js 20 289824 0 0
+jpg 2 1034240 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+androidoreo 1 0
+Unknown 33 33
+win7 1 1
+win10 8 0
+android10 5 0
+ios_iphone 3 0
+android 54 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+Unknown 33 33
+chrome110.0.5481.154 51 2
+chrome110.0.0.0 3 3
+chrome75.0.3770.90 1 1
+safari16.2 3 0
+chrome114.0.0.0 11 0
+chrome113.0.0.0 2 0
+chrome84.0.4147.105 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/6.2.2;_http://matrimonial.thetechnologies.net 20230625231544
+WordPress/6.2.2;_https://matrimonial.thetechnologies.net 20230625231537
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/6.2.2;_https://matrimonial.thetechnologies.net 20230625231537
+WordPress/6.2.2;_http://matrimonial.thetechnologies.net 20230625231544
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 37 37
+From1 0 0
+From2 0 0
+From3 0 3
+From4 2 65
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://weddingapp.pk 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1 25603
+301 19 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/wp-emoji-release.min.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+107.161.191.226 33 33 3483445 20230625231544
+39.59.175.13 2 51 836855 20230620040805
+136.144.19.16 1 1 128979 20230617145330
+93.159.230.87 1 1 128979 20230603142749
+93.159.230.89 1 1 128979 20230617145430
+34.238.194.206 1 1 128979 20230604163428
+119.160.97.248 0 1 12992 
+119.73.101.101 0 1 12992 
+182.176.83.212 0 1 12992 
+119.160.99.41 0 1 12992 
+119.73.101.72 0 1 12992 
+119.160.99.48 0 2 25984 
+101.53.234.37 0 3 1432976 
+123.108.92.13 0 1 12992 
+119.160.96.172 0 1 12992 
+119.160.98.222 0 1 12992 
+154.80.85.61 0 1 246669 
+119.155.21.116 0 1 12992 
+139.135.36.65 0 1 12992 
+110.39.54.102 0 1 12992 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20230601 1 2 142983 1
+20230602 3 5 412921 2
+20230603 3 3 257958 2
+20230604 3 3 257958 2
+20230605 4 6 283942 3
+20230606 1 1 128979 1
+20230607 1 1 128979 1
+20230608 1 1 128979 1
+20230609 1 4 1795632 1
+20230610 3 3 386937 2
+20230612 1 1 128979 1
+20230613 1 1 128979 1
+20230616 2 3 270950 1
+20230617 5 6 528908 4
+20230618 1 1 128979 1
+20230619 2 6 309926 2
+20230620 3 55 1004810 2
+20230625 3 3 257958 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 28
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 31 3999361 23 27
+/wp-cron.php 6 0 5 1
+/about/ 1 125118 1 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 1 0 0 1
+END_SIDER

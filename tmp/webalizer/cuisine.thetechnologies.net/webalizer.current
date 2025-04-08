@@ -1,0 +1,209 @@
+# Webalizer V2.23-08 Incremental Data - 06/29/2023 20:26:05
+2023 6 29 20 26 5
+40 5 18 3 2 14 389 30 13 0
+1 2 10 10 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+9 0 0 1 9 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 0 0 1 10 1
+1 0 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 1 1
+1 0 0 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+9 5 389 8 3 3
+6 0 0 5 4 4
+3 0 0 1 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 0 1
+0 0 0 0
+0 0 0 0
+1 0 0 1
+7 5 389 2
+9 0 0 9
+0 0 0 0
+11 0 0 10
+0 0 0 0
+2 0 0 2
+0 0 0 0
+1 0 0 1
+0 0 0 0
+0 0 0 0
+1 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+6 0 0 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+35
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/8VYN-AA5X4MZIEG7A0OH57SMWW_4SX3_
+0 1 0 64 0 0
+/.well-known/acme-challenge/EMNKjvNQSYXyUvWwUrn-jsTzcLsKUlGUjzjIZtw_MWE
+0 3 0 261 0 0
+/.well-known/acme-challenge/KAIQ6CW0A8EKRE32DNIOTLA2HEHJ8GFA
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cloud.indirecipes.com
+0 2 0 0 1 1687920868
+-
+outbound1h.letsencrypt.org
+0 1 1 87 0 0
+-
+45.90.62.30
+0 1 0 0 1 1687985970
+-
+vmi1321825.contaboserver.net
+0 9 0 0 1 1686380749
+-
+209.160.115.47
+0 10 0 0 1 1686647383
+-
+146.70.198.138
+0 1 0 0 1 1687848025
+-
+205.169.39.245
+0 1 0 0 1 1687848022
+-
+161.35.229.208
+0 1 0 0 1 1687968987
+-
+24.199.89.17
+0 1 0 0 1 1687498002
+-
+ec2-3-21-168-154.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+45.90.63.39
+0 1 0 0 0 0
+-
+ec2-34-222-159-129.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+176.53.221.121
+0 1 0 0 0 0
+-
+64.227.129.51
+0 1 0 0 1 1686750415
+-
+169.75.109.208.host.secureserver.net
+0 1 0 0 0 0
+-
+cpcl47.hostingcare.net
+0 5 2 128 2 1688070363
+-
+89.104.101.81
+0 1 0 0 1 1687898446
+-
+65.154.226.171
+0 1 0 0 1 1687951212
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpcl47.hostingcare.net
+0 3 0 0 2 1688070363
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 39
+www.google.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4859.172 Safari/537.36
+0 1
+Go-http-client/1.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+0 9
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.121 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 C
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 10
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,308 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.p.phonicsacademia.edu.pk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2032                
+POS_TIME 2693                
+POS_VISITOR 6491                
+POS_DAY 6882                
+POS_DOMAIN 3303                
+POS_LOGIN 3589                
+POS_ROBOT 3744                
+POS_WORMS 3955                
+POS_EMAILSENDER 4086                
+POS_EMAILRECEIVER 4229                
+POS_SESSION 7073                
+POS_SIDER 7245                
+POS_FILETYPES 4364                
+POS_DOWNLOADS 4560                
+POS_OS 4608                
+POS_BROWSER 4738                
+POS_SCREENSIZE 4941                
+POS_UNKNOWNREFERER 5015                
+POS_UNKNOWNREFERERBROWSER 5102                
+POS_ORIGIN 5184                
+POS_SEREFERRALS 5317                
+POS_PAGEREFS 5511                
+POS_SEARCHWORDS 5659                
+POS_KEYWORDS 5811                
+POS_MISC 2357                
+POS_ERRORS 5870                
+POS_CLUSTER 3445                
+POS_SIDER_404 5983                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601002931 3 351 10716382992409
+FirstTime 0
+LastTime 20230529053810
+LastUpdate 20230601084757 3 0 2 0 0
+TotalVisits 7                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 54 5228088 11 19 17284
+1 4 4 121792 2 19 20728
+2 0 0 0 2 3 2968
+3 22 65 5700370 7 8 3972
+4 21 21 3509456 6 6 5680
+5 10 10 4495435 4 6 2732
+6 0 0 0 3 5 3388
+7 1 2 342163 4 21 23372
+8 0 1 339066 2 2 1884
+9 0 1 339066 2 3 1892
+10 0 0 0 1 2 1496
+11 0 0 0 4 5 4836
+12 0 0 0 1 2 1496
+13 0 0 0 1 2 1496
+14 0 0 0 3 6 4488
+15 1 1 3077 1 1 396
+16 0 0 0 2 4 2992
+17 0 0 0 0 1 24
+18 2 2 6174 2 5 5224
+19 0 0 0 1 2 1496
+20 0 0 0 1 2 436
+21 0 0 0 2 4 2992
+22 0 0 0 2 4 2992
+23 0 0 0 3 4 1908
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+cn 49 92 13635242
+us 20 65 5765139
+ca 2 2 6174
+hu 0 1 339066
+pk 0 1 339066
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Googlebot/ 28 672 20230531074729 28
+bot[\s_+:,\.\;\/\\-] 4 96 20230531135110 4
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 9 1732776 0 0
+woff2 3 172348 0 0
+woff 3 115268 0 0
+jpg 1 39026 0 0
+js 44 6577180 0 0
+css 36 1353586 0 0
+Unknown 65 10094503 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 64 19
+macosx6 1 1
+macosx15 92 49
+android10 1 0
+android 3 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome107.0.0.0 1 1
+chrome104.0.0.0 1 1
+chrome112.0.0.0 92 49
+chrome113.0.0.0 63 18
+chrome113.0.5672.77 1 0
+chrome103.0.5060.114 2 2
+chrome102.0.0.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5 5
+From1 0 0
+From2 0 3
+From3 0 0
+From4 66 153
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 0 2
+in_images_search_yahoo_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 67 98624
+419 3 4524
+302 31 12256
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/static/admin/javascript/hetong.js 2 -
+/.well-known/assetlinks.json 28 -
+/api/index.php/v1/config/application 4 -
+/public/backend/js/pdfmake.min.js.map 1 -
+/ads.txt 31 -
+/Public/home/js/check.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+223.123.89.55 49 92 13635242 20230508050420
+139.135.36.134 18 62 5419899 20230529053810
+47.251.13.32 1 1 3077 20230523182824
+3.91.243.179 1 1 3097 20230527070645
+107.189.31.153 1 1 3077 20230502150614
+47.254.25.10 1 1 3097 20230523182824
+157.37.195.158 0 1 339066 
+37.111.156.202 0 1 339066 
+116.71.168.116 0 1 339066 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20230502 1 1 3077 1
+20230508 49 92 13635242 1
+20230517 0 1 339066 0
+20230523 2 4 684306 2
+20230527 1 1 3097 1
+20230529 18 62 5419899 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 1
+1h+ 1
+0s-30s 4
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/login 10 31659 7 4
+/invoices 4 6538338 0 0
+/fee_types 4 81919 0 0
+/students/class/18 3 127497 0 0
+/academic_years/create 3 2643 0 0
+/students/class/24 3 125214 0 0
+/dashboard 3 205189 0 0
+/students 3 1107784 0 0
+/students/class/13 2 190898 0 0
+/public/backend/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/students/class/12 2 63584 0 0
+/students/class/27 2 95920 0 0
+/invoices/class/7 2 771178 0 0
+/public/backend/fonts/themify.woff 2 112216 0 0
+/invoices/11018 2 29705 0 1
+/academic_years 2 32312 0 0
+/students/class/16 2 107609 0 0
+/students/class/14 2 105186 0 0
+/students/class/17 2 102831 0 0
+/invoices/10839 1 14538 0 0
+/fee_types/19 1 252 0 0
+/students/class/15 1 75855 0 0
+/students/657 1 34719 0 0
+/invoices/10941 1 14655 0 0
+/students/create 1 52229 0 0
+/public/backend/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/invoices/10720 1 14565 0 0
+/fee_types/19/edit 1 1056 0 0
+/create-monthly-invoice 1 41830 0 0
+/students/get_students/19/0 1 18605 0 0
+/students/class/7 1 31790 0 1
+/public/backend/fonts/dropify.woff 1 3052 0 1
+/students/61 1 34744 0 0
+/fee_types/create 1 1051 0 0
+/invoices/11018/edit 1 39148 0 0
+END_SIDER

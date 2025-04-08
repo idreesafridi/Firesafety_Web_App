@@ -1,0 +1,289 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.flower.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2706                
+POS_VISITOR 8722                
+POS_DAY 8878                
+POS_DOMAIN 3211                
+POS_LOGIN 3456                
+POS_ROBOT 3611                
+POS_WORMS 3743                
+POS_EMAILSENDER 3874                
+POS_EMAILRECEIVER 4017                
+POS_SESSION 8960                
+POS_SIDER 9117                
+POS_FILETYPES 4152                
+POS_DOWNLOADS 4376                
+POS_OS 4424                
+POS_BROWSER 4528                
+POS_SCREENSIZE 4634                
+POS_UNKNOWNREFERER 4708                
+POS_UNKNOWNREFERERBROWSER 4831                
+POS_ORIGIN 4949                
+POS_SEREFERRALS 5082                
+POS_PAGEREFS 5245                
+POS_SEARCHWORDS 5393                
+POS_KEYWORDS 5545                
+POS_MISC 2370                
+POS_ERRORS 5604                
+POS_CLUSTER 3312                
+POS_SIDER_404 5734                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230502030134 1 0 17651798751654
+FirstTime 20230421065634
+LastTime 20230421071021
+LastUpdate 20230502085038 1 0 0 0 0
+TotalVisits 2                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 8 74 5685268 1 13 79682
+7 25 64 2838511 20 68 1924891
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+cn 32 110 7370171
+pk 1 28 1153608
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+ttf 1 20120 0 0
+css 30 1674776 0 0
+woff2 5 608120 0 0
+js 43 3892116 0 0
+png 30 797785 0 0
+avif 3 0 0 0
+Unknown 17 601535 0 0
+jpg 2 232732 0 0
+html 7 696595 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+Unknown 1 1
+win10 28 1
+macosx15 109 31
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome109.0.0.0 28 1
+Unknown 1 1
+chrome112.0.0.0 109 31
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.23.7.78_A 20230421065647
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.23.7.78_A 20230421065647
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5 5
+From1 0 0
+From2 1 1
+From3 0 0
+From4 27 132
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 3 1201507
+302 14 5856
+206 12 460457
+404 51 336753
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 27
+/admin/company/assets/images/avatars/avatar-7.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-8.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-3.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/assets/images/avatars/avatar-11.png 3 https://flower.thetechnologies.net/admin/company
+/admin/assets/images/avatars/avatar-4.png 3 https://flower.thetechnologies.net/admin/company
+/admin/assets/images/avatars/avatar-1.png 3 https://flower.thetechnologies.net/admin/company
+/admin/company/assets/images/avatars/avatar-10.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-2.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/assets/images/avatars/avatar-2.png 3 https://flower.thetechnologies.net/admin/company
+/admin/assets/images/avatars/avatar-3.png 3 https://flower.thetechnologies.net/admin/company
+/customer/site/assets/images/others/app-store.png 2 https://flower.thetechnologies.net/customer/dashboard
+/customer/assets/images/favicon.png 1 https://flower.thetechnologies.net/customer/dashboard
+/admin/assets/images/avatars/avatar-10.png 3 https://flower.thetechnologies.net/admin/company
+/admin/company/assets/images/avatars/avatar-9.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/assets/images/avatars/avatar-8.png 3 https://flower.thetechnologies.net/admin/company
+/admin/company/assets/images/avatars/avatar-5.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-1.png 1 https://flower.thetechnologies.net/admin/company/create
+/admin/company/assets/images/avatars/avatar-4.png 1 https://flower.thetechnologies.net/admin/company/create
+/assets/images/favicon.png 1 https://flower.thetechnologies.net/login
+/admin/company/assets/images/avatars/avatar-11.png 1 https://flower.thetechnologies.net/admin/company/create
+/customer/site/assets/images/others/play-store.png 2 https://flower.thetechnologies.net/customer/dashboard
+/vendor/assets/images/favicon.png 1 https://flower.thetechnologies.net/vendor/dashboard
+/admin/assets/images/avatars/avatar-7.png 3 https://flower.thetechnologies.net/admin/company
+/admin/assets/images/avatars/avatar-5.png 3 https://flower.thetechnologies.net/admin/company
+/admin/assets/images/avatars/avatar-9.png 3 https://flower.thetechnologies.net/admin/company
+/admin/assets/images/avatars/avatar-6.png 3 https://flower.thetechnologies.net/admin/company
+/admin/company/assets/images/avatars/avatar-6.png 1 https://flower.thetechnologies.net/admin/company/create
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+223.123.98.79 32 110 7370171 20230421071021
+58.27.225.4 1 28 1153608 20230421070532
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20230421 33 138 8523779 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/login 9 56016 1 1
+/ 7 696595 1 0
+/admin/dashboard 2 91496 0 0
+/customer/dashboard 2 132044 0 1
+/vendor/dashboard 2 229014 0 0
+/site/assets/css/vendor/flaticon/flaticon2916.ttf 1 20120 0 0
+/assets/fonts/boxicons.woff2 1 93260 0 0
+/admin/company/create 1 45898 0 0
+/site/assets/fonts/fa-brands-400.woff2 1 74652 0 0
+/images/1680944741.avif 1 0 0 0
+/site/assets/fonts/fa-regular-400.woff2 1 152180 0 0
+/images/1680944756.avif 1 0 0 0
+/site/assets/fonts/fa-solid-900.woff2 1 123060 0 0
+/images/1680944857.avif 1 0 0 0
+/site/assets/fonts/fa-light-300.woff2 1 164968 0 0
+/admin/company 1 47067 0 0
+END_SIDER

@@ -1,0 +1,138 @@
+# Webalizer V2.23-08 Incremental Data - 07/05/2023 14:24:46
+2023 7 5 14 24 46
+6 0 3 0 1 2 0 2 2 0
+3 2 4 5 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 0 0 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 0 1
+2 0 0 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+fwdproxy-ncg-005.fbsv.net
+0 1 0 0 0 0
+-
+fwdproxy-ncg-003.fbsv.net
+0 1 0 0 0 0
+-
+cpcl47.hostingcare.net
+0 4 0 0 2 1688543216
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+fwdproxy-ncg-005.fbsv.net
+0 1 0 0 0 0
+-
+fwdproxy-ncg-003.fbsv.net
+0 1 0 0 0 0
+-
+cpcl47.hostingcare.net
+0 4 0 0 2 1688543216
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 4
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

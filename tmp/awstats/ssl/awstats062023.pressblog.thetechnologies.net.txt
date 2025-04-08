@@ -1,0 +1,294 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.pressblog.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2037                
+POS_TIME 2686                
+POS_VISITOR 13903               
+POS_DAY 13975               
+POS_DOMAIN 3186                
+POS_LOGIN 3397                
+POS_ROBOT 3552                
+POS_WORMS 3684                
+POS_EMAILSENDER 3815                
+POS_EMAILRECEIVER 3958                
+POS_SESSION 14031               
+POS_SIDER 14168               
+POS_FILETYPES 4093                
+POS_DOWNLOADS 4157                
+POS_OS 4205                
+POS_BROWSER 4270                
+POS_SCREENSIZE 4320                
+POS_UNKNOWNREFERER 4394                
+POS_UNKNOWNREFERERBROWSER 4481                
+POS_ORIGIN 4563                
+POS_SEREFERRALS 4693                
+POS_PAGEREFS 4837                
+POS_SEARCHWORDS 4985                
+POS_KEYWORDS 5137                
+POS_MISC 2350                
+POS_ERRORS 5196                
+POS_CLUSTER 3253                
+POS_SIDER_404 5282                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230701033619 8 1976 27016308416326
+FirstTime 0
+LastTime 0
+LastUpdate 20230701080658 8 0 7 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 17 0
+1 0 0 0 7 23 0
+2 0 0 0 6 28 0
+3 0 0 0 5 19 0
+4 0 0 0 2 24 0
+5 0 0 0 3 15 0
+6 0 0 0 1 13 0
+7 0 0 0 2 21 0
+8 0 0 0 1 11 0
+9 0 0 0 6 10 0
+10 0 0 0 2 10 0
+11 0 0 0 5 14 0
+12 0 0 0 2 12 0
+13 0 0 0 1 18 0
+14 0 0 0 5 15 0
+15 0 0 0 0 15 0
+16 0 0 0 3 23 0
+17 0 0 0 1 17 0
+18 0 0 0 0 12 0
+19 0 0 0 0 7 0
+20 0 0 0 4 20 0
+21 0 0 0 6 19 0
+22 0 0 0 7 16 0
+23 0 0 0 4 19 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 398 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 76
+/image/1650103204.jpg 1 https://www.presscard.org/blog-details/admin/comment-choisir-le-type-de-panneau-solaire-3
+/image/1661376855.jpg 1 https://www.presscard.org/blog-details/Admin/une-legende-tunisienne-3
+/image/1645104844.jpg 2 https://www.presscard.org/blog-details/jean-dupont/russia-says-pulling-back-more-troops-despite-us-claims
+/register 1 -
+/image/1618335435.jfif 3 https://www.presscard.org/blog-details/Admin/shoppers-stay-wary-as-stores-finally-reopen
+/image/1640807296.jpg 1 https://www.presscard.org/blog-details/Admin/celebrity-new-years-resolutions-to-inspire-yours
+/image/1667420625.jpg 1 https://presscard.org/blog-details/Admin/comment-monetiser-votre-savoir-3
+/conditions 1 -
+/image/1611137106.jfif 1 https://www.presscard.org/blog-details/Admin/5-easy-yoga-poses-that-lower-stress-and-anxiety
+/image/1612899661.jfif 3 https://presscard.org/blog-details/Admin/priyanka-chopra-says-a-director-asked-her-to-go-under-the-knife-fix-her-proportions-its-so-normalized
+/image/1636635293.jfif 2 https://presscard.org/blog-details/jean-dupont/covoiturage
+/image/1625436785.jpg 2 https://presscard.org/blog-details/Admin/philippines-plane-with-92-people-on-board-crashes-sparking-massive-rescue-operation
+/image/1611232420.jfif 2 https://www.presscard.org/blog-details/Admin/how-lady-gaga-transformed-from-popstar-to-political-powerhouse
+/image/1645274758.jpg 3 https://presscard.org/blog-details/jean-dupont/crypto-loyalty-programs-are-quickly-garnering-interest
+/image/1645383167.jpg 3 https://www.presscard.org/blog-details/jean-dupont/bilan-francais-des-jo-de-pekin-2022
+/image/1611434013.jfif 3 https://presscard.org/blog-details/Admin/the-carpooling-that-suits-you-3
+/image/1634496312.jpg 5 https://presscard.org/blog-details/Admin/us-throws-out-millions-of-doses-of-covid-vaccine-as-world-goes-wanting
+/image/1644478225.jpg 2 https://www.presscard.org/blog-details/jean-dupont/junaid-sheikh-celebrities-who-are-friends-with-royals-3
+/image/1640440082.jpg 1 https://presscard.org/blog-details/Admin/inflation-reaches-highest-level-in-nearly-four-decades-heres-what-rising-prices-mean-for-you
+/image/1646735957.jpg 22 -
+/118 1 -
+/image/1621017043.jpg 2 https://presscard.org/blog-details/Admin/jennifer-lawrence-excited-about-jennifer-lopez-and-ben-affleck-reunion
+/image/1640439723.jpg 3 https://www.presscard.org/blog-details/Admin/if-you-hate-running-you-can-improve-your-cardio-with-weightlifting-workouts-experts-say
+/ 9 -
+/image/1610560718.png 1 https://www.presscard.org/blog-details/Admin/testtesttesttesst
+/image/1611141679.jfif 2 https://presscard.org/blog-details/Admin/priyanka-chopra-jonas-becomes-an-expert-at-hair-updos-amid-covid-19-pandemic-gloats-and-shares-proof
+/image/1611515187.jpg 1 https://www.presscard.org/blog-details/John-Harrison/carte-covid-19-plus-de-416000-morts-aux-etats-unis
+/image/1612150873.jfif 1 https://presscard.org/blog-details/jean-dupont/suu-kyis-fate-and-myanmars-in-the-balance-after-army-coup
+/image/1640438485.jpg 1 https://presscard.org/blog-details/Admin/covid-christmas-in-french-icu-fear-fatigue-and-loving-care
+/image/1611823120.jfif 1 https://presscard.org/blog-details/John-Harrison/a-non-essential-trip-sturgeon-tells-johnson-to-stay-out-of-scotland
+/image/1641552556.jpg 1 https://www.presscard.org/blog-details/Admin/rare-thundersnow-phenomenon-could-hit-uk-after-coldest-night-this-winter
+/image/1667330429.jpg 3 https://presscard.org/blog-details/Admin/comment-monetiser-votre-savoir-3
+/robots.txt 90 -
+/image/1611136725.jfif 4 https://presscard.org/blog-details/Admin/how-to-watch-joe-bidens-inauguration-tv-channels-for-ceremony-and-celebrations
+/image/1612649254.jfif 2 https://www.presscard.org/blog-details/Admin/never-got-your-stimulus-check-claim-it-on-your-taxes
+/image/1636635841.jpg 1 https://www.presscard.org/blog-details/jean-dupont/russia-sends-nuclear-capable-bombers-on-patrol-over-belarus
+/image/1644955232.jpg 3 https://www.presscard.org/blog-details/jean-dupont/hundreds-of-afghan-womens-rights-activists-urge-biden-to-take-action-over-killings-and-abductions
+/image/1614981885.jfif 2 https://www.presscard.org/blog-details/Admin/ukraine-holds-soup-fest-with-political-flavour
+/image/1618916309.jfif 3 https://www.presscard.org/blog-details/Admin/nasas-mini-helicopter-ingenuity-becomes-first-aircraft-to-fly-on-another-planet
+/image/1667568439.PNG 101 -
+/image/1644478117.jpg 2 https://www.presscard.org/blog-details/jean-dupont/junaid-sheikh-un-youtubeur-americain-et-un-influenceur-belge-meurent-dans-un-crash-en-islande-3
+/image/1612359716.jfif 3 https://presscard.org/blog-details/Admin/salma-hayek-is-perfection-in-white-during-glamorous-home-visit-with-friends-fans-react
+/73 1 -
+/image/1613821383.jfif 3 https://www.presscard.org/blog-details/Admin/google-maps-street-view-mans-embarrassing-accident-caught-for-all-to-see-on-camera
+/image/1641155938.jpg 1 https://www.presscard.org/blog-details/Admin/charles-urges-world-to-remember-those-defending-human-rights-in-new-year-message
+/112 1 -
+/image/1645796360.png 5 https://presscard.org/blog-details/Admin/sanctions-against-russia-by-kurdish-cartoonist
+/image/1610830976.jfif 1 https://www.presscard.org/blog-details/Admin/economisons-nos-ressources-et-celles-de-la-planete
+/image/1640378961.jpg 2 https://presscard.org/blog-details/Admin/oic-summit-pakistans-success-says-ashrafi
+/image/1610836591.jfif 1 https://www.presscard.org/blog-details/Admin/quelle-legislation-europeenne-contre-les-spams
+/image/1663673163.png 39 -
+/image/1617099321.jfif 3 -
+/image/1611515906.jpg 1 https://presscard.org/blog-details/Admin/40-wall-street-un-gratte-ciel-emblematique
+/image/1625437309.jpg 3 https://www.presscard.org/blog-details/Admin/gary-neville-slams-priti-patel-over-home-secretarys-tweet-after-england-beat-ukraine
+/image/1638875576.jpg 4 https://www.presscard.org/blog-details/Admin/indonesia-volcano-eruption-death-toll-rises-to-34
+/image/1647001912.jpg 2 https://presscard.org/blog-details/Admin/lou-pernaut-evoque-les-obseques-de-son-pere
+/image/1640806059.jpg 3 https://www.presscard.org/blog-details/Admin/publish-your-ad-here
+/image/1640377161.jpg 3 https://www.presscard.org/blog-details/Admin/europes-bizarre-rules-for-covid-vaccine-passes
+/image/1618335021.jfif 1 https://presscard.org/blog-details/John-Harrison/who-was-prince-philip-with-when-he-died
+/image/1667566931.jpg 2 https://presscard.org/blog-details/mehmet-sel/nouvelles-technologies-3
+/image/1613643340.jfif 1 https://www.presscard.org/blog-details/Admin/nascars-first-female-arab-american-driver-toni-breidinger-debuts
+/image/1612899335.jfif 1 https://presscard.org/blog-details/John-Harrison/paris-hilton-says-she-was-abused-as-teen-at-utah-school
+/image/1640521513.jpg 1 https://www.presscard.org/blog-details/Admin/archbishop-desmond-tutu-symbol-of-the-struggle-against-apartheid-south-africa-dies-in-cape-town
+/image/1613499398.jfif 1 https://presscard.org/blog-details/john--harrison/heres-how-the-royal-family-is-dealing-with-the-pandemic
+/image/1644847041.jpg 2 https://www.presscard.org/blog-details/jean-dupont/putin-signals-talks-with-us-nato-to-continue-amid-crisis
+/image/1648233018.jfif 2 https://presscard.org/blog-details/Admin/ca-naurait-jamais-du-arriver-le-prince-william-presente-des-excuses-tres-attendues-en-jamaique
+/image/1614982211.jfif 2 https://www.presscard.org/blog-details/Admin/my-life-has-made-a-180-uswnt-star-morgan-returns-to-the-field-with-new-purpose-as-a-mom
+/image/1611137761.jfif 2 https://presscard.org/blog-details/Admin/ps5-stock-confirmed-as-landing-this-week-find-out-where-to-buy-ps5-now
+/image/1636278936.jpg 1 https://www.presscard.org/blog-details/Admin/aucklanders-can-travel-over-summer-thats-a-commitment-pm
+/67 1 -
+/api/index.php/v1/config/application 5 -
+/36 1 -
+/image/1610833653.jfif 1 https://www.presscard.org/blog-details/la-democratie-a-lepreuve-de-linformation-des-rencontres-des-debats-au-conseil-de-leurope-comme-en-ville
+/image/1636634789.jpg 2 https://presscard.org/blog-details/jean-dupont/ukraine-us-top-diplomat-warns-russia-over-military-buildup
+/image/1611137578.jfif 1 https://presscard.org/blog-details/john--harrison/aust-shares-higher-before-biden-era-begins
+/image/1619002420.jfif 1 https://www.presscard.org/blog-details/Admin/salma-hayeks-iconic-hairstyle-looks-totally-different-in-must-see-throwback-photo
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER

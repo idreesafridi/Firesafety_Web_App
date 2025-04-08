@@ -1,0 +1,152 @@
+# Webalizer V2.23-08 Incremental Data - 07/05/2023 14:09:17
+2023 7 5 14 9 17
+21 7 2 4 3 6 1611 16 5 0
+2 1 14 2 5
+0 0 0 0 0 0
+13 2 402 1 13 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 5 1209 2 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 5 389 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+13 2 418 13
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 402 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 402 1
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/NLLX-V8QWC-HMUEIR3QMJ2OYE8H9NGSG
+0 1 0 64 0 0
+/.well-known/acme-challenge/3H60PDU3-T3KGKW94409M3X2HPB0B6NZ
+0 1 0 64 0 0
+/.well-known/acme-challenge/UY8uPBJkg8eJte5QG_uOxFP3Ti2SFHfCdBaEIU4IRu4
+0 3 0 261 0 0
+/login
+0 2 0 0 0 1
+# End Of Table - urls
+# -sites- (monthly)
+188.166.232.158
+0 1 0 402 1 1688566157
+-
+cpcl47.hostingcare.net
+0 20 7 1209 4 1688540334
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.166.232.158
+0 1 0 402 1 1688566157
+-
+cpcl47.hostingcare.net
+0 7 5 807 2 1688540334
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://lights.thetechnologies.net/
+0 1
+- (Direct Request)
+0 19
+http://lights.thetechnologies.net/home
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Cpanel-HTTP-Client/1.0
+0 2
+axios/1.4.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 12
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

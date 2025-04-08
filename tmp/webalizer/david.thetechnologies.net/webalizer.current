@@ -1,0 +1,145 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 05:47:49
+2023 7 6 5 47 49
+17 3 3 1 3 4 14633 16 4 0
+2 1 13 2 6
+0 0 0 0 0 0
+12 2 0 1 12 1
+3 1 13821 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 812 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 398 1
+0 0 0 0
+1 0 414 1
+12 2 0 12
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 7212 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 6609 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/login
+0 3 0 6798 0 1
+# End Of Table - urls
+# -sites- (monthly)
+128.199.130.103
+0 1 0 414 1 1688622469
+-
+159.65.63.89
+0 1 0 398 1 1688615070
+-
+cpcl47.hostingcare.net
+0 15 3 13821 2 1688404949
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+128.199.130.103
+0 1 0 414 1 1688622469
+-
+159.65.63.89
+0 1 0 398 1 1688615070
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://david.thetechnologies.net/home
+0 1
+http://david.thetechnologies.net/
+0 1
+- (Direct Request)
+0 15
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 12
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

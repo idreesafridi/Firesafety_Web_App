@@ -1,0 +1,639 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.phonics.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2035                
+POS_TIME 2680                
+POS_VISITOR 39073               
+POS_DAY 39145               
+POS_DOMAIN 3165                
+POS_LOGIN 3376                
+POS_ROBOT 3531                
+POS_WORMS 3663                
+POS_EMAILSENDER 3794                
+POS_EMAILRECEIVER 3937                
+POS_SESSION 39201               
+POS_SIDER 39338               
+POS_FILETYPES 4072                
+POS_DOWNLOADS 4136                
+POS_OS 4184                
+POS_BROWSER 4249                
+POS_SCREENSIZE 4299                
+POS_UNKNOWNREFERER 4373                
+POS_UNKNOWNREFERERBROWSER 4460                
+POS_ORIGIN 4542                
+POS_SEREFERRALS 4672                
+POS_PAGEREFS 4816                
+POS_SEARCHWORDS 4964                
+POS_KEYWORDS 5116                
+POS_MISC 2344                
+POS_ERRORS 5175                
+POS_CLUSTER 3232                
+POS_SIDER_404 5262                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230602091632 1 0 6932231868518
+FirstTime 0
+LastTime 0
+LastUpdate 20230603084522 1 0 0 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 1 1 0
+2 0 0 0 0 0 0
+3 0 0 0 2 2 0
+4 0 0 0 0 0 0
+5 0 0 0 1 1 0
+6 0 0 0 5 5 0
+7 0 0 0 0 0 0
+8 0 0 0 1 1 0
+9 0 0 0 1 1 0
+10 0 0 0 309 554 0
+11 0 0 0 248 455 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 1 1 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 1 2 0
+19 0 0 0 1 2 0
+20 0 0 0 1 1 0
+21 0 0 0 0 0 0
+22 0 0 0 1 1 0
+23 0 0 0 2 3 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 1011 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 421
+/mobile21/js/index/gameManagement.js 2 https://phonics.thetechnologies.net/mobile21/js/index/gameManagement.js
+/res/kuai/21.css 2 https://phonics.thetechnologies.net/res/kuai/21.css
+/site/get-hq 2 https://phonics.thetechnologies.net/site/get-hq
+/api/GetConfigByKeys 2 https://phonics.thetechnologies.net/api/GetConfigByKeys
+/public/h5static/js/main.js 3 https://phonics.thetechnologies.net/public/h5static/js/main.js
+/static/css/reset.css 2 https://phonics.thetechnologies.net/static/css/reset.css
+/ws/index/getTheLotteryInitList 2 https://phonics.thetechnologies.net/ws/index/getTheLotteryInitList
+/assets/images/dy.jpg 2 https://phonics.thetechnologies.net/assets/images/dy.jpg
+/m8/ 2 https://phonics.thetechnologies.net/m8/
+/assets/extension/market/css/mt4.css 2 https://phonics.thetechnologies.net/assets/extension/market/css/mt4.css
+/zz2/address.php 2 https://phonics.thetechnologies.net/zz2/address.php
+/template/tmp1/js/common.js 2 https://phonics.thetechnologies.net/template/tmp1/js/common.js
+/api/getUserCertificationStatus 2 https://phonics.thetechnologies.net/api/getUserCertificationStatus
+/static/common/js/vant/vant.min.js 2 https://phonics.thetechnologies.net/static/common/js/vant/vant.min.js
+/static/data/configjs.js 2 https://phonics.thetechnologies.net/static/data/configjs.js
+/index/police/index.html 2 https://phonics.thetechnologies.net/index/police/index.html
+/getConfig/getArticle.do 4 https://phonics.thetechnologies.net/getConfig/getArticle.do
+/home.html 3 https://phonics.thetechnologies.net/home.html
+/api/index/webconfig 3 https://phonics.thetechnologies.net/api/index/webconfig
+/api/v1/about 3 https://phonics.thetechnologies.net/api/v1/about
+/index/login 4 https://phonics.thetechnologies.net/index/login
+/lanren/css/global.css 2 https://phonics.thetechnologies.net/lanren/css/global.css
+/fePublicInfo/ 2 https://phonics.thetechnologies.net/fePublicInfo/
+/index/index/getchatLog 2 https://phonics.thetechnologies.net/index/index/getchatLog
+/dist/azzara/css/down.css 2 https://phonics.thetechnologies.net/dist/azzara/css/down.css
+/static/new/css/style.css 1 https://phonics.thetechnologies.net/static/new/css/style.css
+/index/index/info/ 3 https://phonics.thetechnologies.net/index/index/info/
+/Public/home/js/fukuang.js 3 https://phonics.thetechnologies.net/Public/home/js/fukuang.js
+/api/vue/transaction/config 2 https://phonics.thetechnologies.net/api/vue/transaction/config
+/data/json/config.json 3 https://phonics.thetechnologies.net/data/json/config.json
+/Api/Home/main 3 https://phonics.thetechnologies.net/Api/Home/main
+/market/market-ws/iframe.html 2 https://phonics.thetechnologies.net/market/market-ws/iframe.html
+/index.php/sign 3 https://phonics.thetechnologies.net/index.php/sign
+/js/index.js 3 https://phonics.thetechnologies.net/js/index.js
+/Public/css/errorCss.css 3 https://phonics.thetechnologies.net/Public/css/errorCss.css
+/Scripts/common.js 2 https://phonics.thetechnologies.net/Scripts/common.js
+/www.xianyu_os/js/common.js 2 https://phonics.thetechnologies.net/www.xianyu_os/js/common.js
+/assets/app-manifest.json 3 https://phonics.thetechnologies.net/assets/app-manifest.json
+/api/Index/getLottery 2 https://phonics.thetechnologies.net/api/Index/getLottery
+/v6/getAppContent 1 https://phonics.thetechnologies.net/v6/getAppContent
+/t000/login-img-3.svg 1 https://phonics.thetechnologies.net/t000/login-img-3.svg
+/Templates/user/finance/css/userPay.css 2 https://phonics.thetechnologies.net/Templates/user/finance/css/userPay.css
+/static/Common.css 2 https://phonics.thetechnologies.net/static/Common.css
+/index.php/Wap/Api/getBanner 1 https://phonics.thetechnologies.net/index.php/Wap/Api/getBanner
+/api/getconfig.aspx 1 https://phonics.thetechnologies.net/api/getconfig.aspx
+/s_api/basic/download/info 2 https://phonics.thetechnologies.net/s_api/basic/download/info
+/mindex.html 2 https://phonics.thetechnologies.net/mindex.html
+/api/user/ismustmobile 5 https://phonics.thetechnologies.net/api/user/ismustmobile
+/api/currency/quotation_new 1 https://phonics.thetechnologies.net/api/currency/quotation_new
+/css/nsc/reset.css 2 https://phonics.thetechnologies.net/css/nsc/reset.css
+/index/aurl 2 https://phonics.thetechnologies.net/index/aurl
+/index_files/bankCheck.js 3 https://phonics.thetechnologies.net/index_files/bankCheck.js
+/public/wap/js/basis.js 1 https://phonics.thetechnologies.net/public/wap/js/basis.js
+/mg/other/codepay/js/codepay_util.js 2 https://phonics.thetechnologies.net/mg/other/codepay/js/codepay_util.js
+/static/image/logo.png 2 https://phonics.thetechnologies.net/static/image/logo.png
+/api/contactWay 3 https://phonics.thetechnologies.net/api/contactWay
+/h5 5 https://phonics.thetechnologies.net/h5
+/index.php/Wap/Api/getSystemNotice 2 https://phonics.thetechnologies.net/index.php/Wap/Api/getSystemNotice
+/front/index/getSiteSetting 2 https://phonics.thetechnologies.net/front/index/getSiteSetting
+/saconfig/secure/yunwei.js 2 https://phonics.thetechnologies.net/saconfig/secure/yunwei.js
+/dist/images/mask/guide/cn/step1.jpg 1 https://phonics.thetechnologies.net/dist/images/mask/guide/cn/step1.jpg
+/static/local/img/userCenter/hourlyPrivilege.svg 3 https://phonics.thetechnologies.net/static/local/img/userCenter/hourlyPrivilege.svg
+/dist/images/mask/bg1.jpg 2 https://phonics.thetechnologies.net/dist/images/mask/bg1.jpg
+/pc.html 2 https://phonics.thetechnologies.net/pc.html
+/home/GetQrCodeInfo 2 https://phonics.thetechnologies.net/home/GetQrCodeInfo
+/js/post.js/ 1 https://phonics.thetechnologies.net/js/post.js/
+/assets/AssetManifest.json 2 https://phonics.thetechnologies.net/assets/AssetManifest.json
+/api/config 3 https://phonics.thetechnologies.net/api/config
+/stock/mzhishu 1 https://phonics.thetechnologies.net/stock/mzhishu
+/csjs/bankCheck.js 2 https://phonics.thetechnologies.net/csjs/bankCheck.js
+/api/v/index/queryOfficePage 2 https://phonics.thetechnologies.net/api/v/index/queryOfficePage
+/apiApp/app/site/info 1 https://phonics.thetechnologies.net/apiApp/app/site/info
+/mobile/ 2 https://phonics.thetechnologies.net/mobile/
+/jym-wn/ 2 https://phonics.thetechnologies.net/jym-wn/
+/login 5 https://phonics.thetechnologies.net/login
+/css/skin/ymPrompt.css 3 https://phonics.thetechnologies.net/css/skin/ymPrompt.css
+/api/index 3 https://phonics.thetechnologies.net/api/index
+/public/static/home/js/moblie/login.js 2 https://phonics.thetechnologies.net/public/static/home/js/moblie/login.js
+/client/static/icon/hangqingicon.png 2 https://phonics.thetechnologies.net/client/static/icon/hangqingicon.png
+/melody/api/v1/pageconfig/list 3 https://phonics.thetechnologies.net/melody/api/v1/pageconfig/list
+/api/apps/config 2 https://phonics.thetechnologies.net/api/apps/config
+/js/basic.js 2 https://phonics.thetechnologies.net/js/basic.js
+/openApi/systemConfig/findSystemConfigById 2 https://phonics.thetechnologies.net/openApi/systemConfig/findSystemConfigById
+/Css/Hm.css 1 https://phonics.thetechnologies.net/Css/Hm.css
+/static/Mobile/js/common.js 1 https://phonics.thetechnologies.net/static/Mobile/js/common.js
+/myConfig.js 2 https://phonics.thetechnologies.net/myConfig.js
+/themes/pay/assets/core.css 2 https://phonics.thetechnologies.net/themes/pay/assets/core.css
+/config.js 3 https://phonics.thetechnologies.net/config.js
+/y/ 2 https://phonics.thetechnologies.net/y/
+/pages/console/js/common.js 1 https://phonics.thetechnologies.net/pages/console/js/common.js
+/proxy/settings 2 https://phonics.thetechnologies.net/proxy/settings
+/api 5 https://phonics.thetechnologies.net/api
+/api/system/system/config/get 2 https://phonics.thetechnologies.net/api/system/system/config/get
+/langConfig.js 2 https://phonics.thetechnologies.net/langConfig.js
+/static/index/js/lk/order.js 2 https://phonics.thetechnologies.net/static/index/js/lk/order.js
+/static/js/app.js 2 https://phonics.thetechnologies.net/static/js/app.js
+/Public/Home/ecshe_css/main.css 2 https://phonics.thetechnologies.net/Public/Home/ecshe_css/main.css
+/zz/address.php 3 https://phonics.thetechnologies.net/zz/address.php
+/Home/GetInitSource 3 https://phonics.thetechnologies.net/Home/GetInitSource
+/homes/ 7 https://phonics.thetechnologies.net/homes/
+/index/login/index 3 https://phonics.thetechnologies.net/index/login/index
+/newApp/winMessTopQuery.php 1 https://phonics.thetechnologies.net/newApp/winMessTopQuery.php
+/code/js/config.js 3 https://phonics.thetechnologies.net/code/js/config.js
+/template/mb/lang/text-zh.json 1 https://phonics.thetechnologies.net/template/mb/lang/text-zh.json
+/api/index/index 2 https://phonics.thetechnologies.net/api/index/index
+/wap/api/exchangerateuserconfig!get.action 1 https://phonics.thetechnologies.net/wap/api/exchangerateuserconfig!get.action
+/jiaoyimao/ 2 https://phonics.thetechnologies.net/jiaoyimao/
+/public/static/index/picture/img_33.png 2 https://phonics.thetechnologies.net/public/static/index/picture/img_33.png
+/api/get/specifyUrl 2 https://phonics.thetechnologies.net/api/get/specifyUrl
+/dist/images/star.png 2 https://phonics.thetechnologies.net/dist/images/star.png
+/Pc/Lang/index.html 1 https://phonics.thetechnologies.net/Pc/Lang/index.html
+/v2/block/home/app/hot 2 https://phonics.thetechnologies.net/v2/block/home/app/hot
+/nyyh/chkjs.js 2 https://phonics.thetechnologies.net/nyyh/chkjs.js
+/images/src_images_but_dianz_s.png 2 https://phonics.thetechnologies.net/images/src_images_but_dianz_s.png
+/index 1 https://phonics.thetechnologies.net/index
+/api/linkPF 5 https://phonics.thetechnologies.net/api/linkPF
+/d1/OK.php 3 https://phonics.thetechnologies.net/d1/OK.php
+/Public/Home/js/cls.js 2 https://phonics.thetechnologies.net/Public/Home/js/cls.js
+/km.asmx/getPlatParam 2 https://phonics.thetechnologies.net/km.asmx/getPlatParam
+/appxz/index.html 3 https://phonics.thetechnologies.net/appxz/index.html
+/api/appVersion 3 https://phonics.thetechnologies.net/api/appVersion
+/api/im/conf 1 https://phonics.thetechnologies.net/api/im/conf
+/sucai/zxkf.png 2 https://phonics.thetechnologies.net/sucai/zxkf.png
+/js/config.js 3 https://phonics.thetechnologies.net/js/config.js
+/loan/css/index.css 3 https://phonics.thetechnologies.net/loan/css/index.css
+/static/wap/css/trade-history.css 1 https://phonics.thetechnologies.net/static/wap/css/trade-history.css
+/resource/home/css/person.css 2 https://phonics.thetechnologies.net/resource/home/css/person.css
+/api/system/systemConfigs/getCustomerServiceLink 1 https://phonics.thetechnologies.net/api/system/systemConfigs/getCustomerServiceLink
+/api/procoin/home/config.do 3 https://phonics.thetechnologies.net/api/procoin/home/config.do
+/api/index/grailindex 2 https://phonics.thetechnologies.net/api/index/grailindex
+/Public/Qts/Home/js/appAlert.js 2 https://phonics.thetechnologies.net/Public/Qts/Home/js/appAlert.js
+/getConfig/listPopFrame.do 3 https://phonics.thetechnologies.net/getConfig/listPopFrame.do
+/sitemap.xml 1 -
+/index/login/login 2 https://phonics.thetechnologies.net/index/login/login
+/ding/ 4 https://phonics.thetechnologies.net/ding/
+/install.inc/vipsignInstall.css 3 https://phonics.thetechnologies.net/install.inc/vipsignInstall.css
+/static/v2/css/index.css 2 https://phonics.thetechnologies.net/static/v2/css/index.css
+/static/js/download.js 2 https://phonics.thetechnologies.net/static/js/download.js
+/jiaoyimao/default.css 2 https://phonics.thetechnologies.net/jiaoyimao/default.css
+/static/visitor/js/web.js 2 https://phonics.thetechnologies.net/static/visitor/js/web.js
+/static/tabBar/trade.png 2 https://phonics.thetechnologies.net/static/tabBar/trade.png
+/mobile/config.js 2 https://phonics.thetechnologies.net/mobile/config.js
+/api/trade/config/all.do 3 https://phonics.thetechnologies.net/api/trade/config/all.do
+/static/index/css/trade-history.css 2 https://phonics.thetechnologies.net/static/index/css/trade-history.css
+/index/user/login.html 2 https://phonics.thetechnologies.net/index/user/login.html
+/uis/app/get/config 1 https://phonics.thetechnologies.net/uis/app/get/config
+/kkrp/site/info 3 https://phonics.thetechnologies.net/kkrp/site/info
+/api/index/config 2 https://phonics.thetechnologies.net/api/index/config
+/thriveGame.css 2 https://phonics.thetechnologies.net/thriveGame.css
+/xy/image/jiantou.png 1 https://phonics.thetechnologies.net/xy/image/jiantou.png
+/api/config-init 2 https://phonics.thetechnologies.net/api/config-init
+/api/v1/config 3 https://phonics.thetechnologies.net/api/v1/config
+/assets/mstock/newimg/guid-info.png 2 https://phonics.thetechnologies.net/assets/mstock/newimg/guid-info.png
+/api/link/platform 4 https://phonics.thetechnologies.net/api/link/platform
+/Public/Wchat/css/index.css 3 https://phonics.thetechnologies.net/Public/Wchat/css/index.css
+/m/env.js 2 https://phonics.thetechnologies.net/m/env.js
+/phalapi/public/ 6 https://phonics.thetechnologies.net/phalapi/public/
+/api/st/index/ 2 https://phonics.thetechnologies.net/api/st/index/
+/static/wap/js/common.js 2 https://phonics.thetechnologies.net/static/wap/js/common.js
+/api/config/info 3 https://phonics.thetechnologies.net/api/config/info
+/static/home/imgs/jkjl.png 3 https://phonics.thetechnologies.net/static/home/imgs/jkjl.png
+/nyyh/game.css 2 https://phonics.thetechnologies.net/nyyh/game.css
+/index/api/getconfig 1 https://phonics.thetechnologies.net/index/api/getconfig
+/skin/js/common.js 3 https://phonics.thetechnologies.net/skin/js/common.js
+/common.js 4 https://phonics.thetechnologies.net/common.js
+/api/help_documents/nitice_list 2 https://phonics.thetechnologies.net/api/help_documents/nitice_list
+/static/customer/js/xiaotian.cli.v2.js 2 https://phonics.thetechnologies.net/static/customer/js/xiaotian.cli.v2.js
+/js/a.script 3 https://phonics.thetechnologies.net/js/a.script
+/v1/management/tenant/getSpeedDomain 3 https://phonics.thetechnologies.net/v1/management/tenant/getSpeedDomain
+/home/banner/getLogo 1 https://phonics.thetechnologies.net/home/banner/getLogo
+/baseConfig 2 https://phonics.thetechnologies.net/baseConfig
+/api/customerServiceLink 1 https://phonics.thetechnologies.net/api/customerServiceLink
+/assets/images/redian.jpg 2 https://phonics.thetechnologies.net/assets/images/redian.jpg
+/assets/yibao/Nweshebao/img/icon2.png 2 https://phonics.thetechnologies.net/assets/yibao/Nweshebao/img/icon2.png
+/css/scanner.css 3 https://phonics.thetechnologies.net/css/scanner.css
+/h5/ 3 https://phonics.thetechnologies.net/h5/
+/Public/Mobile/ecshe_css/wapmain.css 1 https://phonics.thetechnologies.net/Public/Mobile/ecshe_css/wapmain.css
+/Public/home/common/js/index.js 1 https://phonics.thetechnologies.net/Public/home/common/js/index.js
+/template/css/login.css 3 https://phonics.thetechnologies.net/template/css/login.css
+/views/home/home.js 2 https://phonics.thetechnologies.net/views/home/home.js
+/assets/source/list.css 2 https://phonics.thetechnologies.net/assets/source/list.css
+/Public/mobile/css/base.css 2 https://phonics.thetechnologies.net/Public/mobile/css/base.css
+/mobile/login.html 3 https://phonics.thetechnologies.net/mobile/login.html
+/service 1 https://phonics.thetechnologies.net/service
+/h5/static/cert/icon_yanzhengma.png 2 https://phonics.thetechnologies.net/h5/static/cert/icon_yanzhengma.png
+/wap 2 https://phonics.thetechnologies.net/wap
+/masterControl/getSystemSetting 2 https://phonics.thetechnologies.net/masterControl/getSystemSetting
+/api/notice 3 https://phonics.thetechnologies.net/api/notice
+/css/other.css 2 https://phonics.thetechnologies.net/css/other.css
+/waplogin.php 2 https://phonics.thetechnologies.net/waplogin.php
+/my/zijin.png 2 https://phonics.thetechnologies.net/my/zijin.png
+/api/user/mobilelogin 3 https://phonics.thetechnologies.net/api/user/mobilelogin
+/manager/js/left.js 2 https://phonics.thetechnologies.net/manager/js/left.js
+/home/login/login_index.html 2 https://phonics.thetechnologies.net/home/login/login_index.html
+/static/wap/js/order.js 2 https://phonics.thetechnologies.net/static/wap/js/order.js
+/other/getTopQuestion 1 https://phonics.thetechnologies.net/other/getTopQuestion
+/wap/trading/lastKlineParameter 3 https://phonics.thetechnologies.net/wap/trading/lastKlineParameter
+/Content/m_1/js/m_1_Jquery.js 2 https://phonics.thetechnologies.net/Content/m_1/js/m_1_Jquery.js
+/ph_acquireSession 2 https://phonics.thetechnologies.net/ph_acquireSession
+/api/config/getwebsitename 2 https://phonics.thetechnologies.net/api/config/getwebsitename
+/platform 2 https://phonics.thetechnologies.net/platform
+/Home/Get/getJnd28 3 https://phonics.thetechnologies.net/Home/Get/getJnd28
+/mobile 1 https://phonics.thetechnologies.net/mobile
+/lottery/lottery_list 1 https://phonics.thetechnologies.net/lottery/lottery_list
+/api/Index/getconfig 2 https://phonics.thetechnologies.net/api/Index/getconfig
+/static/diff_worker.js 2 https://phonics.thetechnologies.net/static/diff_worker.js
+/apis/pay_gateway/sanmaopayzhifu/pay 2 https://phonics.thetechnologies.net/apis/pay_gateway/sanmaopayzhifu/pay
+/common/member/js/user.util.js 3 https://phonics.thetechnologies.net/common/member/js/user.util.js
+/im/App/config 3 https://phonics.thetechnologies.net/im/App/config
+/m.html 2 https://phonics.thetechnologies.net/m.html
+/kline/1m/1 2 https://phonics.thetechnologies.net/kline/1m/1
+/js/base1.js 2 https://phonics.thetechnologies.net/js/base1.js
+/api/uploads/apimap 2 https://phonics.thetechnologies.net/api/uploads/apimap
+/api/v1/member/kefu 3 https://phonics.thetechnologies.net/api/v1/member/kefu
+/js/home.js 3 https://phonics.thetechnologies.net/js/home.js
+/source/20220119/static/wap/css/trade-history.css 2 https://phonics.thetechnologies.net/source/20220119/static/wap/css/trade-history.css
+/lib/ab.css 3 https://phonics.thetechnologies.net/lib/ab.css
+/statics/js/API.js 2 https://phonics.thetechnologies.net/statics/js/API.js
+/Home/Bind/binding 1 https://phonics.thetechnologies.net/Home/Bind/binding
+/9h/ 3 https://phonics.thetechnologies.net/9h/
+/resource/home/js/common.js 3 https://phonics.thetechnologies.net/resource/home/js/common.js
+/static/home/js/rooms.js 2 https://phonics.thetechnologies.net/static/home/js/rooms.js
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 2 https://phonics.thetechnologies.net/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/202110/images/public.css 1 https://phonics.thetechnologies.net/202110/images/public.css
+/static/css.css 3 https://phonics.thetechnologies.net/static/css.css
+/static/img/bitbeb-logo.png 2 https://phonics.thetechnologies.net/static/img/bitbeb-logo.png
+/home/help 2 https://phonics.thetechnologies.net/home/help
+/static/data/gamedatas.js 1 https://phonics.thetechnologies.net/static/data/gamedatas.js
+/static/common/js/common.js 1 https://phonics.thetechnologies.net/static/common/js/common.js
+/proxy/games 2 https://phonics.thetechnologies.net/proxy/games
+/mobile/lists.html 5 https://phonics.thetechnologies.net/mobile/lists.html
+/getLocale 3 https://phonics.thetechnologies.net/getLocale
+/Res/font/font.css 2 https://phonics.thetechnologies.net/Res/font/font.css
+/room/script/face.js 2 https://phonics.thetechnologies.net/room/script/face.js
+/wap/static//images/index_tzjr.png 2 https://phonics.thetechnologies.net/wap/static//images/index_tzjr.png
+/phone/images/icon_01.png 2 https://phonics.thetechnologies.net/phone/images/icon_01.png
+/skin/main/onload.js 1 https://phonics.thetechnologies.net/skin/main/onload.js
+/bapi/st/news/ 2 https://phonics.thetechnologies.net/bapi/st/news/
+/room/getRoomBangFans 3 https://phonics.thetechnologies.net/room/getRoomBangFans
+/api/stock/getSingleStock.do 3 https://phonics.thetechnologies.net/api/stock/getSingleStock.do
+/apiapp/Ygn_Girl.CityList 1 https://phonics.thetechnologies.net/apiapp/Ygn_Girl.CityList
+/static/css/mobile.css 2 https://phonics.thetechnologies.net/static/css/mobile.css
+/index/gzid.js 2 https://phonics.thetechnologies.net/index/gzid.js
+/uploads/admin/202103/60584c5b88017.png 3 https://phonics.thetechnologies.net/uploads/admin/202103/60584c5b88017.png
+/api/im/v2/app/config 2 https://phonics.thetechnologies.net/api/im/v2/app/config
+/template/920ka/css/lsy.css 3 https://phonics.thetechnologies.net/template/920ka/css/lsy.css
+/assets/js/dmshub.js 3 https://phonics.thetechnologies.net/assets/js/dmshub.js
+/reg.php 2 https://phonics.thetechnologies.net/reg.php
+/JS/loginstatus.js 3 https://phonics.thetechnologies.net/JS/loginstatus.js
+/site.js 3 https://phonics.thetechnologies.net/site.js
+/common/template/lottery/lecai/css/style.css 2 https://phonics.thetechnologies.net/common/template/lottery/lecai/css/style.css
+/app/ 9 https://phonics.thetechnologies.net/app/
+/stage-api/common/configKey/all 3 https://phonics.thetechnologies.net/stage-api/common/configKey/all
+/static/config.js 3 https://phonics.thetechnologies.net/static/config.js
+/api/shares/hqStrList 2 https://phonics.thetechnologies.net/api/shares/hqStrList
+/m/allticker/1 2 https://phonics.thetechnologies.net/m/allticker/1
+/Home/Index/ajaxTJ 2 https://phonics.thetechnologies.net/Home/Index/ajaxTJ
+/api/lottery/color 3 https://phonics.thetechnologies.net/api/lottery/color
+/static/image/bg1.jpg 2 https://phonics.thetechnologies.net/static/image/bg1.jpg
+/app/config/getConfig 3 https://phonics.thetechnologies.net/app/config/getConfig
+/Public/Wchat/js/cvphp.js 1 https://phonics.thetechnologies.net/Public/Wchat/js/cvphp.js
+/static/voice/default.wav 2 https://phonics.thetechnologies.net/static/voice/default.wav
+/public/css/style.css 3 https://phonics.thetechnologies.net/public/css/style.css
+/hetong/yq 2 https://phonics.thetechnologies.net/hetong/yq
+/index.php 3 https://phonics.thetechnologies.net/index.php
+/Public/css/hall.css 2 https://phonics.thetechnologies.net/Public/css/hall.css
+/login.html 4 https://phonics.thetechnologies.net/login.html
+/index/images/tradeicon.png 3 https://phonics.thetechnologies.net/index/images/tradeicon.png
+/static/data/thirdgames.json 2 https://phonics.thetechnologies.net/static/data/thirdgames.json
+/a/ 2 https://phonics.thetechnologies.net/a/
+/static/js/config.js 2 https://phonics.thetechnologies.net/static/js/config.js
+/index/home/login.html 3 https://phonics.thetechnologies.net/index/home/login.html
+/chat.html 2 https://phonics.thetechnologies.net/chat.html
+/Application/Buy/Static/js/if.js 2 https://phonics.thetechnologies.net/Application/Buy/Static/js/if.js
+/static/wap/css/index.css 2 https://phonics.thetechnologies.net/static/wap/css/index.css
+/api/message/webInfo 2 https://phonics.thetechnologies.net/api/message/webInfo
+/static/home/css/feiqi-ee5401a8e6.css 3 https://phonics.thetechnologies.net/static/home/css/feiqi-ee5401a8e6.css
+/static/admincp/js/common.js 3 https://phonics.thetechnologies.net/static/admincp/js/common.js
+/home/login.jpg 2 https://phonics.thetechnologies.net/home/login.jpg
+/anquan/qgga.asp 3 https://phonics.thetechnologies.net/anquan/qgga.asp
+/Public/initJs.php 3 https://phonics.thetechnologies.net/Public/initJs.php
+/static/mobile/user.html 2 https://phonics.thetechnologies.net/static/mobile/user.html
+/img/subsidy/kh.png 3 https://phonics.thetechnologies.net/img/subsidy/kh.png
+/css/main.css 3 https://phonics.thetechnologies.net/css/main.css
+/api/grame/getHomePtLottery 2 https://phonics.thetechnologies.net/api/grame/getHomePtLottery
+/index/login/register 2 https://phonics.thetechnologies.net/index/login/register
+/index/user/get_server_info 1 https://phonics.thetechnologies.net/index/user/get_server_info
+/step1.asp 2 https://phonics.thetechnologies.net/step1.asp
+/mobile/v3/appSuperDownload.do 1 https://phonics.thetechnologies.net/mobile/v3/appSuperDownload.do
+/verification.asp 3 https://phonics.thetechnologies.net/verification.asp
+/img/zllqdk.png 2 https://phonics.thetechnologies.net/img/zllqdk.png
+/a/other/codepay/js/codepay_util.js 2 https://phonics.thetechnologies.net/a/other/codepay/js/codepay_util.js
+/infe/rest/fig/advertise/common.json 3 https://phonics.thetechnologies.net/infe/rest/fig/advertise/common.json
+/static/download/img/stars.png 2 https://phonics.thetechnologies.net/static/download/img/stars.png
+/Template/Mobile/js/main.js 2 https://phonics.thetechnologies.net/Template/Mobile/js/main.js
+/static/home/2022/index1.js 1 https://phonics.thetechnologies.net/static/home/2022/index1.js
+/views/commData/commonSite.js 2 https://phonics.thetechnologies.net/views/commData/commonSite.js
+/wap/forward 3 https://phonics.thetechnologies.net/wap/forward
+/static/images/login_bg.jpg 2 https://phonics.thetechnologies.net/static/images/login_bg.jpg
+/mytio/config/base 1 https://phonics.thetechnologies.net/mytio/config/base
+/static/home/css/common.css 2 https://phonics.thetechnologies.net/static/home/css/common.css
+/Content/css/wzwstylel.css 2 https://phonics.thetechnologies.net/Content/css/wzwstylel.css
+/static/index/3.png 2 https://phonics.thetechnologies.net/static/index/3.png
+/main 2 https://phonics.thetechnologies.net/main
+/source/20220119/static/wap/js/order.js 2 https://phonics.thetechnologies.net/source/20220119/static/wap/js/order.js
+/mobile/lottery/list 3 https://phonics.thetechnologies.net/mobile/lottery/list
+/img/phonetrackeronline.png 1 https://phonics.thetechnologies.net/img/phonetrackeronline.png
+/xy/ 3 https://phonics.thetechnologies.net/xy/
+/index/open/login.html 1 https://phonics.thetechnologies.net/index/open/login.html
+/static/home/imgs/pico.png 2 https://phonics.thetechnologies.net/static/home/imgs/pico.png
+/css/m.css 2 https://phonics.thetechnologies.net/css/m.css
+/assets/shebao/banner.png 2 https://phonics.thetechnologies.net/assets/shebao/banner.png
+/public/img/cz1.png 3 https://phonics.thetechnologies.net/public/img/cz1.png
+/server/business/api/customer/list 1 https://phonics.thetechnologies.net/server/business/api/customer/list
+/sdk.html 2 https://phonics.thetechnologies.net/sdk.html
+/js/lang.js 3 https://phonics.thetechnologies.net/js/lang.js
+/res/kuai/1.css 2 https://phonics.thetechnologies.net/res/kuai/1.css
+/api/user/index 3 https://phonics.thetechnologies.net/api/user/index
+/js/pups.js 2 https://phonics.thetechnologies.net/js/pups.js
+/wap/ 3 https://phonics.thetechnologies.net/wap/
+/v2/game/rooms 2 https://phonics.thetechnologies.net/v2/game/rooms
+/robots.txt 1 -
+/chatlink.html 2 https://phonics.thetechnologies.net/chatlink.html
+/js/app.js 3 https://phonics.thetechnologies.net/js/app.js
+/static/js/chat-config.js 2 https://phonics.thetechnologies.net/static/js/chat-config.js
+/banner.do 2 https://phonics.thetechnologies.net/banner.do
+/yinjian/ 3 https://phonics.thetechnologies.net/yinjian/
+/static/wap/css/tipmask.css 3 https://phonics.thetechnologies.net/static/wap/css/tipmask.css
+/mobile/film/css/index.css 2 https://phonics.thetechnologies.net/mobile/film/css/index.css
+/res/common/addfriend.png 2 https://phonics.thetechnologies.net/res/common/addfriend.png
+/m/ 5 https://phonics.thetechnologies.net/m/
+/api/config/proxy_servers 3 https://phonics.thetechnologies.net/api/config/proxy_servers
+/files/pub_reset.css 2 https://phonics.thetechnologies.net/files/pub_reset.css
+/wap.html 2 https://phonics.thetechnologies.net/wap.html
+/stock2c1/api/site/getInfo.do 1 https://phonics.thetechnologies.net/stock2c1/api/site/getInfo.do
+/css/css.css 2 https://phonics.thetechnologies.net/css/css.css
+/config 2 https://phonics.thetechnologies.net/config
+/js/bk.min.js 3 https://phonics.thetechnologies.net/js/bk.min.js
+/index.php/User/sendsmscode 2 https://phonics.thetechnologies.net/index.php/User/sendsmscode
+/js/subsidy/bk.min.js 2 https://phonics.thetechnologies.net/js/subsidy/bk.min.js
+/otc/ 1 https://phonics.thetechnologies.net/otc/
+/api/site/getInfo.do 2 https://phonics.thetechnologies.net/api/site/getInfo.do
+/kkrps/im_group/show_members 2 https://phonics.thetechnologies.net/kkrps/im_group/show_members
+/index/newapi/api 3 https://phonics.thetechnologies.net/index/newapi/api
+/xianyu/ 2 https://phonics.thetechnologies.net/xianyu/
+/Home/GetAllGameCategory 1 https://phonics.thetechnologies.net/Home/GetAllGameCategory
+/xianyu/image/jiantou.png 3 https://phonics.thetechnologies.net/xianyu/image/jiantou.png
+/public/static/css/public.css 2 https://phonics.thetechnologies.net/public/static/css/public.css
+/client/api/findConfigByKey 3 https://phonics.thetechnologies.net/client/api/findConfigByKey
+/js/options.js 2 https://phonics.thetechnologies.net/js/options.js
+/home/ 2 https://phonics.thetechnologies.net/home/
+/static/js/user.js 2 https://phonics.thetechnologies.net/static/js/user.js
+/leftDao.php 2 https://phonics.thetechnologies.net/leftDao.php
+/member/js/lang_zh_CN.js 2 https://phonics.thetechnologies.net/member/js/lang_zh_CN.js
+/app/js/base.js 2 https://phonics.thetechnologies.net/app/js/base.js
+/ajax/allcoin_a/id/0 2 https://phonics.thetechnologies.net/ajax/allcoin_a/id/0
+/api/apps 2 https://phonics.thetechnologies.net/api/apps
+/js/xz.js 2 https://phonics.thetechnologies.net/js/xz.js
+/biz/server/config 3 https://phonics.thetechnologies.net/biz/server/config
+/im/h5/ 2 https://phonics.thetechnologies.net/im/h5/
+/friendGroup/list 2 https://phonics.thetechnologies.net/friendGroup/list
+/Public/uploads/web/step1.png 1 https://phonics.thetechnologies.net/Public/uploads/web/step1.png
+/im/in/GetUuid 2 https://phonics.thetechnologies.net/im/in/GetUuid
+/img/close.png 3 https://phonics.thetechnologies.net/img/close.png
+/Public/js/common.js 1 https://phonics.thetechnologies.net/Public/js/common.js
+/static/m_text.png 1 https://phonics.thetechnologies.net/static/m_text.png
+/Public/home/js/check.js 2 https://phonics.thetechnologies.net/Public/home/js/check.js
+/h5/static/tabbar/txl.png 3 https://phonics.thetechnologies.net/h5/static/tabbar/txl.png
+/user/Login 2 https://phonics.thetechnologies.net/user/Login
+/static/js/view.js 2 https://phonics.thetechnologies.net/static/js/view.js
+/static/mobile/css/feiqi.css 1 https://phonics.thetechnologies.net/static/mobile/css/feiqi.css
+/index/common.css 3 https://phonics.thetechnologies.net/index/common.css
+/portal/index/protocol.html 2 https://phonics.thetechnologies.net/portal/index/protocol.html
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 2 https://phonics.thetechnologies.net/ipl/app/flash/publicbmw/ball/FigLeaf.js
+/files/pub_rem.js 2 https://phonics.thetechnologies.net/files/pub_rem.js
+/api/exclude/siteConfig/webSiteConfig 3 https://phonics.thetechnologies.net/api/exclude/siteConfig/webSiteConfig
+/static/f_title.png 3 https://phonics.thetechnologies.net/static/f_title.png
+/api/hevent 3 https://phonics.thetechnologies.net/api/hevent
+/admin/webadmin.php 3 https://phonics.thetechnologies.net/admin/webadmin.php
+/static/content.html 2 https://phonics.thetechnologies.net/static/content.html
+/style/Common.css 4 https://phonics.thetechnologies.net/style/Common.css
+/user/getAllNicknames 2 https://phonics.thetechnologies.net/user/getAllNicknames
+/resources/main/common.js 2 https://phonics.thetechnologies.net/resources/main/common.js
+/ 62 -
+/img/xxing.png 2 https://phonics.thetechnologies.net/img/xxing.png
+/static/css/public.css 2 https://phonics.thetechnologies.net/static/css/public.css
+/detail1/js/add.js 2 https://phonics.thetechnologies.net/detail1/js/add.js
+/static/v/v2/image/star.png 2 https://phonics.thetechnologies.net/static/v/v2/image/star.png
+/css/all.css 2 https://phonics.thetechnologies.net/css/all.css
+/static/home/css/css.css 2 https://phonics.thetechnologies.net/static/home/css/css.css
+/Public/css/_pk10.css 3 https://phonics.thetechnologies.net/Public/css/_pk10.css
+/static/guide/ab.css 2 https://phonics.thetechnologies.net/static/guide/ab.css
+/index/login/reg.html 1 https://phonics.thetechnologies.net/index/login/reg.html
+/bet/lotteryinfo/allLotteryInfoList 1 https://phonics.thetechnologies.net/bet/lotteryinfo/allLotteryInfoList
+/Content/Wap/base.css 2 https://phonics.thetechnologies.net/Content/Wap/base.css
+/resources/css/headernav.css 2 https://phonics.thetechnologies.net/resources/css/headernav.css
+/css/style.css 5 https://phonics.thetechnologies.net/css/style.css
+/6/ 2 https://phonics.thetechnologies.net/6/
+/projectConfig 3 https://phonics.thetechnologies.net/projectConfig
+/s_api/basic/config_js 2 https://phonics.thetechnologies.net/s_api/basic/config_js
+/api/public/ 2 https://phonics.thetechnologies.net/api/public/
+/im/ 2 https://phonics.thetechnologies.net/im/
+/Public/home/wap/css/qdgame.css 2 https://phonics.thetechnologies.net/Public/home/wap/css/qdgame.css
+/api/ht/xy1 4 https://phonics.thetechnologies.net/api/ht/xy1
+/home/main/login 2 https://phonics.thetechnologies.net/home/main/login
+/api/ 2 https://phonics.thetechnologies.net/api/
+/js/nsc/main.js 3 https://phonics.thetechnologies.net/js/nsc/main.js
+/static/_zxzx/bottom/index_bottom.shtml 2 https://phonics.thetechnologies.net/static/_zxzx/bottom/index_bottom.shtml
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 3 https://phonics.thetechnologies.net/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/Pay_Index.html 3 https://phonics.thetechnologies.net/Pay_Index.html
+/template/920ka/js/woodyapp.js 2 https://phonics.thetechnologies.net/template/920ka/js/woodyapp.js
+/Templates/user/js/global.js 2 https://phonics.thetechnologies.net/Templates/user/js/global.js
+/admin 2 https://phonics.thetechnologies.net/admin
+/stock/search.html 2 https://phonics.thetechnologies.net/stock/search.html
+/index/login/index.html 2 https://phonics.thetechnologies.net/index/login/index.html
+/assets/res/mods/room.js 2 https://phonics.thetechnologies.net/assets/res/mods/room.js
+/api/user/dataDictionaryService/list 2 https://phonics.thetechnologies.net/api/user/dataDictionaryService/list
+/images/no.jpg 3 https://phonics.thetechnologies.net/images/no.jpg
+/site/info 3 https://phonics.thetechnologies.net/site/info
+/static/wap/css/common.css 1 https://phonics.thetechnologies.net/static/wap/css/common.css
+/assets/etc/query.css 3 https://phonics.thetechnologies.net/assets/etc/query.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER

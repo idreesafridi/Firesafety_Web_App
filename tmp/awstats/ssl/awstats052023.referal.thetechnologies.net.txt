@@ -1,0 +1,339 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.referal.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2035                
+POS_TIME 2694                
+POS_VISITOR 11510               
+POS_DAY 11977               
+POS_DOMAIN 3256                
+POS_LOGIN 3532                
+POS_ROBOT 3687                
+POS_WORMS 3819                
+POS_EMAILSENDER 3950                
+POS_EMAILRECEIVER 4093                
+POS_SESSION 12190               
+POS_SIDER 12367               
+POS_FILETYPES 4228                
+POS_DOWNLOADS 4422                
+POS_OS 4470                
+POS_BROWSER 4588                
+POS_SCREENSIZE 4768                
+POS_UNKNOWNREFERER 4842                
+POS_UNKNOWNREFERERBROWSER 4929                
+POS_ORIGIN 5011                
+POS_SEREFERRALS 5147                
+POS_PAGEREFS 5291                
+POS_SEARCHWORDS 5439                
+POS_KEYWORDS 5591                
+POS_MISC 2358                
+POS_ERRORS 5650                
+POS_CLUSTER 3388                
+POS_SIDER_404 5794                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230602153331 1 0 12699960211609
+FirstTime 0
+LastTime 20230528174123
+LastUpdate 20230603084526 1 0 0 0 0
+TotalVisits 10                  
+TotalUnique 10                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 2 2 0
+2 23 64 4777821 24 24 9814
+3 1 1 8948 2 2 426
+4 2 2 15144 1 1 410
+5 40 61 5276151 23 29 2157665
+6 64 67 3516676 38 39 3706891
+7 0 0 0 0 0 0
+8 1 1 9973 1 1 426
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 1 1 9857 1 1 410
+15 0 0 0 1 1 0
+16 2 30 3407296 2 46 290796
+17 2 2 16282 3 3 836
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 1 1 0
+23 0 0 0 2 2 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+pk 105 129 8801663
+cn 24 65 4784129
+us 5 5 45060
+ru 2 30 3407296
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+jpg 2 192588 0 0
+Unknown 133 2523346 0 0
+js 31 2301173 0 0
+css 37 1566159 0 0
+com 2 16374 0 0
+png 23 10435354 0 0
+html 1 3154 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win10 31 3
+macosx15 194 129
+macosx14 2 2
+macosx6 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome86.0.4240.111 30 2
+chrome104.0.0.0 2 2
+chrome113.0.0.0 194 129
+chrome87.0.4280.88 1 1
+safari14.0 1 1
+chrome20.0.1132.57 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 14
+From1 0 0
+From2 0 0
+From3 0 0
+From4 124 215
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+405 1 579376
+500 8 3029041
+206 6 2129568
+404 74 403149
+302 62 26540
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 48
+/assets/plugins/icheck/skins/minimal/green.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/purple.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/red.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/blue.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/line.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/pink.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/orange.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/white.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/blue.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/blue.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/orange.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/orange.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/aero.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/grey.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/api/index.php/v1/config/application 3 -
+/assets/plugins/icheck/skins/square/green.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/flat.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/minimal/orange.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/yellow.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/red.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/pink.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/ 11 -
+/assets/plugins/icheck/skins/line/yellow.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/green.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/square.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/minimal/red.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/aero.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/yellow.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/futurico/futurico.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/polaris/polaris.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/pink.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/red.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/purple.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/white.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/aero.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/minimal/grey.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/flat/green.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/grey.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/minimal/purple.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map 8 -
+/assets/plugins/icheck/skins/minimal/pink.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/minimal/blue.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/purple.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 8 -
+/assets/plugins/icheck/skins/minimal/aero.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/square/grey.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/minimal/yellow.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+/assets/plugins/icheck/skins/line/white.css 1 https://referal.thetechnologies.net/assets/plugins/icheck/skins/all.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+111.119.190.8 104 128 8792827 20230523062731
+223.123.93.211 23 64 4777821 20230522025749
+185.209.253.220 2 30 3407296 20230521161705
+34.228.43.73 1 1 9973 20230527081036
+119.160.96.250 1 1 8836 20230522041618
+223.123.93.0 1 1 6308 20230520043844
+138.68.26.139 1 1 6309 20230520172024
+52.201.22.15 1 1 9857 20230524140541
+45.33.23.10 1 1 9973 20230528174123
+45.63.77.239 1 1 8948 20230523032359
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20230520 2 2 12617 2
+20230521 2 30 3407296 1
+20230522 24 65 4786657 2
+20230523 105 129 8801775 2
+20230524 1 1 9857 1
+20230527 1 1 9973 1
+20230528 1 1 9973 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30s-2mn 1
+0s-30s 7
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/login 22 195374 10 8
+/fHomeController 15 4510 0 0
+/getCryptoGatewayInfo 13 2119 0 1
+/payment/195 10 110862 0 0
+/user/dashboard 9 296936 0 0
+/admin/plan 9 352763 0 0
+/user/purchase-plan/18 8 289910 0 0
+/admin/dashboard 7 248700 0 0
+/getGatewayInfo 6 1862 0 0
+/register 5 61616 0 0
+/admin/paymentgateway 4 150532 0 0
+/admin/plan/create 4 137199 0 0
+/admin/deposits 4 139494 0 0
+/validate-otp/aleemxada@gmail.com 2 16374 0 0
+/admin/plan/21 2 69095 0 0
+/admin/plan/17/edit 2 68909 0 0
+/admin/plan/16/edit 2 68905 0 0
+/payment/193 2 20957 0 0
+/user/withdrawrequest/create 2 66086 0 0
+/user/plans 1 33576 0 0
+/admin/plan/18/edit 1 34456 0 0
+/admin/paymentgateway/create 1 35123 0 0
+/admin/announcement 1 34665 0 0
+/admin/users 1 35956 0 0
+/assets/images/login-logo.html 1 3154 0 1
+/user/contact 1 31980 0 0
+/user/withdrawrequest 1 31761 0 0
+END_SIDER

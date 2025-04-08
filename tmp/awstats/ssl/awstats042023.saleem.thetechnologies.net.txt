@@ -1,0 +1,272 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.saleem.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2705                
+POS_VISITOR 6600                
+POS_DAY 6910                
+POS_DOMAIN 3235                
+POS_LOGIN 3491                
+POS_ROBOT 3646                
+POS_WORMS 3848                
+POS_EMAILSENDER 3979                
+POS_EMAILRECEIVER 4122                
+POS_SESSION 7094                
+POS_SIDER 7251                
+POS_FILETYPES 4257                
+POS_DOWNLOADS 4433                
+POS_OS 4481                
+POS_BROWSER 4581                
+POS_SCREENSIZE 4763                
+POS_UNKNOWNREFERER 4837                
+POS_UNKNOWNREFERERBROWSER 5010                
+POS_ORIGIN 5092                
+POS_SEREFERRALS 5225                
+POS_PAGEREFS 5369                
+POS_SEARCHWORDS 5517                
+POS_KEYWORDS 5669                
+POS_MISC 2369                
+POS_ERRORS 5728                
+POS_CLUSTER 3347                
+POS_SIDER_404 5829                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501181012 1 0 9869122792724
+FirstTime 20230419185334
+LastTime 20230427184525
+LastUpdate 20230502085034 1 0 0 0 0
+TotalVisits 6                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 406
+1 5 49 3964313 2 2 7051
+2 15 15 148404 11 11 4662
+3 0 0 0 0 1 24
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 1 24
+7 0 0 0 0 0 0
+8 2 2 0 10 10 0
+9 0 0 0 0 1 24
+10 0 0 0 0 0 0
+11 1 1 6446 2 2 828
+12 0 0 0 0 0 0
+13 0 0 0 1 2 446
+14 0 0 0 0 1 24
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 1 1 422
+18 5 22 932525 1 19 79850
+19 0 0 0 0 9 216
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 1 24
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+vn 15 15 148404
+us 12 73 4896838
+ru 1 1 6446
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Googlebot/ 13 312 20230430180923 13
+AhrefsBot/ 7 168 20230429143846 7
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+png 15 161384 0 0
+css 21 745123 0 0
+js 22 3371662 0 0
+Unknown 26 273225 0 0
+jpg 3 313774 0 0
+woff2 2 186520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win10 67 23
+Unknown 1 1
+linux 21 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome85.0.4183.121 15 15
+chrome94.0.4606.61 1 1
+mozilla 1 1
+chrome74.0.3729.169 2 2
+chrome105.0.5195.102 21 4
+chrome112.0.0.0 49 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230420115903
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 21 21
+From1 0 0
+From2 0 0
+From3 0 0
+From4 7 68
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 20 7604
+404 21 85917
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 10
+/old 1 http://www.saleem.thetechnologies.net/old
+/api/index.php/v1/config/application 1 -
+/wp 1 http://www.saleem.thetechnologies.net/wp
+/ads.txt 12 -
+/bk 1 http://www.saleem.thetechnologies.net/bk
+/bc 1 http://www.saleem.thetechnologies.net/bc
+/backup 1 http://www.saleem.thetechnologies.net/backup
+/main 1 http://www.saleem.thetechnologies.net/main
+/new 1 http://www.saleem.thetechnologies.net/new
+/wordpress 1 http://www.saleem.thetechnologies.net/wordpress
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+117.0.187.182 15 15 148404 20230425023714
+174.161.139.209 5 49 3964313 20230424014143
+107.178.207.0 4 21 926079 20230427184525
+69.167.12.25 2 2 0 20230421085506
+176.53.217.60 1 1 6446 20230419185334
+167.248.133.38 1 1 6446 20230420115903
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20230419 1 1 6446 1
+20230420 1 1 6446 1
+20230421 2 2 0 1
+20230424 5 49 3964313 1
+20230425 15 15 148404 1
+20230427 4 21 926079 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/login 13 71332 4 3
+/company-register 5 65041 0 2
+/register-user 4 59471 2 0
+/assets/fonts/boxicons.woff2 2 186520 0 0
+/appointmentfullcalender 1 2 0 1
+/fullcalender 1 2 0 0
+/password/reset 1 5790 0 0
+/user/dashboard 1 71587 0 0
+END_SIDER

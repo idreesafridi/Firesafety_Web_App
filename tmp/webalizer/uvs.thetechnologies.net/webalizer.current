@@ -1,0 +1,181 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 02:28:45
+2023 7 6 2 28 45
+29 22 2 20 4 5 919405 6 4 0
+1 2 20 2 6
+0 0 0 0 0 0
+2 1 414 1 1 1
+22 20 886623 1 4 2
+1 1 5932 1 1 1
+0 0 0 0 0 0
+4 0 26436 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 13218 0
+0 0 0 0
+2 0 13218 0
+20 19 880213 2
+0 0 0 0
+2 1 414 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 5932 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 6410 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+22
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/css/bootstrap.min.css
+0 1 0 155866 0 0
+/assets/css/icons.css
+0 1 0 135866 0 0
+/assets/plugins/simplebar/js/simplebar.min.js
+0 1 0 58015 0 0
+/assets/css/pace.min.css
+0 1 0 1738 0 0
+/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js
+0 1 0 26482 0 0
+/assets/css/bootstrap-extended.css
+0 1 0 8943 0 0
+/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css
+0 1 0 1819 0 0
+/assets/js/app.js
+0 1 0 5340 0 0
+/assets/js/bootstrap.bundle.min.js
+0 1 0 78743 0 0
+/assets/plugins/simplebar/css/simplebar.css
+0 1 0 2964 0 0
+/login
+0 3 0 17868 1 2
+/assets/plugins/metismenu/css/metisMenu.min.css
+0 1 0 1922 0 0
+/assets/images/login-images/bg-login-img.jpg
+0 1 0 151884 0 0
+/assets/fonts/boxicons.woff2
+0 1 0 93260 0 0
+/assets/js/jquery.min.js
+0 1 0 89137 0 0
+/assets/css/app.css
+0 1 0 43515 0 0
+/assets/plugins/metismenu/js/metisMenu.min.js
+0 1 0 4792 0 0
+/assets/js/pace.min.js
+0 1 0 12293 0 0
+/robots.txt
+0 1 0 24 0 0
+/assets/images/favicon-32x32.png
+0 1 0 1312 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 4 0 26436 0 0
+-
+cpcl47.hostingcare.net
+0 25 22 892969 4 1688468628
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 4 0 26436 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://uvs.thetechnologies.net/assets/css/icons.css
+0 1
+http://uvs.thetechnologies.net/login
+0 16
+- (Direct Request)
+0 11
+http://uvs.thetechnologies.net/assets/css/app.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 21
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+webprosbot/2.0 (+mailto:abuse-6337@webpros.com)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

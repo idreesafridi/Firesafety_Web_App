@@ -1,0 +1,508 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 01:57:40
+2023 7 6 1 57 40
+1381 549 7 141 36 8 53955030 195 7 0
+1 1 562 3 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+563 212 18576001 1 76 2
+0 0 0 0 0 0
+816 337 35365811 6 119 5
+2 0 13218 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 6609 0
+2 1 30551 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+478 254 28136036 69
+900 294 25781834 125
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+549
+0
+0
+0
+0
+0
+2
+0
+0
+33
+0
+52
+0
+0
+0
+0
+0
+0
+728
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+0
+0
+0
+0
+# -urls- 
+/user/assets/images/about/about-counter04.png
+0 1 0 6934 0 0
+/images/6e9c1687866758.png
+0 8 0 1748584 0 0
+/admin/categories
+0 5 0 238563 0 0
+/user/assets/images/sidebar/icons/sidebar02.png
+0 5 0 5296 0 0
+/assets/plugins/vectormap/jquery-jvectormap-2.0.2.min.js
+0 5 0 524110 0 0
+/assets/css/bootstrap.min.css
+0 5 0 779330 0 0
+/user/assets/css/all.min.css
+0 6 0 228650 0 0
+/admin/dashboard
+0 8 0 296812 0 0
+/user/assets/css/Flaticon.woff2
+0 1 0 2912 0 0
+/assets/css/header-colors.css
+0 4 0 19276 0 0
+/register
+0 2 0 12564 0 0
+/user/assets/css/nice-select.css
+0 6 0 20465 0 0
+/user/assets/images/philosophy/icon2.png
+0 1 0 4842 0 0
+/assets/css/icons.css
+0 5 0 679330 0 0
+/images/90561688551078.jpg
+0 3 0 126725 0 0
+/organizer/notifications
+0 2 0 73516 0 0
+/user/assets/js/plugins.js
+0 6 0 3530 0 0
+/event-details/13
+0 1 0 25599 0 0
+/assets/plugins/simplebar/js/simplebar.min.js
+0 4 0 232060 0 0
+/admin/finances
+0 4 0 184840 0 0
+/organizer/get_attendance
+0 2 0 74245 0 0
+/user/assets/images/banner/banner07.jpg
+0 1 0 155547 0 0
+/assets/plugins/datatable/js/dataTables.bootstrap5.min.js
+0 4 0 22884 0 0
+/user/assets/images/contact/contact01.png
+0 1 3329064121713164544 6289 0 0
+/images/13dd1688381733.jpg
+0 1 3544665205008051763 126725 0 0
+/assets/css/pace.min.css
+0 4 3472892337254052398 6952 0 0
+/contact-us
+0 1 3531103582835179520 14284 0 0
+/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js
+0 4 7596553746704183152 105928 0 0
+/assets/plugins/vectormap/jquery-jvectormap-world-mill-en.js
+0 5 0 521260 0 0
+/user/assets/js/modernizr-3.6.0.min.js
+0 6 0 43180 0 0
+/user/assets/webfonts/fa-solid-900.woff2
+0 6 0 377200 0 0
+/user/assets/js/jquery-3.3.1.min.js
+0 6 0 434635 0 0
+/user/assets/images/banner/banner01.jpg
+0 7 0 5043780 0 0
+/assets/css/bootstrap-extended.css
+0 4 0 35772 0 0
+/user/assets/images/favicon.png
+0 3 0 10920 0 0
+/assets/css/semi-dark.css
+0 4 0 11712 0 0
+/user/assets/images/contact/contact02.png
+0 1 0 3985 0 0
+/user/assets/images/sidebar/banner/banner01.jpg
+0 4 0 130320 0 0
+/admin/organizers
+0 10 0 396554 0 0
+/user/assets/css/odometer.css
+0 6 0 17390 0 0
+/user/assets/images/philosophy/icon1.png
+0 1 0 3105 0 0
+/assets/plugins/datatable/css/dataTables.bootstrap5.min.css
+0 4 0 21480 0 0
+/event-checkout/13
+0 1 0 35256 0 0
+/assets/plugins/chartjs/js/Chart.extension.js
+0 4 0 14208 0 0
+/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css
+0 4 0 7276 0 0
+/user/assets/js/magnific-popup.min.js
+0 6 0 101080 0 0
+/assets/js/app.js
+0 4 0 21360 0 0
+/user/assets/webfonts/fa-brands-400.woff2
+0 5 0 298032 0 0
+/event-checkout/14
+0 2 0 70475 0 0
+/tickets/43
+0 1 0 8887 0 0
+/user/assets/images/contact/contact.jpg
+0 1 0 180768 0 0
+/user/assets/css/main.css
+0 8 0 1098684 0 0
+/admin/ads-management
+0 1 0 36209 0 0
+/favicon.ico
+0 2 0 0 0 0
+/assets/images/logo-icon.png
+0 6 0 281790 0 0
+/user/assets/css/owl.theme.default.min.css
+0 6 0 5065 0 0
+/user/assets/images/client/client01.jpg
+0 1 0 5102 0 0
+/user/assets/images/logo/logo.png
+0 7 0 257094 0 0
+/organizer/dashboard
+0 4 0 153335 0 0
+/images/1df21688551078.jpg
+0 8 0 752060 0 0
+/pricing
+0 4 0 44794 0 0
+/organizer/events
+0 9 0 353985 0 1
+/user/assets/css/img/ticket-bg04.png
+0 1 0 29094 0 0
+/assets/js/bootstrap.bundle.min.js
+0 4 0 314972 0 0
+/event-details/14
+0 6 0 162456 4 0
+/user/assets/js/heandline.js
+0 6 0 28425 0 0
+/assets/plugins/simplebar/css/simplebar.css
+0 4 0 11856 0 0
+/user/assets/images/tour/icon01.png
+0 1 0 4106 0 0
+/user/assets/css/owl.carousel.min.css
+0 6 0 16760 0 0
+/avatar/avatar.png
+0 6 0 104040 0 0
+/QRCodes/beep.mp3
+0 3 0 17652 0 0
+/images/14511687867075.png
+0 3 0 655719 0 0
+/images/13fd1687867557.png
+0 8 0 1748584 0 0
+/user/assets/images/statistics/stat01.png
+0 1 0 0 0 0
+/organizer/ticket-verification
+0 6 0 250625 0 0
+/user/assets/images/sidebar/banner/banner02.jpg
+0 4 0 182582 0 0
+/login
+0 13 0 72822 0 0
+/user/assets/images/about/about-counter03.png
+0 1 0 7795 0 0
+/admin/events-management
+0 11 0 589394 0 0
+/user/assets/images/event/ticket/ticket01.png
+0 1 0 5001 0 0
+/user/assets/js/bootstrap.min.js
+0 6 0 255195 0 0
+/user/assets/images/sidebar/icons/sidebar01.png
+0 5 0 4684 0 0
+/user/assets/images/newslater/newslater-bg01.jpg
+0 7 0 1677760 0 0
+/assets/plugins/chartjs/js/Chart.min.js
+0 5 0 822750 0 0
+/user/assets/js/owl.carousel.min.js
+0 6 0 221710 0 0
+/assets/js/
+0 4 0 32912 0 0
+/assets/plugins/metismenu/css/metisMenu.min.css
+0 4 0 7688 0 0
+/user/assets/images/account/account-bg.jpg
+0 7 0 1050792 0 0
+/user/assets/images/tour/tour.png
+0 1 0 74741 0 0
+/organizer/wallet
+0 3 0 111381 0 0
+/user/assets/js/main.js
+0 6 0 72075 0 0
+/user/assets/images/about/about-counter01.png
+0 1 0 8033 0 0
+/user/assets/images/client/client04.jpg
+0 1 0 20925 0 0
+/user/assets/js/countdown.min.js
+0 6 0 5675 0 0
+/user/assets/js/nice-select.js
+0 6 0 20225 0 0
+/assets/fonts/boxicons.woff2
+0 4 0 373040 0 0
+/assets/js/jquery.min.js
+0 4 0 356548 0 0
+/admin/reports
+0 2 0 97030 0 0
+/events-list
+0 8 0 152452 0 0
+/user/assets/js/odometer.min.js
+0 6 0 51320 0 0
+/privacy
+0 2 0 33828 0 0
+/assets/images/avatars/avatar-2.png
+0 5 0 36520 0 0
+/assets/css/app.css
+0 6 0 217580 0 0
+/assets/plugins/metismenu/js/metisMenu.min.js
+0 4 0 19168 0 0
+/tickets/42
+0 1 0 8763 0 0
+/user/assets/images/client/client-bg.jpg
+0 1 0 450735 0 0
+/
+0 17 0 455060 3 1
+/user/assets/js/isotope.pkgd.min.js
+0 6 0 173530 0 0
+/user/assets/images/ticket/cinema.png
+0 6 0 23706 0 0
+/tickets/41
+0 1 0 8777 0 0
+/user/assets/css/magnific-popup.css
+0 6 0 41886 0 0
+/assets/plugins/vectormap/jquery-jvectormap-2.0.2.css
+0 4 0 26344 0 0
+/user/assets/css/animate.css
+0 6 0 312770 0 0
+/user/assets/images/ticket/date.png
+0 6 0 15545 0 0
+/user/assets/css/flaticon.css
+0 6 0 14946 0 0
+/user/assets/js/wow.min.js
+0 6 0 42080 0 0
+/tickets/45
+0 1 0 8797 0 0
+/images/054b1688381733.jpg
+0 5 0 136895 0 0
+/about-us
+0 5 0 125820 0 0
+/user/assets/css/bootstrap.min.css
+0 7 0 934548 0 0
+/images/37781687260062.jpg
+0 6 0 325800 0 0
+/assets/js/pace.min.js
+0 4 0 49172 0 0
+/user/assets/images/about/about01.png
+0 1 0 45487 0 0
+/assets/css/dark-theme.css
+0 4 0 80160 0 0
+/user/assets/js/viewport.jquery.js
+0 6 0 9160 0 0
+/user/assets/images/sidebar/icons/sidebar03.png
+0 5 0 6112 0 0
+/images/c9fd1687260062.jpg
+0 6 0 456455 0 0
+/user/assets/images/about/about-counter02.png
+0 1 0 9314 0 0
+/user/assets/images/philosophy/icon3.png
+0 1 0 3349 0 0
+/user/assets/images/event/icon/event-icon02.png
+0 1 0 0 0 0
+/getPrice
+0 6 0 7 0 0
+/user/assets/images/footer/footer-shape.png
+0 6 0 44336 0 0
+/user/assets/images/ticket/ticket-bg01.jpg
+0 7 0 878382 0 0
+/user/assets/images/tour/icon02.png
+0 1 0 4547 0 0
+/user/assets/images/client/client02.jpg
+0 1 0 29831 0 0
+/user/assets/css/jquery.animatedheadline.css
+0 5 0 123676 0 0
+/assets/images/favicon-32x32.png
+0 4 0 14560 0 0
+/user/assets/images/client/client03.jpg
+0 1 0 23088 0 0
+/user/assets/images/about/about-bg.jpg
+0 1 0 507116 0 0
+/assets/plugins/datatable/js/jquery.dataTables.min.js
+0 5 0 10917540 0 0
+/organizer/events/create
+0 2 0 100584 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 2 0 13218 0 0
+-
+fwdproxy-ldc-120.fbsv.net
+0 1 1 27076 1 1688536798
+/event-details/14
+fwdproxy-nha-006.fbsv.net
+0 1 1 27076 1 1688536797
+/event-details/14
+fwdproxy-nha-004.fbsv.net
+0 1 1 27076 1 1688536797
+/event-details/14
+cpcl47.hostingcare.net
+0 1369 541 53148646 3 1688539469
+/pricing
+fwdproxy-nha-117.fbsv.net
+0 6 6 669089 1 1688536795
+/event-details/14
+fwdproxy-lla-007.fbsv.net
+0 1 1 42849 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 2 0 13218 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://event.thetechnologies.net/event-checkout/14
+0 15
+http://event.thetechnologies.net/admin/events-management
+0 116
+http://event.thetechnologies.net/assets/css/icons.css
+0 4
+http://event.thetechnologies.net/tickets/45
+0 1
+http://event.thetechnologies.net/admin/dashboard
+0 182
+http://event.thetechnologies.net/organizer/wallet
+0 32
+http://event.thetechnologies.net/organizer/dashboard
+0 88
+http://event.thetechnologies.net/event-checkout/13
+0 5
+http://event.thetechnologies.net/admin/organizers
+0 112
+http://event.thetechnologies.net/event-details/13
+0 4
+http://event.thetechnologies.net/tickets/42
+0 1
+http://event.thetechnologies.net/admin/ads-management
+0 11
+http://event.thetechnologies.net/organizer/events/create
+0 25
+http://event.thetechnologies.net/event-details/14
+0 3
+http://event.thetechnologies.net/pricing
+0 5
+http://event.thetechnologies.net/login
+0 52
+https://www.google.com/
+0 1
+- (Direct Request)
+0 71
+http://event.thetechnologies.net/admin/reports
+0 22
+http://event.thetechnologies.net/tickets/43
+0 1
+http://event.thetechnologies.net/user/assets/css/all.min.css
+0 11
+http://event.thetechnologies.net/organizer/ticket-verification
+0 66
+http://event.thetechnologies.net/about-us
+0 21
+http://event.thetechnologies.net/events-list
+0 61
+http://event.thetechnologies.net/admin/categories
+0 54
+http://event.thetechnologies.net/user/assets/css/main.css
+0 7
+http://event.thetechnologies.net/organizer/get_attendance
+0 22
+http://event.thetechnologies.net/
+0 211
+http://event.thetechnologies.net/privacy
+0 2
+http://event.thetechnologies.net/organizer/events
+0 98
+http://event.thetechnologies.net/register
+0 4
+http://event.thetechnologies.net/contact-us
+0 4
+http://event.thetechnologies.net/user/assets/css/flaticon.css
+0 1
+http://event.thetechnologies.net/admin/finances
+0 44
+http://event.thetechnologies.net/organizer/notifications
+0 22
+http://event.thetechnologies.net/event-details/1
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 669
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+0 51
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
+0 622
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1
+Mozilla/5.0 (Linux; Android 10; Infinix X680B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+0 26
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 10
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

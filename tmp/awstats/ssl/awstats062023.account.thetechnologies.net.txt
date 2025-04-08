@@ -1,0 +1,446 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.account.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2035                
+POS_TIME 2693                
+POS_VISITOR 16302               
+POS_DAY 16993               
+POS_DOMAIN 3367                
+POS_LOGIN 3697                
+POS_ROBOT 3852                
+POS_WORMS 4026                
+POS_EMAILSENDER 4157                
+POS_EMAILRECEIVER 4300                
+POS_SESSION 17407               
+POS_SIDER 17613               
+POS_FILETYPES 4435                
+POS_DOWNLOADS 4623                
+POS_OS 4671                
+POS_BROWSER 4796                
+POS_SCREENSIZE 4950                
+POS_UNKNOWNREFERER 5024                
+POS_UNKNOWNREFERERBROWSER 5148                
+POS_ORIGIN 5267                
+POS_SEREFERRALS 5404                
+POS_PAGEREFS 5548                
+POS_SEARCHWORDS 5696                
+POS_KEYWORDS 5848                
+POS_MISC 2357                
+POS_ERRORS 5907                
+POS_CLUSTER 3553                
+POS_SIDER_404 6020                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230705232457 1 0 9580761911596
+FirstTime 0
+LastTime 20230625110008
+LastUpdate 20230706085511 1 0 0 0 0
+TotalVisits 31                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 143 8849145 0 1 0
+1 11 47 3779853 1 89 265
+2 19 86 5307928 1 369 258
+3 1 4 442081 0 86 0
+4 13 107 6535809 3 17 526
+5 21 108 6783976 22 106 0
+6 21 78 6827035 10 296 0
+7 8 59 3418601 3 27 258
+8 27 205 11197999 6 122 1032095
+9 36 155 13087079 6 265 518
+10 17 64 6119806 0 68 0
+11 9 59 4353985 0 198 0
+12 0 0 0 0 0 0
+13 14 89 6719295 1 69 258
+14 10 39 3542157 8 151 0
+15 0 0 0 0 0 0
+16 5 94 3722673 4 26 816
+17 43 156 17814088 32 493 5118672
+18 14 22 1174950 3 73 0
+19 0 0 0 3 6 0
+20 3 6 187443 0 0 0
+21 0 0 0 4 4 0
+22 0 0 0 0 0 0
+23 0 0 0 1 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+pk 107 642 46556826
+au 88 444 32077791
+ao 71 304 24036134
+cn 15 74 4900874
+gh 6 33 1354996
+us 3 3 58191
+mx 1 21 879091
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+microsoft.*discovery 1 0 20230610090344 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 380 13137444 0 0
+html 236 3854923 0 0
+js 439 50866088 0 0
+png 249 1859564 0 0
+woff2 55 3678788 0 0
+jpg 162 36467096 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win8 1 1
+macosx15 74 15
+win7 3 3
+Unknown 1 1
+win10 1442 271
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+firefox114.0 38 6
+Unknown 1 1
+msie7.0 1 1
+opera99.0.0.0 109 23
+netscape5.0 3 3
+chrome114.0.0.0 1369 257
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.23.10.77_A 20230606015657
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.23.10.77_A 20230606015657
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 58
+From1 0 0
+From2 0 0
+From3 0 0
+From4 233 1463
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 2433 0
+301 13 3420
+206 9 6150246
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 90
+/frontend/cloud/user/assets/images/avatars/avatar-4.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-8.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-9.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/cloud/admin/assets/images/avatars/avatar-6.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/admin/assets/images/avatars/avatar-10.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/admin/assets/images/avatars/avatar-6.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/dashboard/ 1 -
+/frontend/user/admin/admin/assets/images/avatars/avatar-11.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/cloud/user/assets/images/avatars/avatar-10.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/dashboard/index.html 1 -
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-5.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/ 14 -
+/assets/images/favicon.png 2 -
+/frontend/cloud/admin/assets/images/avatars/avatar-9.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/user/admin/admin/assets/images/avatars/avatar-7.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/user/user/user/assets/css/main.css.map 15 -
+/frontend/user/assets/css/bootstrap.min.css.map 2 -
+/frontend/user/admin/admin/assets/images/avatars/avatar-9.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/admin/assets/images/avatars/avatar-11.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/admin/assets/images/avatars/avatar-9.png 19 https://account.thetechnologies.net/frontend/admin/
+/static/admin/javascript/hetong.js 1 -
+/frontend/cloud/user/assets/images/avatars/avatar-9.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/organizer/assets/images/avatars/avatar-8.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/organizer/assets/images/avatars/avatar-3.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-4.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/user/signup.html 1 -
+/frontend/user/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 11 https://account.thetechnologies.net/frontend/user/user/user/event-details.html
+/frontend/user/organizer/organizer/assets/images/logo-icon.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-7.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/uer 1 -
+/frontend/organizer/assets/images/avatars/avatar-9.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/cloud/admin/assets/images/avatars/avatar-8.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/wp-content/plugins/revslider/includes/external/page/index.php 1 www.google.com
+/frontend/cloud/user/assets/images/avatars/avatar-11.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js 15 https://account.thetechnologies.net/frontend/user/event-details.html
+/frontend/cloud/admin/assets/images/avatars/avatar-3.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/cloud/user/assets/images/avatars/avatar-8.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/organizer/assets/images/avatars/avatar-5.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/admin/assets/images/avatars/avatar-8.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/organizer/assets/images/avatars/avatar-4.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/admin/assets/images/avatars/avatar-4.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/cloud/admin/assets/images/avatars/avatar-5.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/admin/assets/images/avatars/avatar-3.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/cloud/admin/assets/images/avatars/avatar-4.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/cloud/user/assets/images/avatars/avatar-3.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/user/admin/admin/assets/images/avatars/avatar-10.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/user/organizer/organizer/attendees.html 1 https://account.thetechnologies.net/frontend/user/organizer/organizer/allevents.html
+/frontend/user/assets/js/bootstrap.min.js.map 2 -
+/frontend/user/admin/admin/assets/images/logo-icon.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/.DS_Store 1 -
+/frontend/cloud/admin/assets/images/avatars/avatar-7.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/user/admin/admin/assets/images/avatars/avatar-4.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-6.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-11.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/user/admin/admin/assets/images/avatars/avatar-1.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/organizor/ 1 -
+/frontend/user/user/user/assets/js/bootstrap.min.js.map 15 -
+/frontend/user/admin/admin/assets/images/avatars/avatar-3.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/cloud/user/assets/images/avatars/avatar-7.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/cloud/user/assets/images/avatars/avatar-5.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-3.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/user/user/user/index-2.html 2 https://account.thetechnologies.net/frontend/user/user/user/
+/frontend/user/admin/admin/assets/images/avatars/avatar-8.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/admin/assets/images/avatars/avatar-7.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/user/admin/admin/assets/images/avatars/avatar-5.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/cloud/admin/assets/images/avatars/avatar-11.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/assets/images/favicon-32x32.png 1 -
+/frontend/user/admin/admin/assets/images/avatars/avatar-6.png 62 https://account.thetechnologies.net/frontend/user/admin/admin/index.html
+/frontend/admin/assets/images/logo-icon.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/organizer/assets/images/avatars/avatar-1.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/cloud/user/assets/images/avatars/avatar-6.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/cloud/admin/assets/images/avatars/avatar-1.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-1.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/cloud/admin/assets/images/avatars/avatar-10.png 10 https://account.thetechnologies.net/frontend/cloud/admin/addnewexpense-addPlans.html
+/frontend/cloud/user/assets/images/avatars/avatar-1.png 11 https://account.thetechnologies.net/frontend/cloud/user/addnewexpense-category.html
+/frontend/user/user/user/assets/css/bootstrap.min.css.map 15 -
+/frontend/user/background.css.map 2 -
+/frontend/user/user/user/background.css.map 15 -
+/frontend/organizer/assets/images/avatars/avatar-10.png 76 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/user/organizer/organizer/assets/images/avatars/avatar-10.png 33 https://account.thetechnologies.net/frontend/user/organizer/organizer/wallet.html
+/frontend/organizer/assets/images/avatars/avatar-11.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/user/assets/css/main.css.map 2 -
+/Public/home/js/check.js 1 -
+/frontend/organizer/assets/images/logo-icon.png 76 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/admin/assets/images/avatars/avatar-5.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/user/user 1 -
+/frontend/organizer/assets/images/avatars/avatar-6.png 77 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/admin/assets/images/avatars/avatar-1.png 19 https://account.thetechnologies.net/frontend/admin/
+/frontend/organizer/assets/images/avatars/avatar-7.png 76 https://account.thetechnologies.net/frontend/organizer/index.html
+/frontend/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+101.53.234.37 88 444 32077791 20230620081658
+203.101.178.21 57 339 21578806 20230623082620
+39.45.145.63 43 245 21559419 20230607172616
+154.160.9.109 37 160 13604734 20230608183212
+154.160.6.212 23 127 10240317 20230612140450
+223.123.91.49 15 74 4900874 20230606025141
+39.45.169.158 7 58 3418601 20230610072522
+41.66.225.35 6 33 1354996 20230609060154
+154.160.10.171 6 6 0 20230614185741
+154.160.4.166 3 6 187443 20230613202429
+52.114.32.28 2 2 35127 20230620043200
+154.160.9.97 1 3 3640 20230622025330
+154.160.1.65 1 2 0 20230616112915
+52.114.32.212 1 1 23064 20230622084116
+189.174.186.182 1 21 879091 20230625110008
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20230606 16 75 4923532 2
+20230607 42 244 21536761 1
+20230608 42 170 13963493 4
+20230609 37 214 16188935 2
+20230610 32 142 10626547 2
+20230612 47 267 18722613 3
+20230613 3 6 187443 1
+20230614 6 6 0 1
+20230616 1 2 0 1
+20230620 10 76 3925191 3
+20230621 26 170 10092868 5
+20230622 8 42 3488892 3
+20230623 20 85 5328537 2
+20230625 1 21 879091 1
+20230626 0 1 0 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 12
+5mn-15mn 2
+15mn-30mn 4
+2mn-5mn 2
+30mn-1h 4
+30s-2mn 4
+1h+ 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 72
+/frontend/user/ 21 338160 10 5
+/frontend/organizer/ 11 230640 3 2
+/frontend/user/user/user/event-checkout.html 11 118430 0 2
+/frontend/user/assets/webfonts/fa-solid-900.woff2 9 678960 0 0
+/frontend/user/events.html 8 199339 1 0
+/frontend/user/event-checkout.html 8 121800 1 1
+/frontend/user/assets/webfonts/fa-brands-400.woff2 8 596064 0 0
+/frontend/user/admin/admin/ 7 93285 3 0
+/frontend/user/event-details.html 7 187614 2 1
+/frontend/user/user/user/ 7 88695 2 0
+/frontend/organizer/assets/fonts/boxicons.woff2 6 559560 0 0
+/frontend/user/admin/admin/organizerevents.html 6 86302 0 1
+/frontend/user/user/user/event-details.html 6 60000 0 0
+/frontend/user/assets/css/Flaticon.woff2 6 17472 0 3
+/frontend/user/dashboard.html 6 69960 3 0
+/frontend/organizer/addevents.html 6 131766 0 1
+/frontend/user/organizer/organizer/wallet.html 6 104517 0 0
+/frontend/user/sign-in.html 6 21130 0 0
+/frontend/user/user/user/assets/css/Flaticon.woff2 5 14560 0 1
+/frontend/user/admin/admin/allusers.html 5 83224 0 0
+/frontend/user/organizer/organizer/allevents.html 5 87992 0 0
+/frontend/user/organizer/organizer/ 5 91550 0 0
+/frontend/user/user/user/events.html 5 65922 0 0
+/frontend/user/fees.html 4 26820 1 1
+/frontend/user/admin/admin/allamount.html 4 65094 0 0
+/frontend/cloud/user/addnewexpense-bankdata.html 1 20561 0 0
+/frontend/cloud/user/addnewexpense-nominees.html 1 21574 0 1
+/frontend/admin/allusers.html 2 41952 0 0
+/frontend/user/user/user/postevents.html 3 30408 0 0
+/frontend/admin/allusersticket.html 2 42192 0 0
+/frontend/organizer/profile.html 1 20917 0 1
+/frontend/admin/assets/fonts/boxicons.woff2 3 279780 0 0
+/frontend/cloud/user/assets/fonts/boxicons.woff2 1 93260 0 0
+/frontend/dressel/diver/login.html 1 50054 1 1
+/frontend/organizer/wallet.html 4 85992 0 0
+/frontend/user/user/user/upcomingevents.html 3 32136 1 0
+/frontend/cloud/user/plans-with-header-footer.html 1 8410 0 0
+/frontend/user/user/user/about.html 2 41348 1 0
+/frontend/admin/organizerevents.html 2 44122 0 0
+/frontend/cloud/user/addnewexpense-personaldata.html 1 20560 0 0
+/frontend/admin/expensecategoryreport.html 2 45092 0 1
+/frontend/organizer/amountwithdraw.html 4 88116 0 0
+/frontend/user/user/user/contact.html 2 23500 0 0
+/frontend/cloud/user/authentication-signin-with-header-footer.html 1 6152 0 0
+/frontend/user/user/user/dashboard.html 4 51124 0 1
+/frontend/cloud/user/ 1 22581 0 0
+/frontend/cloud/admin/ 2 45316 2 1
+/frontend/user/upcomingevents.html 3 36900 0 1
+/frontend/user/organizer/organizer/assets/fonts/boxicons.woff2 4 373040 0 1
+/frontend/cloud/admin/assets/fonts/boxicons.woff2 1 93260 0 0
+/frontend/user/organizer/organizer/addevents.html 4 64023 0 0
+/frontend/user/admin/admin/category.html 4 64135 0 0
+/frontend/user/contact.html 4 36501 0 1
+/frontend/user/admin/admin/allusersticket.html 4 63009 0 0
+/frontend/user/user/user/assets/webfonts/fa-brands-400.woff2 4 298032 0 0
+/frontend/user/admin/admin/assets/fonts/boxicons.woff2 4 373040 0 0
+/frontend/cloud/user/addnewexpense-bankldatalist.html 1 20593 0 0
+/frontend/organizer/allevents.html 4 89300 0 0
+/frontend/user/postevents.html 3 35127 0 0
+/frontend/cloud/admin/addnewexpense-addPlans.html 1 20360 0 0
+/frontend/user/admin/admin/expensecategoryreport.html 3 44378 0 0
+/frontend/admin/ 4 93476 0 1
+/frontend/user/user/user/assets/webfonts/fa-solid-900.woff2 4 301760 0 0
+/frontend/cloud/user/addnewexpense-category.html 1 21765 0 0
+/frontend/user/organizer/organizer/amountwithdraw.html 4 63555 0 1
+/frontend/user/sign-up.html 4 17780 0 2
+/frontend/admin/allamount.html 2 44084 0 0
+/frontend/admin/category.html 2 42886 0 0
+/frontend/cloud/admin/expensecategoryreport.html 1 21455 0 0
+/frontend/cloud/admin/expenseslist-users.html 1 19880 0 0
+/frontend/cloud/admin/expenseslist-plans.html 1 19705 0 0
+/frontend/organizer/attendees.html 1 21664 0 0
+END_SIDER

@@ -1,0 +1,318 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.restaurant.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2038                
+POS_TIME 2710                
+POS_VISITOR 7855                
+POS_DAY 8183                
+POS_DOMAIN 3286                
+POS_LOGIN 3574                
+POS_ROBOT 3729                
+POS_WORMS 4054                
+POS_EMAILSENDER 4185                
+POS_EMAILRECEIVER 4328                
+POS_SESSION 8424                
+POS_SIDER 8593                
+POS_FILETYPES 4463                
+POS_DOWNLOADS 4755                
+POS_OS 4803                
+POS_BROWSER 4916                
+POS_SCREENSIZE 5066                
+POS_UNKNOWNREFERER 5140                
+POS_UNKNOWNREFERERBROWSER 5227                
+POS_ORIGIN 5309                
+POS_SEREFERRALS 5444                
+POS_PAGEREFS 5588                
+POS_SEARCHWORDS 5766                
+POS_KEYWORDS 5918                
+POS_MISC 2374                
+POS_ERRORS 5977                
+POS_CLUSTER 3430                
+POS_SIDER_404 6103                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230705063653 1 0 12399503594986
+FirstTime 20230601055148
+LastTime 20230623035225
+LastUpdate 20230705081109 1 0 0 0 0
+TotalVisits 8                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 12 412954
+1 0 0 0 0 0 0
+2 0 0 0 0 1 24
+3 1 1 36954 0 0 0
+4 0 0 0 1 1 37104
+5 17 160 18359656 1 11 53334
+6 1 1 51189 0 1 6603
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 1 24
+13 0 0 0 0 0 0
+14 0 0 0 0 1 24
+15 21 74 10688871 40 50 281026
+16 27 149 18717345 31 60 321774
+17 0 0 0 0 0 0
+18 1 1 36954 6 9 46251
+19 0 0 0 3 22 5140819
+20 0 0 0 2 2 43459
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 1 1 37202 1 2 37128
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+jo 48 223 29406314
+au 17 160 18373643
+de 2 2 74404
+ca 1 1 36954
+us 1 1 36856
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 32 1519819 20230608000211 1
+unknown 8 192 20230629182534 8
+survey 2 73960 20230605230126 0
+Googlebot\-Image/ 1 4033954 20230607191922 0
+bot[\s_+:,\.\;\/\\-] 1 37104 20230601044505 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+js 87 6336258 0 0
+jpg 23 1308807 0 0
+Unknown 37 1773257 0 0
+jfif 1 10777 0 0
+html 15 575700 0 0
+ttf 6 1576128 0 0
+woff2 7 261836 0 0
+svg 2 36600 0 0
+png 80 21227206 0 0
+css 125 13397114 0 0
+woff 3 168324 0 0
+jpeg 1 1256164 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win10 383 65
+symbian 1 1
+linux 1 1
+macosx12 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome113.0.0.0 160 17
+chrome61.0.3163.100 2 2
+chrome114.0.0.0 223 48
+nokia 1 1
+chrome108.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 11 11
+From1 0 0
+From2 0 0
+From3 1 1
+From4 57 375
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://secure.paytabs.sa 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 96 633888
+500 7 46263
+302 20 8908
+419 4 26436
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+//restaurant.thetechnologies.net/site/assets/js/metisMenu.min.js 1 -
+/admin/order-details/images/map.jpg 1 https://restaurant.thetechnologies.net/admin/order-details/79
+//restaurant.thetechnologies.net/site/assets/js/datepicker.js 1 -
+//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js 1 -
+/cart.json 46 -
+//restaurant.thetechnologies.net/site/assets/js/imagesloaded.pkgd.min.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/jquery-ui.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/jquery.timepicker.min.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/isotope.pkgd.min.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/jquery.magnific-popup.min.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/main.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/jquery-3.5.0.min.js 1 -
+/admin/dzassets.s3.amazonaws.com/w3-global8bb6.js 4 https://restaurant.thetechnologies.net/admin/branch/53/edit
+//cdnjs.cloudflare.com/ajax/libs/toastr.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/jquery.nice-select.min.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/owl.carousel.min.js 1 -
+/dzassets.s3.amazonaws.com/w3-global8bb6.js 28 https://restaurant.thetechnologies.net/admin/withdraw
+/wp-content/themes/twentyseventeen/page/index.php 2 www.google.com
+//restaurant.thetechnologies.net/site/assets/js/bootstrap.bundle.min.js 1 -
+//restaurant.thetechnologies.net/site/assets/js/wow.min.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+188.123.169.60 26 148 18680489 20230608164002
+188.123.169.58 22 75 10725825 20230615152757
+101.53.234.37 17 160 18373643 20230601060101
+87.179.143.171 2 2 74404 20230617053618
+159.89.121.153 1 1 36954 20230623035225
+34.238.194.206 1 1 36856 20230604163448
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20230601 17 160 18373643 1
+20230604 1 1 36856 1
+20230608 26 148 18680489 1
+20230612 1 1 36954 1
+20230613 1 1 37202 1
+20230615 21 74 10688871 1
+20230617 1 1 37202 1
+20230623 1 1 36954 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+15mn-30mn 1
+5mn-15mn 2
+0s-30s 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/ 15 575700 7 5
+/login 4 31492 1 0
+/admin/category 4 277164 0 0
+/admin/withdraw 4 210134 0 1
+/admin/dashboard 4 243077 0 0
+/site/assets/fonts/fa-light-300.ttf 3 1201080 0 0
+/site/assets/fonts/themify9f24.woff 3 168324 0 0
+/wishlist 3 96879 0 1
+/admin/icons/flaticon_1/Flaticon_1.woff2 3 18804 0 0
+/admin/icons/font-awesome-old/fonts/fontawesome-webfont3e6e3e6e.woff2 3 231480 0 0
+/admin/branch 3 169405 0 0
+/site/assets/fonts/fa-brands-400.ttf 3 375048 0 0
+/add-to-cart-menu 2 880 0 0
+/admin/order-details/79 1 61245 0 0
+/admin/password 1 54117 0 0
+/admin/category/2/edit 1 55255 0 0
+/admin/withdraw/7 1 50994 0 0
+/admin/new-orders 1 61661 0 0
+/admin/completed-orders 1 47733 0 1
+/admin/branch/53/edit 1 79908 0 0
+/admin/profile 1 57946 0 0
+/admin/menus/create 1 58531 0 0
+/checkout 1 38431 0 0
+/review/79 1 33316 0 0
+/admin/menus 1 65103 0 0
+/admin/icons/avasta/fonts/avasta.woff2 1 11552 0 0
+/image/1677664255.jfif 1 10777 0 0
+/admin/branch/create 1 79986 0 0
+END_SIDER

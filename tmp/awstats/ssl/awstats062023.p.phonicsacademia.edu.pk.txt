@@ -1,0 +1,1155 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.p.phonicsacademia.edu.pk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2032                
+POS_TIME 2705                
+POS_VISITOR 6984                
+POS_DAY 7333                
+POS_DOMAIN 3411                
+POS_LOGIN 3699                
+POS_ROBOT 3854                
+POS_WORMS 4143                
+POS_EMAILSENDER 4274                
+POS_EMAILRECEIVER 4417                
+POS_SESSION 7670                
+POS_SIDER 7863                
+POS_FILETYPES 4552                
+POS_DOWNLOADS 4753                
+POS_OS 4801                
+POS_BROWSER 4933                
+POS_SCREENSIZE 5132                
+POS_UNKNOWNREFERER 5206                
+POS_UNKNOWNREFERERBROWSER 5293                
+POS_ORIGIN 5375                
+POS_SEREFERRALS 5513                
+POS_PAGEREFS 5676                
+POS_SEARCHWORDS 5824                
+POS_KEYWORDS 5976                
+POS_MISC 2369                
+POS_ERRORS 6035                
+POS_CLUSTER 3555                
+POS_SIDER_404 6169                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230701075522 5 755 9345811737765
+FirstTime 20230601002932
+LastTime 20230621073842
+LastUpdate 20230701080657 5 0 4 0 0
+TotalVisits 21                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 198 201 39917200 63 68 797847
+1 277 277 35545857 67 70 6822103
+2 342 345 58661783 109 117 5207341
+3 387 387 60802639 127 130 15757227
+4 70 70 12326915 27 28 14348
+5 37 120 26098669 19 23 8876
+6 354 355 53895023 120 120 54816
+7 301 345 66987269 115 150 90932
+8 171 171 19234508 50 52 29348
+9 0 0 0 2 5 3016
+10 0 0 0 3 4 4440
+11 0 0 0 4 8 5984
+12 0 0 0 1 2 1496
+13 0 0 0 2 4 2992
+14 0 0 0 0 0 0
+15 1 1 3077 3 4 2288
+16 0 0 0 2 5 3016
+17 1 1 3097 4 6 3816
+18 0 0 0 2 4 1932
+19 0 0 0 1 5 1568
+20 0 0 0 1 3 1520
+21 0 0 0 1 3 1520
+22 0 0 0 3 6 342454
+23 110 152 20588412 45 52 19416
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 2242 2374 388865057
+pk 3 44 4371198
+bd 2 2 6174
+au 1 4 818923
+de 1 1 3097
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 29 696 20230630221515 29
+bot[\s_+:,\.\;\/\\-] 11 264 20230629191143 11
+unknown 7 168 20230630181255 7
+Googlebot\-Image/ 1 339066 20230609225433 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+woff 5 227484 0 0
+jpg 1 39026 0 0
+css 71 2559275 0 0
+Unknown 2238 375924518 0 0
+png 17 2143973 0 0
+js 87 12825477 0 0
+woff2 6 344696 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 2421 2246
+macosx12 1 1
+linuxubuntu 1 1
+win8 1 0
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome89.0.4389.114 1 1
+firefox106.0 1 1
+chrome61.0.3163.100 1 1
+chrome114.0.0.0 2140 1965
+chrome41.0.2227.1 1 1
+chrome113.0.0.0 280 280
+msie7.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 24 25
+From1 0 0
+From2 0 1
+From3 0 0
+From4 2225 2399
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 662 273660
+500 44 28424242
+404 85 125120
+419 10 15080
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 11
+/invoices/11513/edit 3 https://p.phonicsacademia.edu.pk/invoices
+/.well-known/assetlinks.json 29 -
+/api/index.php/v1/config/application 8 -
+/invoices/11113/edit 3 https://p.phonicsacademia.edu.pk/invoices
+/public/backend/css/bootstrap.min.css.map 2 -
+/public/backend/css/metisMenu.min.css.map 2 -
+/ads.txt 30 -
+/public/backend/js/pdfmake.min.js.map 2 -
+/public/backend/js/summernote.js.map 2 -
+/public/backend/js/metisMenu.min.js.map 2 -
+/wp-content/themes/twentyseventeen/page/index.php 2 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+139.135.36.134 2241 2373 388861960 20230621053528
+203.101.178.21 3 42 3693066 20230621073842
+103.50.168.209 2 2 6174 20230608174510
+101.53.234.37 1 4 818923 20230621070138
+87.179.143.171 1 1 3097 20230609085213
+209.97.152.94 1 1 3097 20230620011325
+175.107.237.197 0 2 678132 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20230601 280 280 64320227 1
+20230604 1195 1196 182055977 3
+20230605 444 487 65826814 2
+20230606 163 166 31484282 3
+20230607 6 6 589914 1
+20230608 43 45 1991963 3
+20230609 101 101 33424129 3
+20230611 0 2 678132 0
+20230612 9 52 5145787 1
+20230620 1 1 3097 1
+20230621 7 89 8544127 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 2
+1h+ 6
+30s-2mn 1
+5mn-15mn 2
+0s-30s 8
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 870
+/invoices 353 270746299 0 1
+/students 212 64622494 0 0
+/invoices/create 149 6435617 1 0
+/students/get_subjects/19 63 45297 0 0
+/create-monthly-invoice 54 2256336 0 0
+/students/get_subjects/28 44 1584 0 0
+/students/get_students/30/0 37 85354 0 0
+/students/get_students/28/0 32 298858 0 0
+/students/get_students/27/0 30 170346 0 1
+/login 28 87912 17 6
+/students/get_subjects/10 26 16588 0 0
+/students/get_subjects/27 26 936 0 0
+/students/get_subjects/12 24 18624 0 0
+/invoices/11942 24 357177 0 1
+/students/get_students/19/0 23 517565 0 1
+/students/get_students/23/0 20 294594 0 0
+/dashboard 20 1368584 2 1
+/students/get_students/7/0 19 266260 0 0
+/students/get_students/8/0 14 28 0 0
+/students/get_students/12/0 14 91803 0 1
+/students/get_subjects/13 12 9324 0 0
+/students/class/19 11 694560 0 1
+/students/class/15 11 621532 0 0
+/students/class/28 8 408302 0 0
+/students/get_subjects/15 8 5264 0 0
+/invoices/11296 1 14843 0 0
+/invoices/11417 1 14858 0 0
+/invoices/11397 1 14831 0 0
+/students/446 1 35257 0 0
+/class 1 41148 0 0
+/students/get_student_fee/443 1 4 0 0
+/invoices/11457 1 14876 0 0
+/students/380/edit 1 66498 0 0
+/students/798/edit 1 66519 0 0
+/students/get_student_fee/740 1 4 0 0
+/students/get_student_fee/785 1 4 0 0
+/invoices/11410 1 14828 0 0
+/students/369 1 39171 0 0
+/invoices/11482 1 14819 0 0
+/students/get_student_fee/799 1 4 0 0
+/students/get_student_fee/600 1 4 0 0
+/invoices/11376 1 14843 0 0
+/invoices/11390 1 14837 0 0
+/invoices/11450 1 14861 0 0
+/students/get_student_fee/495 1 4 0 0
+/students/283 1 35188 0 0
+/students/get_student_fee/581 1 4 0 0
+/students/825 1 35051 0 0
+/invoices/11932 1 14870 0 0
+/invoices/11159 1 14951 0 0
+/students/get_student_fee/676 1 4 0 0
+/students/626 1 34695 0 0
+/students/834/edit 1 66507 0 0
+/students/472 1 35281 0 0
+/students/734/edit 1 66514 0 0
+/invoices/11424 1 14828 0 0
+/students/get_students/16/0 2 33715 0 0
+/students/get_subjects/23 6 3624 0 0
+/students/671 1 35252 0 0
+/students/483/edit 1 66517 0 0
+/students/543/edit 1 66492 0 0
+/students/495 1 38860 0 0
+/students/509 1 39014 0 0
+/students/531 1 38755 0 0
+/students/get_student_fee/667 1 4 0 0
+/students/get_student_fee/446 1 4 0 0
+/students/783 1 35227 0 0
+/students/get_student_fee/806 1 4 0 0
+/students/747/edit 1 66509 0 0
+/students/get_student_fee/485 1 4 0 0
+/students/772/edit 1 66508 0 0
+/invoices/11336 1 14864 0 1
+/students/779 1 34944 0 0
+/students/512 1 34926 0 0
+/students/get_student_fee/440 1 4 0 0
+/students/get_student_fee/284 1 4 0 0
+/students/get_student_fee/692 1 4 0 0
+/invoices/11418 1 14858 0 0
+/invoices/11509 1 14894 0 0
+/students/400/edit 1 66531 0 0
+/invoices/11398 1 14840 0 0
+/students/614 1 34963 0 0
+/students/377/edit 1 66540 0 0
+/invoices/11458 1 14858 0 0
+/invoices/11346 1 14855 0 0
+/invoices/11462 1 14846 0 0
+/students/10/edit 1 66472 0 0
+/students/692/edit 1 66556 0 0
+/invoices/11428 1 14873 0 0
+/students/get_student_fee/380 1 4 0 0
+/students/get_student_fee/605 1 4 0 0
+/students/get_student_fee/716 1 4 0 0
+/invoices/11113 1 14945 0 0
+/students/get_student_fee/712 1 4 0 0
+/students/get_student_fee/512 1 4 0 0
+/students/477 1 39730 0 0
+/students/get_student_fee/530 1 4 0 0
+/students/398/edit 4 265920 0 0
+/students/get_student_fee/88 1 4 0 0
+/students/get_student_fee/839 1 4 0 0
+/students/684 1 37652 0 0
+/invoices/11454 1 14873 0 0
+/invoices/11526 1 14912 0 0
+/invoices/11394 1 14834 0 0
+/invoices/11414 1 14822 0 0
+/students/516 1 34928 0 0
+/students/573/edit 1 66459 0 0
+/invoices/11630 1 14960 0 0
+/students/582 1 39326 0 0
+/invoices/11402 1 14837 0 0
+/students/get_student_fee/664 1 4 0 0
+/invoices/11420 1 14825 0 0
+/students/get_student_fee/657 1 4 0 0
+/students/383 1 38796 0 0
+/public/backend/fonts/fontawesome-webfont.woff2 4 308640 0 0
+/students/get_student_fee/800 1 4 0 0
+/students/get_student_fee/756 1 4 0 0
+/students/754/edit 1 66505 0 0
+/students/get_student_fee/774 1 4 0 0
+/class/16/edit 1 41444 0 0
+/students/803/edit 1 66503 0 0
+/invoices/11166 1 14963 0 0
+/invoices/11427 1 14840 0 0
+/students/661 1 35258 0 0
+/students/749 1 35251 0 0
+/students/get_student_fee/790 1 4 0 0
+/students/544/edit 1 66492 0 0
+/students/58 1 35008 0 0
+/students/314 1 35308 0 0
+/students/get_student_fee/754 1 4 0 0
+/students/get_subjects/16 6 3696 0 0
+/students/784 1 34966 0 0
+/students/get_student_fee/666 1 4 0 0
+/invoices/11626 1 15011 0 0
+/invoices/11174/edit 1 39103 0 0
+/students/603/edit 1 66510 0 0
+/students/676/edit 1 66492 0 0
+/students/775/edit 1 66531 0 0
+/students/get_student_fee/518 2 8 0 0
+/invoices/11436 1 14831 0 0
+/students/get_student_fee/606 1 4 0 0
+/invoices/11358 1 14885 0 0
+/invoices/11446 1 14831 0 0
+/invoices/11362 1 14885 0 0
+/students/518 1 38456 0 0
+/invoices/11318 1 14894 0 0
+/students/get_student_fee/658 1 4 0 0
+/students/46 1 34926 0 0
+/students/get_student_fee/781 1 4 0 0
+/students/get_student_fee/401 1 4 0 0
+/students/get_student_fee/451 1 4 0 0
+/invoices/11357 1 14873 0 0
+/students/get_student_fee/693 1 4 0 0
+/students/get_student_fee/482 1 4 0 0
+/students/get_student_fee/61 1 4 0 0
+/students/get_student_fee/174 1 4 0 0
+/invoices/11317 1 14855 0 0
+/invoices/11350 1 14876 0 0
+/students/get_student_fee/732 1 4 0 0
+/students/536/edit 1 66461 0 0
+/students/get_student_fee/5 1 4 0 0
+/students/261 1 34953 0 0
+/invoices/11382 1 14870 0 0
+/students/371 1 34981 0 0
+/invoices/11310 1 14867 0 0
+/invoices/11490 1 14843 0 0
+/invoices/11476 2 29704 0 0
+/students/284 1 34972 0 0
+/students/729/edit 1 66510 0 0
+/students/get_student_fee/81 1 4 0 0
+/staff/attendance 2 87850 0 0
+/students/799 1 34966 0 0
+/students/680/edit 1 66522 0 0
+/students/829/edit 1 66505 0 0
+/students/get_student_fee/769 1 4 0 0
+/teachers 1 54774 0 0
+/invoices/11324 1 14861 0 0
+/students/get_student_fee/483 1 4 0 0
+/students/get_student_fee/394 1 4 0 0
+/students/841 1 35674 0 0
+/students/get_student_fee/260 1 4 0 0
+/students/get_students/14/0 5 96138 0 0
+/invoices/11494 1 14852 0 0
+/invoices/11314 1 14888 0 0
+/students/get_student_fee/805 1 4 0 0
+/students/get_student_fee/803 1 4 0 0
+/students/get_students/15/0 2 36964 0 0
+/students/471/edit 1 66538 0 0
+/invoices/11354 1 14900 0 0
+/students/get_student_fee/623 1 4 0 0
+/students/730 1 34956 0 0
+/students/get_student_fee/749 1 4 0 0
+/students/get_student_fee/261 1 4 0 0
+/students/get_student_fee/165 1 4 0 0
+/students/748/edit 1 66512 0 0
+/students/get_student_fee/127 1 4 0 0
+/students/814 1 35033 0 0
+/students/get_student_fee/711 1 4 0 0
+/invoices/11302 1 14846 0 0
+/students/get_students/10/0 5 17794 0 0
+/invoices/11320 1 14855 0 0
+/students/714 1 35203 0 0
+/students/get_student_fee/117 1 4 0 0
+/students/117 1 34958 0 0
+/students/679 2 78074 0 0
+/students/753/edit 1 66526 0 0
+/invoices/11142 1 14960 0 0
+/invoices/11327 1 14861 0 0
+/students/797/edit 1 66514 0 0
+/students/get_student_fee/378 1 4 0 0
+/invoices/11172 1 14951 0 0
+/students/3 1 39393 0 0
+/invoices/11534 1 14939 0 0
+/students/610/edit 1 66513 0 0
+/students/771 2 75392 0 0
+/students/666/edit 1 66503 0 0
+/students/322 1 39453 0 0
+/students/get_student_fee/27 1 4 0 0
+/students/get_student_fee/788 1 4 0 0
+/students/695/edit 1 66498 0 0
+/students/get_student_fee/283 1 4 0 0
+/transactions/salary 1 32325 0 0
+/students/get_student_fee/617 1 4 0 0
+/students/get_student_fee/189 1 4 0 0
+/students/529 1 39022 0 0
+/students/737 1 34958 0 0
+/students/205 1 35273 0 0
+/invoices/11455 1 14837 0 0
+/invoices/11321 1 14861 0 0
+/invoices/11395 1 14876 0 0
+/students/get_student_fee/807 1 4 0 0
+/invoices/11415 1 14828 0 0
+/students/198 1 34921 0 0
+/invoices/11146 1 14951 0 0
+/students/get_student_fee/369 1 4 0 0
+/students/694 1 34927 0 0
+/students/736 1 35536 0 0
+/invoices/11306 1 14852 0 0
+/students/764 1 37695 0 0
+/invoices/11136 1 14969 0 0
+/students/836 1 35277 0 0
+/students/56 2 70504 0 0
+/invoices/11323 1 14870 0 0
+/students/635 1 35264 0 0
+/students/617/edit 1 66521 0 0
+/students/get_student_fee/35 1 4 0 0
+/invoices/11752 1 14912 0 0
+/invoices/11176 1 14906 0 0
+/students/get_student_fee/630 1 4 0 0
+/students/get_student_fee/383 1 4 0 0
+/students/get_student_fee/262 1 4 0 0
+/students/get_student_fee/837 1 4 0 0
+/students/790/edit 1 66518 0 0
+/students/689 1 35556 0 0
+/students/673 1 34947 0 0
+/students/805 1 34988 0 0
+/invoices/11359 1 14840 0 0
+/students/584/edit 1 66470 0 0
+/invoices/11319 1 14858 0 0
+/students/815/edit 1 66514 0 0
+/students/616/edit 1 66512 0 0
+/invoices/11622 1 14900 0 0
+/students/670/edit 1 66508 0 0
+/invoices/class/13 2 125934 0 0
+/students/get_student_fee/97 1 4 0 0
+/invoices/11329 1 14873 0 0
+/students/get_student_fee/670 1 4 0 0
+/students/get_student_fee/686 1 4 0 0
+/students/get_student_fee/90 1 4 0 0
+/students/596 1 38762 0 0
+/invoices/11607 1 14942 0 0
+/students/832 1 34989 0 0
+/students/get_student_fee/768 1 4 0 0
+/students/get_student_fee/46 1 4 0 0
+/students/get_student_fee/529 1 4 0 0
+/students/663 1 38801 0 0
+/invoices/11442 1 14837 0 0
+/invoices/11366 1 14849 0 0
+/students/485 1 38909 0 0
+/students/839/edit 1 66517 0 0
+/students/20 1 38864 0 0
+/students/811 1 34990 0 0
+/invoices/11432 2 29716 0 0
+/students/get_student_fee/553 1 4 0 0
+/profile/my_profile 1 30952 0 0
+/invoices/11531 1 14921 0 0
+/students/get_student_fee/150 1 4 0 0
+/invoices/11472 1 14855 0 0
+/students/602 1 35012 0 0
+/invoices/11386 1 14873 0 0
+/students/get_student_fee/713 1 4 0 0
+/invoices/11353 1 14897 0 0
+/students/401 1 38804 0 0
+/invoices/11493 1 14867 0 0
+/invoices/11313 1 14846 0 0
+/students/21/edit 1 66485 0 0
+/students/553 1 38754 0 0
+/students/get_student_fee/143 1 4 0 0
+/students/get_student_fee/431 1 4 0 0
+/students/545 1 35187 0 0
+/students/658 1 34912 0 0
+/students/423 1 35265 0 0
+/invoices/11311 1 14852 0 0
+/students/788/edit 1 66487 0 0
+/invoices/11491 1 14837 0 0
+/transactions/filter_salary 2 76510 0 0
+/invoices/11351 1 14897 0 0
+/invoices/11425 1 14840 0 0
+/students/643 1 35210 0 0
+/students/548 1 39006 0 0
+/students/655 1 35284 0 0
+/students/756 1 34944 0 0
+/students/530/edit 1 66479 0 0
+/students/get_student_fee/715 2 8 0 0
+/students/712/edit 1 66509 0 0
+/students/263 1 35522 0 0
+/invoices/11182 1 14906 0 0
+/students/60 1 35314 0 0
+/invoices/11535 1 14897 0 0
+/student_payments/create/11299 1 2558 0 0
+/students/786/edit 1 66508 0 0
+/invoices/11117 1 14954 0 0
+/students/657 2 69976 0 0
+/students/656 1 35272 0 0
+/students/755 1 34933 0 0
+/students/14 1 38851 0 0
+/students/731/edit 1 66508 0 0
+/students/787/edit 1 66501 0 0
+/invoices/11419 1 14873 0 0
+/students/get_student_fee/584 1 4 0 0
+/invoices/11459 1 14849 0 0
+/students/819 1 35281 0 0
+/students/get_student_fee/548 1 4 0 0
+/students/get_student_fee/687 1 4 0 0
+/students/431 1 34964 0 0
+/students/487 1 38871 0 0
+/invoices/11633 1 14903 0 0
+/students/get_student_fee/772 1 4 0 0
+/students/129 1 35264 0 0
+/students/394 1 34923 0 0
+/students/get_student_fee/631 1 4 0 0
+/invoices/11495 1 14855 0 0
+/students/534 1 34941 0 0
+/invoices/11527/edit 1 39073 0 0
+/invoices/11315 2 29746 0 0
+/students/90 1 34903 0 0
+/students/133 1 34949 0 0
+/students/get_student_fee/477 1 4 0 0
+/students/3/edit 1 66512 0 0
+/invoices/11355 1 14864 0 0
+/invoices/11421 1 14831 0 0
+/students/598 1 39032 0 0
+/students/get_student_fee/685 1 4 0 0
+/students/get_student_fee/26 1 4 0 0
+/invoices/11118 1 14918 0 0
+/students/get_student_fee/552 1 4 0 0
+/invoices/11162 1 13258 0 0
+/invoices/11631 1 14933 0 0
+/students/get_student_fee/752 1 4 0 0
+/students/get_student_fee/824 1 4 0 0
+/students/61/edit 1 66508 0 0
+/students/510 1 39024 0 0
+/invoices/11423 1 14846 0 0
+/students/get_student_fee/620 1 4 0 0
+/students/get_student_fee/20 1 4 0 0
+/students/16 1 38925 0 0
+/invoices/11406 1 14852 0 0
+/students/763 1 35256 0 0
+/invoices/11393 1 14843 0 0
+/students/get_student_fee/816 1 4 0 0
+/invoices/11413 1 14858 0 0
+/students/707 1 35277 0 0
+/students/618/edit 1 66515 0 0
+/invoices/11372 1 14888 0 0
+/students/451 1 39151 0 0
+/students/class/23 6 245439 0 0
+/students/get_student_fee/531 1 4 0 0
+/students/620 1 38427 0 0
+/invoices/11453 1 14855 0 0
+/students/get_student_fee/786 1 4 0 0
+/invoices/11486 1 14837 0 0
+/students/717/edit 1 66520 0 0
+/invoices/11292 1 14840 0 0
+/invoices/11451 1 14837 0 0
+/invoices/11325 1 14864 0 0
+/students/440 1 34942 0 0
+/students/get_student_fee/815 1 4 0 0
+/invoices/11552 1 14918 0 0
+/invoices/11411 1 14861 0 0
+/students/get_student_fee/747 1 4 0 0
+/invoices/11391 1 14837 0 0
+/students/get_student_fee/694 1 4 0 0
+/students/816/edit 1 66517 0 0
+/students/get_student_fee/514 1 4 0 0
+/students/get_students/13/0 4 66969 0 0
+/students/605 1 34935 0 0
+/students/get_student_fee/317 1 4 0 0
+/students/get_student_fee/516 1 4 0 0
+/students/get_student_fee/147 1 4 0 0
+/invoices/11429 1 14858 0 0
+/students/get_student_fee/509 1 4 0 0
+/students/740/edit 1 66522 0 0
+/students/838 1 35001 0 0
+/students/get_student_fee/14 1 4 0 0
+/students/637 2 70452 0 0
+/students/681 1 39043 0 0
+/students/580 1 34960 0 0
+/invoices/11342 1 14879 0 0
+/invoices/11466 1 14840 0 0
+/students/735 2 69920 0 0
+/students/636 1 39026 0 0
+/students/489/edit 1 66510 0 0
+/students/197 1 35277 0 0
+/students/get_student_fee/680 1 4 0 0
+/students/824/edit 1 66531 0 0
+/invoices/11332 1 14900 0 0
+/invoices/11178 1 14885 0 0
+/students/667 1 34958 0 0
+/students/610 1 38756 0 0
+/students/get_student_fee/371 1 4 0 0
+/invoices/11307 1 14873 0 0
+/students/204 1 35256 0 0
+/students/768 1 34934 0 0
+/invoices/11130 1 14951 0 0
+/students/501/edit 1 66465 0 0
+/students/get_student_fee/674 1 4 0 0
+/invoices/11629 1 14939 0 0
+/students/797 1 34967 0 0
+/invoices/11147 1 14924 0 0
+/invoices/11300 1 14849 0 0
+/students/class/18 4 209320 0 0
+/students/430 1 34991 0 0
+/invoices/11439 1 14840 0 0
+/students/get_student_fee/677 1 4 0 0
+/invoices/11295 1 14825 0 0
+/frontoffice 1 62025 0 0
+/students/322/edit 1 66533 0 0
+/invoices/11375 1 14870 0 0
+/invoices/11384 1 14864 0 0
+/students/get_student_fee/455 1 4 0 0
+/students/771/edit 2 133032 0 0
+/invoices/11449 1 14840 0 0
+/invoices/11335 1 14852 0 0
+/students/748 1 35260 0 0
+/students/get_student_fee/21 2 8 0 0
+/invoices/11751 1 14885 0 0
+/students/class/14 8 397238 0 1
+/students/471 1 38909 0 0
+/invoices/11479 1 14861 0 0
+/invoices/11345 1 14855 0 0
+/students/get_student_fee/753 1 4 0 0
+/invoices/11364 1 14855 0 0
+/students/get_student_fee/661 1 4 0 0
+/invoices/11170 1 14948 0 0
+/students/753 1 38522 0 0
+/students/804 1 34985 0 0
+/students/get_student_fee/714 2 8 0 0
+/invoices/11753 1 14945 0 1
+/students/679/edit 2 133038 0 0
+/students/378 1 35000 0 0
+/invoices/11148 1 14984 0 0
+/students/promote 2 63002 0 0
+/invoices/11138 1 14960 0 0
+/invoices/11177 1 14903 0 0
+/students/497/edit 1 66512 0 0
+/parents 7 2196470 0 0
+/invoices/11308 1 14891 0 0
+/parents/636/edit 1 33594 0 0
+/students/536 1 38725 0 0
+/invoices/11360 1 14858 0 0
+/students/class/13 7 579568 0 0
+/students/get_student_fee/797 1 4 0 0
+/invoices/11443 1 14825 0 0
+/students/275 2 70428 0 0
+/public/backend/fonts/dropify.woff 1 3052 0 0
+/invoices/11388 1 14846 0 0
+/invoices/11367 1 14852 0 0
+/students/get_student_fee/75 1 4 0 0
+/invoices/11433 1 14846 0 0
+/students/get_student_fee/3 1 4 0 0
+/password/reset 1 2224 0 0
+/students/833 1 35263 0 0
+/students/get_students/24/0 3 41601 0 0
+/invoices/11623 1 14891 0 0
+/invoices/11441 1 14849 0 0
+/students/get_student_fee/60 1 4 0 0
+/students/799/edit 1 66525 0 0
+/students/829 1 35252 0 0
+/students/680 1 38773 0 0
+/students/class/12 5 217946 0 0
+/students/729 1 38542 0 0
+/students/537 1 34936 0 0
+/invoices/11431 1 14840 0 0
+/students/581 1 34962 0 0
+/students/get_student_fee/696 1 4 0 0
+/students/class/16 5 198313 0 0
+/invoices/11174 1 14897 0 0
+/students/677 1 34987 0 0
+/students/get_student_fee/430 1 4 0 0
+/students/441 1 34942 0 0
+/students/784/edit 1 66506 0 0
+/students/get_student_fee/377 1 4 0 0
+/students/get_student_fee/798 1 4 0 0
+/students/642 1 35261 0 0
+/invoices/11134 1 14933 0 0
+/invoices/11471 1 14864 0 0
+/students/get_subjects/18 1 642 0 0
+/students/get_student_fee/96 1 4 0 0
+/students/544 1 39078 0 0
+/invoices/11144 1 14933 0 0
+/students/143 1 35189 0 0
+/students/get_student_fee/663 1 4 0 0
+/students/518/edit 1 66501 0 0
+/invoices/11473 1 14834 0 0
+/invoices/11368 1 14870 0 0
+/invoices/11352 1 14864 0 0
+/students/get_student_fee/780 1 4 0 0
+/students/get_students/18/0 8 83295 0 0
+/invoices/11492 1 14876 0 0
+/invoices/11312 1 14870 0 0
+/invoices/11380 1 14849 0 0
+/students/get_student_fee/679 1 4 0 0
+/students/get_student_fee/787 1 4 0 0
+/students/654 1 35297 0 0
+/students/775 1 37451 0 0
+/students/get_student_fee/407 1 4 0 0
+/students/26 1 34986 0 0
+/students/get_student_fee/42 1 4 0 0
+/invoices/11387 1 14858 0 0
+/students/582/edit 1 66503 0 0
+/students/96 1 34908 0 0
+/invoices/11435 1 14870 0 0
+/students/678 1 35302 0 0
+/invoices/11299 3 44709 0 0
+/invoices/11181 1 14942 0 0
+/students/573 1 38703 0 0
+/invoices/11445 2 29710 0 0
+/invoices/11464 1 14855 0 0
+/students/777 1 34674 0 0
+/invoices/11379 1 14822 0 0
+/students/10 1 38740 0 0
+/students/get_student_fee/43 1 4 0 0
+/students/754 1 37669 0 0
+/students/675 2 70534 0 0
+/students/803 1 34960 0 0
+/students/42 1 34967 0 0
+/invoices/class/28 1 397365 0 0
+/students/383/edit 1 66509 0 0
+/invoices/11408 1 14864 0 0
+/students/157 1 35261 0 0
+/students/get_student_fee/717 1 4 0 0
+/invoices/11625 1 14915 0 0
+/students/262 1 35774 0 0
+/students/713/edit 1 66479 0 0
+/students/get_student_fee/129 1 4 0 0
+/students/get_student_fee/191 1 4 0 0
+/students/get_student_fee/627 1 4 0 0
+/invoices/11407 1 14855 0 0
+/invoices/11934 1 14879 0 0
+/students/get_student_fee/501 1 4 0 0
+/invoices/11422 2 29662 0 0
+/students/get_student_fee/39 1 4 0 0
+/invoices/11400 2 29656 0 0
+/students/692 2 78722 0 0
+/students/629 1 35261 0 0
+/students/367 1 34968 0 0
+/invoices/11632 1 14945 0 0
+/students/get_student_fee/616 1 4 0 0
+/invoices/11161 1 13255 0 0
+/students/398 1 35191 0 0
+/students/780 1 34964 0 0
+/invoices/11339 1 14894 0 0
+/students/get_student_fee/783 1 4 0 0
+/invoices/11523 2 29644 0 0
+/students/477/edit 1 66528 0 0
+/invoices/11349 1 14870 0 0
+/students/get_subjects/14 5 3485 0 0
+/invoices/11475 1 14837 0 0
+/invoices/11484 1 14834 0 0
+/students/get_students/17/0 5 70330 0 0
+/invoices/11513 1 14909 0 0
+/invoices/11940 1 14912 0 0
+/students/772 1 35525 0 0
+/invoices/11371 1 14858 0 0
+/invoices/11937 1 14909 0 0
+/students/321 1 35541 0 0
+/invoices/11404 1 14870 0 0
+/invoices/11553 1 14906 0 0
+/students/783/edit 1 66517 0 0
+/students/747 1 34944 0 0
+/students/630/edit 1 66514 0 0
+/invoices/11291 1 14834 0 0
+/invoices/11942/edit 6 234920 0 0
+/students/get_student_fee/85 1 4 0 0
+/students/543 1 38453 0 0
+/students/495/edit 1 66523 0 0
+/students/get_student_fee/400 1 4 0 0
+/students/509/edit 1 66485 0 0
+/students/531/edit 1 66465 0 0
+/students/377 1 38931 0 0
+/invoices/11392 1 14831 0 0
+/students/get_student_fee/618 1 4 0 0
+/invoices/11480 1 14870 0 0
+/students/120 1 34979 0 0
+/invoices/11412 1 14897 0 0
+/students/get_student_fee/534 1 4 0 0
+/invoices/11373 1 14855 0 0
+/students/get_student_fee/751 1 4 0 0
+/invoices/11468 1 14861 0 0
+/invoices/11452 1 14849 0 0
+/students/400 1 39193 0 0
+/students/604 1 35256 0 0
+/invoices/11487 1 14846 0 0
+/students/get_student_fee/614 1 4 0 0
+/invoices/11293 1 14828 0 0
+/invoices/11343 1 14849 0 0
+/students/get_student_fee/833 1 4 0 0
+/students/97 1 34969 0 0
+/invoices/11488 1 14840 0 0
+/invoices/11460 1 14846 0 0
+/students/668 1 35522 0 0
+/students/369/edit 2 133062 0 0
+/students/800/edit 1 66515 0 0
+/students/627/edit 3 199530 0 0
+/students/380 1 39066 0 0
+/students/798 1 34958 0 0
+/students/810 1 35011 0 0
+/invoices/11467 1 14828 0 0
+/invoices/11333 1 14858 0 0
+/students/734 1 38261 0 0
+/students/671/edit 1 66501 0 0
+/students/483 1 38874 0 0
+/students/get_student_fee/660 1 4 0 0
+/students/get_student_fee/472 1 4 0 0
+/invoices/11341 1 14852 0 0
+/students/825/edit 1 66526 0 0
+/students/39 1 34971 0 0
+/invoices/11331 1 14882 0 0
+/invoices/11938 1 14873 0 0
+/students/696 1 34959 0 0
+/invoices/11169 1 14900 0 0
+/invoices/11164 1 14951 0 0
+/students/482/edit 1 66509 0 0
+/students/get_student_fee/487 1 4 0 0
+/students/681/edit 1 66508 0 0
+/invoices/11933 1 14909 0 0
+/students/get_student_fee/263 1 4 0 0
+/invoices/11305 1 14852 0 0
+/students/740 1 35223 0 0
+/students/838/edit 1 66515 0 0
+/invoices/11481 1 14813 0 0
+/invoices/11135 1 14975 0 0
+/invoices/11931 3 44817 0 0
+/students/get_student_fee/730 1 4 0 0
+/students/get_student_fee/695 1 4 0 0
+/invoices/11338 1 14873 0 0
+/invoices/11377 1 14870 0 0
+/students/636/edit 1 66504 0 0
+/invoices/11456 1 14855 0 0
+/students/get_student_fee/315 1 4 0 0
+/students/407 1 34892 0 0
+/students/class/10 4 199423 0 0
+/students/get_student_fee/545 1 4 0 0
+/students/get_student_fee/784 1 4 0 0
+/invoices/11483 1 14867 0 0
+/students/get_student_fee/16 1 4 0 0
+/students/489 1 38823 0 0
+/invoices/11348 1 14879 0 0
+/students/get_student_fee/734 1 4 0 0
+/students/664/edit 1 66526 0 0
+/students/127 1 34998 0 0
+/invoices/11416 1 14822 0 0
+/invoices/11297 1 14837 0 0
+/students/260 1 35948 0 0
+/students/370 1 34979 0 0
+/invoices/11396 1 14843 0 0
+/invoices/11370 1 14882 0 0
+/students/717 1 35257 0 0
+/students/251 1 35238 0 0
+/invoices/11347 1 14858 0 0
+/invoices/11298 1 14837 0 0
+/students/817 1 35024 0 0
+/invoices/11330 1 14885 0 0
+/students/get_student_fee/370 1 4 0 0
+/students/get_student_fee/580 1 4 0 0
+/students/618 2 77536 0 0
+/students/get_student_fee/838 1 4 0 0
+/students/451/edit 3 199563 0 0
+/students/620/edit 1 66469 0 0
+/invoices/11340 1 14891 0 0
+/students/807/edit 1 66528 0 0
+/students/get_student_fee/736 1 4 0 0
+/invoices/11337 1 14891 0 0
+/invoices/11378 1 14870 0 0
+/invoices/11463 1 14831 0 0
+/students/806/edit 1 66517 0 0
+/students/782 1 34965 0 0
+/invoices/11175 1 14876 0 0
+/students/get_student_fee/636 1 4 0 0
+/invoices/11461 1 14822 0 1
+/invoices/11409 1 14837 0 0
+/teachers/create 1 34901 0 0
+/students/716 1 34952 0 0
+/students/get_student_fee/834 1 4 0 0
+/invoices/11489 1 14861 0 0
+/invoices/11344 1 14855 0 0
+/students/14/edit 1 66520 0 0
+/invoices/11365 1 14852 0 0
+/invoices/11334 1 14858 0 0
+/students/get_student_fee/536 1 4 0 0
+/students/get_student_fee/314 1 4 0 0
+/students/get_student_fee/153 1 4 0 0
+/students/455 1 34956 0 0
+/students/487/edit 1 66520 0 0
+/students/get_student_fee/604 1 4 0 0
+/students/443 1 34942 0 0
+/students/get_student_fee/829 2 8 0 0
+/students/91 1 34986 0 0
+/students/get_student_fee/582 1 4 0 0
+/students/763/edit 1 66510 0 0
+/students/150 1 35279 0 0
+/students/get_student_fee/10 1 4 0 0
+/students/510/edit 1 66483 0 0
+/students/623 1 35245 0 0
+/invoices/11939 1 14900 0 0
+/invoices/11152 1 14945 0 0
+/students/get_student_fee/731 1 4 0 0
+/students/get_student_fee/367 2 8 0 0
+/students/598/edit 1 66507 0 0
+/invoices/11168 1 14912 0 0
+/invoices/11403 1 14882 0 0
+/students/685 1 34936 0 0
+/students/61 1 35013 0 0
+/students/get_student_fee/543 1 4 0 0
+/invoices/11426 1 14843 0 0
+/invoices/11167 1 14912 0 0
+/students/get_student_fee/275 1 4 0 0
+/students/812 1 35285 0 0
+/students/161 1 35809 0 0
+/students/382 1 35203 0 0
+/students/get_subjects/7 2 1108 0 0
+/students/16/edit 1 66565 0 0
+/invoices/11385 1 14837 0 0
+/invoices/11374 1 14852 0 0
+/students/class/27 1 54532 0 0
+/students/819/edit 1 66514 0 0
+/students/688 1 35203 0 0
+/invoices/11469 1 14828 0 0
+/students/43 1 35269 0 0
+/invoices/11401 1 14837 0 0
+/students/class/7 1 99316 0 0
+/invoices/11294 1 14846 0 0
+/students/674/edit 1 66514 0 0
+/students/get_student_fee/515 2 8 1 0
+/students/317 1 35517 0 0
+/students/809 1 35267 0 0
+/students/get_student_fee/755 1 4 0 0
+/students/831 1 35263 0 0
+/students/get_student_fee/58 1 4 0 0
+/invoices/11430 1 14840 0 0
+/students/get_student_fee/423 1 4 0 0
+/students/553/edit 2 132904 0 0
+/students/20/edit 1 66521 0 0
+/students/545/edit 1 66479 0 0
+/invoices/11447 1 14834 0 0
+/students/get_student_fee/729 1 4 0 0
+/students/401/edit 1 66499 0 0
+/students/686 1 35493 0 1
+/students/315 1 35011 0 0
+/invoices/11478 1 14837 0 0
+/invoices/11363 1 14891 0 0
+/students/81 1 34915 0 0
+/students/get_student_fee/775 1 4 0 0
+/students/get_student_fee/771 1 4 0 0
+/invoices/11440 1 14870 0 0
+/students/514 1 34923 0 0
+/students/530 1 38978 0 0
+/profile/edit 1 32305 0 0
+/invoices/11627 1 14963 0 0
+/students/get_student_fee/251 1 4 0 0
+/invoices/11149 1 14957 0 0
+/students/774/edit 1 66508 0 0
+/students/655/edit 2 133076 0 0
+/students/548/edit 1 66499 0 0
+/students/get_student_fee/599 1 4 0 0
+/transactions_salary/1484 1 9466 0 0
+/students/631 1 34938 0 0
+/students/318 1 34978 0 0
+/invoices/11602 1 14924 0 1
+/invoices/11361 1 14897 0 0
+/students/get_subjects/17 4 2636 0 0
+/students/get_student_fee/463 1 4 0 0
+/invoices/11309 1 14873 0 0
+/invoices/11179 1 14915 0 0
+/students/get_student_fee/598 1 4 0 0
+/students/get_student_fee/610 1 4 0 0
+/students/596/edit 1 66511 0 0
+/students/get_student_fee/681 1 4 0 0
+/students/732/edit 1 66494 0 0
+/invoices/11381 1 14837 0 0
+/invoices/11628 1 14969 0 0
+/invoices/11405 1 14915 0 0
+/students/670 1 35247 0 0
+/students/get_student_fee/161 1 4 0 0
+/students/711/edit 1 66516 0 0
+/students/get_student_fee/673 1 4 0 0
+/students/get_student_fee/718 1 4 0 0
+/invoices/11438 1 14837 0 0
+/invoices/11477 1 14867 0 0
+/students/21 1 39032 0 0
+/students/get_student_fee/639 1 4 0 0
+/invoices/11316 1 14864 0 0
+/students/485/edit 1 66539 0 0
+/students/801 1 35243 0 0
+/invoices/11470 1 14894 0 0
+/invoices/11496 2 29668 0 0
+/students/get_student_fee/145 1 4 0 0
+/students/get_student_fee/167 1 4 0 0
+/invoices/11383 1 14864 0 0
+/invoices/11356 1 14900 0 0
+/invoices/11448 1 14837 0 0
+/students/663/edit 1 66529 0 0
+/students/818 1 35295 0 0
+/students/get_student_fee/398 2 8 0 0
+/invoices/11133 1 14993 0 0
+/students/790 1 35259 0 0
+/invoices/11326 1 14867 0 0
+/students/718 1 35255 0 0
+/invoices/11303 1 14837 0 0
+/students/get_student_fee/497 1 4 0 0
+/invoices/11935 1 14885 0 0
+/public/backend/fonts/glyphicons-halflings-regular.woff2 2 36056 0 0
+/students/get_student_fee/735 1 4 0 0
+/students/660 1 35266 0 0
+/students/get_student_fee/471 1 4 0 0
+/invoices/11369 1 14861 0 0
+/students/815 1 35011 0 0
+/invoices/11301 1 14861 0 0
+/invoices/11474 1 14828 0 0
+/invoices/11485 1 14846 0 0
+/students/584 1 38742 0 0
+/students/88 1 35006 0 0
+/students/get_student_fee/651 1 4 0 0
+/students/get_student_fee/133 1 4 0 0
+/students/805/edit 1 66527 0 0
+/invoices/11444 1 14849 0 0
+/students/get_student_fee/573 2 8 0 0
+/invoices/11610 1 14942 0 0
+/invoices/11465 1 14864 0 0
+/invoices/11389 1 14828 0 0
+/students/529/edit 1 66499 0 0
+/students/5 1 38856 0 0
+/students/get_student_fee/596 1 4 0 0
+/students/781/edit 1 66512 0 0
+/invoices/11171 1 14936 0 0
+/students/599 1 34982 0 0
+/students/get_student_fee/489 1 4 0 0
+/invoices/11434 1 14879 0 0
+/students/837/edit 1 66517 0 0
+/students/get_student_fee/748 1 4 0 0
+/parents/631/edit 1 33573 0 0
+/public/backend/fonts/themify.woff 4 224432 0 2
+/students/651 1 35216 0 0
+/invoices/11624 1 14918 0 0
+/students/764/edit 2 133012 0 0
+/students/get_student_fee/764 1 4 0 0
+/invoices/11750 1 14879 0 0
+/invoices/11173 1 14915 0 0
+/students/get_student_fee/544 1 4 0 0
+/students/624 1 35548 0 0
+END_SIDER

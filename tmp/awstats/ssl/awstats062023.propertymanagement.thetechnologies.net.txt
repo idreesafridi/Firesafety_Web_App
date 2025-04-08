@@ -1,0 +1,281 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.propertymanagement.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2704                
+POS_VISITOR 6094                
+POS_DAY 6254                
+POS_DOMAIN 3232                
+POS_LOGIN 3479                
+POS_ROBOT 3634                
+POS_WORMS 3812                
+POS_EMAILSENDER 3943                
+POS_EMAILRECEIVER 4086                
+POS_SESSION 6401                
+POS_SIDER 6558                
+POS_FILETYPES 4221                
+POS_DOWNLOADS 4400                
+POS_OS 4448                
+POS_BROWSER 4526                
+POS_SCREENSIZE 4599                
+POS_UNKNOWNREFERER 4673                
+POS_UNKNOWNREFERERBROWSER 4760                
+POS_ORIGIN 4842                
+POS_SEREFERRALS 4975                
+POS_PAGEREFS 5119                
+POS_SEARCHWORDS 5267                
+POS_KEYWORDS 5419                
+POS_MISC 2368                
+POS_ERRORS 5478                
+POS_CLUSTER 3335                
+POS_SIDER_404 5579                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230702091108 1 0 9594318174316
+FirstTime 0
+LastTime 20230627194455
+LastUpdate 20230703081101 1 0 0 0 0
+TotalVisits 5                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 1 1 7411 0 1 6609
+3 0 0 0 0 0 0
+4 1 1 7411 4 5 33045
+5 0 0 0 2 3 7889
+6 0 0 0 1 1 0
+7 0 0 0 0 0 0
+8 0 0 0 1 1 454
+9 74 160 10067152 8 11 16596
+10 7 7 349722 6 8 9745
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 1 1 0
+15 0 0 0 0 0 0
+16 0 0 0 1 1 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 8 51 4213254 3 4 8051
+20 0 0 0 0 0 0
+21 0 0 0 1 1 0
+22 0 0 0 1 1 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+au 57 100 5363352
+gb 34 120 9281598
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bot[\s_+:,\.\;\/\\-] 5 14894 20230629050346 3
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+jpg 3 455652 0 0
+woff2 3 279780 0 0
+js 45 8576229 0 0
+Unknown 88 2957466 0 0
+css 39 1177128 0 0
+png 42 1198695 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+win10 220 91
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+chrome114.0.0.0 220 91
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3 3
+From1 0 0
+From2 0 0
+From3 0 0
+From4 88 217
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 17 8014
+404 15 59481
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/api/index.php/v1/config/application 2 -
+/assets/portal_logo.png 5 https://propertymanagement.thetechnologies.net/login
+/wp-content/plugins/revslider/includes/external/page/index.php 4 www.google.com
+/ 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+101.53.234.37 57 100 5363352 20230608094642
+80.193.49.179 34 120 9281598 20230627194455
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20230608 81 167 10416874 2
+20230609 1 1 7411 1
+20230613 1 1 7411 1
+20230627 8 51 4213254 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 2
+5mn-15mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 39
+/admin/dashboard 8 386184 0 2
+/login 6 44466 5 3
+/admin/loadPropertyData 5 5 0 0
+/admin/loadPropertyDataMaintenance 5 5615 0 0
+/admin/loadPropertyDataTenant 5 1815 0 0
+/admin/loadPropertyCompany 5 235 0 0
+/admin/rental 4 204832 0 0
+/admin/property 4 193060 0 0
+/assets/fonts/boxicons.woff2 3 279780 0 0
+/admin/loadPropertyPolicy 3 289 0 0
+/admin/maintenancereport/create 3 171723 0 0
+/admin/LoadProperties 3 162 0 0
+/admin/tenant 3 221604 0 0
+/admin/rental/create 2 124686 0 0
+/admin/company 2 99922 0 0
+/admin/insuranceclaim 2 97798 0 0
+/admin/property/14/edit 2 137632 0 0
+/admin/user 2 109994 0 0
+/admin/maintenancereport 2 96522 0 0
+/admin/loadPropertyPolicyExpiry 2 20 0 0
+/admin/tenant/create 2 110394 0 0
+/admin/stock/create 1 51178 0 0
+/admin/property/create 1 69076 0 0
+/admin/waterutilitymodule/create 1 49278 0 0
+/admin/insuranceclaim/create 1 54037 0 0
+/admin/legal/5/edit 1 54324 0 0
+/admin/password 1 47781 0 0
+/admin/property/14 1 51653 0 0
+/admin/stock 1 48420 0 0
+/admin/waterutility/index/1 1 47541 0 0
+/admin/monthlyrent/index/10 1 47566 0 0
+/admin/stock/1/edit 1 51322 0 0
+/admin/monthlyrent/create/10 1 47199 0 0
+/admin/maintenancereport/1/edit 1 57567 0 0
+/admin/waterutilitymodule 1 48422 0 0
+/admin/rental/10/edit 1 62182 0 0
+/admin/tenant/7/edit 1 55308 0 0
+/admin/insurancecompany 1 56203 0 0
+/admin/legal 1 51451 0 0
+END_SIDER

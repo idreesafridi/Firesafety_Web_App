@@ -1,0 +1,372 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.fhm.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2706                
+POS_VISITOR 11013               
+POS_DAY 12037               
+POS_DOMAIN 3409                
+POS_LOGIN 3727                
+POS_ROBOT 3882                
+POS_WORMS 4253                
+POS_EMAILSENDER 4384                
+POS_EMAILRECEIVER 4527                
+POS_SESSION 12488               
+POS_SIDER 12684               
+POS_FILETYPES 4662                
+POS_DOWNLOADS 4924                
+POS_OS 5047                
+POS_BROWSER 5227                
+POS_SCREENSIZE 5522                
+POS_UNKNOWNREFERER 5596                
+POS_UNKNOWNREFERERBROWSER 5719                
+POS_ORIGIN 5837                
+POS_SEREFERRALS 5972                
+POS_PAGEREFS 6135                
+POS_SEARCHWORDS 6417                
+POS_KEYWORDS 6569                
+POS_MISC 2369                
+POS_ERRORS 6628                
+POS_CLUSTER 3583                
+POS_SIDER_404 6746                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601011104 3 406 10328554182401
+FirstTime 20230501082135
+LastTime 20230531113033
+LastUpdate 20230601084802 3 0 2 0 0
+TotalVisits 26                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 26                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 20 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 13206
+1 0 0 0 1 1 38220
+2 0 1 408521 0 12 72633
+3 8 114 9683871 8 45 310112
+4 11 114 9742525 7 27 221258
+5 6 85 7044105 8 75 1846982
+6 1 1 53183 0 11 72633
+7 1 8 426769 2 4 86182
+8 3 34 2437765 1 3 398
+9 3 24 2846236 0 2 24
+10 0 3 1356637 1 13 111692
+11 5 45 4836371 4 33 1257307
+12 0 0 0 2 3 78142
+13 9 37 3484651 4 6 1496
+14 1 14 39059 2 3 86134
+15 13 145 8938909 9 110 682983
+16 11 35 2940752 4 82 516268
+17 1 1 39059 4 6 124174
+18 2 2 78390 5 8 190405
+19 1 1 39195 2 3 74882
+20 0 0 0 5 6 152185
+21 1 2 447716 3 5 135163
+22 0 0 0 1 15 589990
+23 0 0 0 1 1 39059
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 39 226 15006386
+pk 30 378 33586410
+au 4 53 5796933
+ru 2 2 78390
+ua 1 1 39195
+cn 1 5 180635
+in 0 1 90228
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 62 2438174 20230526125134 4
+bingbot/ 34 983600 20230531030836 9
+facebookexternalhit/ 6 226204 20230514200225 0
+bot[\s_+:,\.\;\/\\-] 2 39059 20230515042355 0
+survey 2 78254 20230511042806 0
+no_user_agent 1 39059 20230522174235 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpeg 6 1356978 0 0
+png 145 20374657 0 0
+css 177 7244679 0 0
+html 46 1800234 0 0
+gif 3 676404 0 0
+woff2 7 383132 0 0
+jpg 85 10912781 0 0
+Unknown 24 2390102 0 0
+js 162 5162678 0 0
+pdf 11 4476532 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/documents/1679397794.pdf 9 2 3742226
+/documents/1681413942.pdf 2 0 734306
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx6 2 2
+linux 66 5
+ios_iphone 1 0
+android 2 1
+macosx15 31 1
+android10 132 11
+win7 5 1
+win10 428 55
+Unknown 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome110.0.0.0 1 1
+safari16.4 1 0
+chrome104.0.0.0 2 2
+chrome113.0.0.0 134 10
+Unknown 1 1
+firefox112.0 1 0
+chrome111.0.0.0 73 3
+chrome103.0.5060.114 1 1
+chrome49.0.2623.112 5 1
+chrome112.0.0.0 425 54
+chrome109.0.0.0 21 1
+chrome94.0.4606.61 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.23.8.76_A 20230503091411
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.23.8.76_A 20230503091411
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 27 36
+From1 0 0
+From2 3 5
+From3 0 7
+From4 47 620
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://factorhealthmarketing.com 0 4
+http://127.0.0.1:8000 0 1
+https://alakhzirtech.com 0 1
+http://www.factorhealthmarketing.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 6 799976
+404 316 2086548
+302 27 10654
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/admin/third_sub_categories/assets/images/avatars/avatar-4.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/subcategories/assets/images/avatars/avatar-3.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/subcategories/assets/images/avatars/avatar-6.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/Public/home/js/check.js 1 -
+/admin/assets/images/avatars/avatar-4.png 25 https://fhm.thetechnologies.net/admin/category
+/admin/subcategories/assets/images/avatars/avatar-5.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/third_sub_categories/assets/images/avatars/avatar-8.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/assets/images/avatars/avatar-6.png 25 https://fhm.thetechnologies.net/admin/category
+/public/images/ 3 https://fhm.thetechnologies.net/admin/subcategory
+/static/admin/javascript/hetong.js 1 -
+/admin/assets/images/avatars/avatar-8.png 25 https://fhm.thetechnologies.net/admin/category
+/admin/assets/images/avatars/avatar-5.png 25 https://fhm.thetechnologies.net/admin/category
+/admin/third_sub_categories/assets/images/avatars/avatar-1.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/api/index.php/v1/config/application 4 -
+/admin/assets/images/avatars/avatar-11.png 24 https://fhm.thetechnologies.net/admin/category
+/admin/assets/images/avatars/avatar-3.png 26 https://fhm.thetechnologies.net/admin/category
+/admin/subcategories/assets/images/avatars/avatar-7.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/subcategories/assets/images/avatars/avatar-11.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/subcategories/assets/images/avatars/avatar-1.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/subcategories/assets/images/avatars/avatar-8.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/third_sub_categories/assets/images/avatars/avatar-9.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/third_sub_categories/assets/images/avatars/avatar-7.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/assets/images/avatars/avatar-9.png 25 https://fhm.thetechnologies.net/admin/category
+/admin/subcategories/assets/images/avatars/avatar-4.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/third_sub_categories/assets/images/avatars/avatar-6.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/assets/admin/assets/images/favicon-32x32.png 4 https://fhm.thetechnologies.net/admin/users
+/admin/assets/images/avatars/avatar-1.png 28 https://fhm.thetechnologies.net/admin/category
+/admin/third_sub_categories/assets/images/avatars/avatar-11.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/subcategories/assets/images/avatars/avatar-2.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/third_sub_categories/assets/images/avatars/avatar-3.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/assets/images/avatars/avatar-10.png 25 https://fhm.thetechnologies.net/admin/category
+/admin/assets/images/avatars/avatar-2.png 27 https://fhm.thetechnologies.net/admin/category
+/admin/assets/images/avatars/avatar-7.png 25 https://fhm.thetechnologies.net/admin/category
+/admin/third_sub_categories/assets/images/avatars/avatar-5.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/subcategories/assets/images/avatars/avatar-9.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/documents/1679138970.pdf 1 -
+/admin/subcategories/assets/images/avatars/avatar-10.png 1 https://fhm.thetechnologies.net/admin/subcategories/13
+/admin/third_sub_categories/assets/images/avatars/avatar-10.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+/admin/third_sub_categories/assets/images/avatars/avatar-2.png 1 https://fhm.thetechnologies.net/admin/third_sub_categories/31
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 26
+206.84.151.75 27 169 7479718 20230504172833
+203.101.178.21 18 203 17243652 20230529042917
+39.45.47.134 7 82 5709431 20230506060008
+206.84.150.103 7 18 274343 20230501133621
+101.53.234.74 4 53 5796933 20230517111459
+54.82.76.63 2 2 78390 20230531113033
+176.53.222.168 1 1 39195 20230508190124
+176.53.220.103 1 1 39195 20230507185807
+118.193.38.61 1 5 180635 20230504035639
+104.7.213.20 1 29 4578882 20230501160252
+221.120.209.221 1 21 2359461 20230501082135
+150.129.7.4 1 21 2359461 20230508033117
+47.89.195.210 1 1 39195 20230506213824
+119.160.98.123 1 7 419809 20230526132835
+45.90.60.98 1 1 39195 20230506185952
+119.153.111.198 1 21 2359461 20230504154040
+119.153.111.196 1 21 2359461 20230508033107
+95.216.188.234 1 1 39195 20230506093704
+119.160.114.229 0 1 408521 
+71.75.212.112 0 1 408521 
+184.60.189.45 0 1 408521 
+67.204.148.2 0 1 408521 
+68.249.183.156 0 1 408521 
+103.173.7.207 0 1 90228 
+182.176.130.6 0 1 367153 
+206.84.144.98 0 4 882579 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20230501 9 60 4973574 4
+20230502 3 32 4699394 1
+20230503 8 71 8295660 2
+20230504 26 173 8376574 4
+20230506 10 86 6194169 4
+20230507 1 1 39195 1
+20230508 8 109 9452203 4
+20230513 0 1 408521 0
+20230515 1 8 426769 1
+20230516 0 1 408521 0
+20230517 1 21 2359461 1
+20230524 2 22 2398520 1
+20230525 0 1 408521 0
+20230526 1 7 419809 1
+20230529 5 69 4956317 1
+20230530 0 2 948116 0
+20230531 2 2 78390 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 1
+5mn-15mn 1
+0s-30s 20
+1h+ 1
+30s-2mn 2
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 46 1800234 26 22
+/admin/dashboard 8 461456 0 0
+/admin/category 5 367504 0 1
+/assets/admin/assets/fonts/boxicons.woff2 4 279780 0 0
+/admin/users 3 972588 0 0
+/admin/subcategory 3 272689 0 0
+/assets/admin/assets/fonts/LineIcons.woff2 3 103352 0 2
+/admin/password 2 106366 0 1
+/admin/recent-documents 1 100491 0 0
+/admin/third_sub_categories/31 1 54698 0 0
+/admin/subcategories/13 1 54310 0 0
+END_SIDER

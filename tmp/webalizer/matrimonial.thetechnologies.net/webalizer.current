@@ -1,0 +1,457 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 05:13:22
+2023 7 6 5 13 22
+76 68 62 58 7 9 4172106 9 8 0
+3 2 71 3 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 2 128879 1 2 1
+0 0 0 0 0 0
+62 60 3619308 60 5 5
+11 6 423919 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 3 184266 1
+0 0 0 0
+4 1 110774 0
+0 0 0 0
+0 0 0 0
+2 2 128879 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+65 62 3748187 7
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+68
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/uploads/2023/01/No-restrictions.png
+0 1 12747936 2305 0 0
+/wp-content/plugins/revslider/public/assets/css/rs6.css
+0 1 12734528 57925 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+0 1 12732960 57912 0 0
+/wp-content/uploads/2023/01/Huge-user-base.png
+0 1 12746800 3558 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 1 0 669 0 0
+/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js
+0 1 12739808 810 0 0
+/wp-includes/css/classic-themes.min.css
+0 1 12702832 291 0 0
+/wp-content/uploads/2023/06/Main-Index-Mobile-768x917.jpg
+0 1 0 138304 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+0 1 0 93372 0 0
+/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css
+0 1 12735616 446370 0 0
+/.well-known/acme-challenge/G7-UBZ-WIG21WCJ7FSM2K0DJWJ_5ET1-
+0 1 12687328 64 0 0
+/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+0 1 0 12198 0 0
+/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+0 1 0 4957 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+0 1 12731376 19279 0 0
+/wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+0 1 0 18468 0 0
+/wp-content/plugins/revslider/public/assets/js/rbtools.min.js
+0 1 0 128668 0 0
+/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+0 1 0 139153 0 0
+/.well-known/acme-challenge/97c4VUev60wZkCQRh-2YAdTRuA8XO9N1PbGn6sj3YYc
+0 3 0 261 0 0
+/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js
+0 1 0 3164 0 0
+/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+0 1 0 32947 0 0
+/wp-content/plugins/contact-form-7/includes/swv/js/
+0 1 12736768 10565 1 0
+/wp-content/uploads/2023/01/Verified-members-2.png
+0 1 12747568 2733 0 0
+/wp-content/plugins/revslider/public/assets/js/rs6.min.js
+0 1 0 389903 0 0
+/wp-content/uploads/2023/01/absolute-privacy.png
+0 1 12745696 2496 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 1 12735248 13424 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+0 1 12742112 78196 0 0
+/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css
+0 1 12732144 30283 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 1 12739088 21438 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+0 1 12733360 675 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 1 3328783758173143040 2803 0 0
+/wp-content/uploads/elementor/css/post-5.css
+0 1 12730272 1099 0 0
+/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js
+0 1 12737520 40 0 0
+/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js
+0 1 12740944 17948 0 0
+/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js
+0 1 12738688 137535 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 1 12740592 18692 0 0
+/wp-content/themes/hello-elementor/style.min.css
+0 1 12729152 6051 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+0 1 12743056 76764 0 0
+/wp-content/uploads/2023/06/Middle-Banner-mob-scaled.jpg
+0 1 0 246669 0 0
+/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff
+0 1 12744720 454356 0 0
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+0 1 12739440 40513 0 0
+/wp-content/uploads/elementor/css/global.css
+0 1 12731008 9475 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 1 12734896 89815 0 0
+/
+0 4 0 515516 5 0
+/wp-content/uploads/elementor/css/post-108.css
+0 1 12731776 80528 0 0
+/wp-content/uploads/2023/01/No-fake-profiles.png
+0 1 12745328 2734 0 0
+/wp-content/uploads/2022/11/Final-Logo-768x392.png
+0 1 12742688 42226 0 0
+/wp-content/plugins/elementor/assets/css/frontend-lite.min.css
+0 1 0 103736 0 0
+/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css
+0 1 12732544 122531 0 0
+/.well-known/acme-challenge/9NVX-KVB0OZH0QO-CMRO3S9I_70_05EC
+0 1 0 64 0 0
+/wp-cron.php
+0 6 0 0 0 0
+/wp-content/uploads/2023/01/Powerful-matchmaking.png
+0 1 12746432 2684 0 0
+/wp-content/uploads/elementor/css/post-184.css
+0 1 12730640 5794 0 0
+/wp-content/plugins/contact-form-7/includes/js/
+0 1 12736400 12652 1 0
+/wp-content/uploads/2022/11/Front-banner-1.png
+0 1 12746064 181581 0 0
+/wp-content/themes/hello-elementor/theme.min.css
+0 1 12728784 15672 0 0
+/wp-content/uploads/elementor/css/post-170.css
+0 1 12728416 9203 0 0
+/wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js
+0 1 12747168 1359 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 1 12729520 97517 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 6 1 295040 1 1688602128
+/
+209.95.161.115
+0 1 1 18692 0 0
+-
+198.240.78.234
+0 1 1 2496 0 0
+-
+206.204.33.168
+0 1 1 1359 0 0
+-
+116.212.189.26
+0 1 1 32947 0 0
+-
+165.232.73.4
+0 1 1 128879 1 1688620402
+/
+216.19.204.137
+0 1 1 454356 0 0
+-
+168.151.166.21
+0 1 1 15672 0 0
+-
+152.39.253.159
+0 1 1 12652 1 1688571784
+/wp-content/plugins/contact-form-7/includes/js/
+168.151.97.195
+0 1 1 246669 0 0
+-
+193.142.103.188
+0 1 1 97517 0 0
+-
+152.39.186.0
+0 1 1 89815 0 0
+-
+94.176.57.245
+0 1 1 57925 0 0
+-
+185.246.174.30
+0 1 1 13424 0 0
+-
+outbound1d.letsencrypt.org
+0 1 1 87 0 0
+-
+188.241.249.115
+0 1 1 40 0 0
+-
+152.39.193.227
+0 1 1 3558 0 0
+-
+94.176.62.83
+0 1 1 2734 0 0
+-
+149.19.252.142
+0 1 1 389903 0 0
+-
+213.188.84.105
+0 1 1 17948 0 0
+-
+176.223.107.44
+0 1 1 446370 0 0
+-
+93.180.206.4
+0 1 1 2803 0 0
+-
+93.180.239.84
+0 1 1 6051 0 0
+-
+119.12.181.21
+0 1 1 4957 0 0
+-
+168.151.132.0
+0 1 1 5794 0 0
+-
+152.39.233.133
+0 1 1 103736 0 0
+-
+ec2-3-144-245-163.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+206.204.34.50
+0 1 1 80528 0 0
+-
+206.204.16.212
+0 1 1 10565 1 1688571785
+/wp-content/plugins/contact-form-7/includes/swv/js/
+213.188.75.202
+0 1 1 30283 0 0
+-
+206.204.50.56
+0 1 1 21438 0 0
+-
+162.43.237.248
+0 1 1 181581 0 0
+-
+104.244.83.55
+0 1 1 675 0 0
+-
+94.176.61.161
+0 1 1 18468 0 0
+-
+46.232.208.26
+0 1 1 3164 0 0
+-
+139.5.106.216
+0 1 1 57912 0 0
+-
+180.149.27.6
+0 1 1 128879 1 1688571782
+/
+119.13.223.52
+0 1 1 137535 0 0
+-
+146.70.126.209
+0 1 0 0 1 1688571501
+/
+152.39.148.147
+0 1 1 19279 0 0
+-
+206.204.35.71
+0 1 1 12198 0 0
+-
+213.188.87.161
+0 1 1 138304 0 0
+-
+119.13.198.227
+0 1 1 42226 0 0
+-
+203.78.175.165
+0 1 1 76764 0 0
+-
+168.151.105.175
+0 1 1 2684 0 0
+-
+152.39.227.59
+0 1 1 40513 0 0
+-
+89.38.234.247
+0 1 1 128668 0 0
+-
+209.99.179.207
+0 1 1 139153 0 0
+-
+ec2-35-91-136-165.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+119.13.215.117
+0 1 1 122531 0 0
+-
+152.39.239.237
+0 1 1 1099 0 0
+-
+46.232.209.106
+0 1 1 78196 0 0
+-
+168.151.109.199
+0 1 1 810 0 0
+-
+188.212.140.8
+0 1 1 291 0 0
+-
+cpcl47.hostingcare.net
+0 10 9 129007 1 1688398882
+/
+206.204.2.24
+0 1 1 669 0 0
+-
+94.139.57.37
+0 1 1 93372 0 0
+-
+119.13.203.73
+0 1 0 0 1 1688571781
+/
+168.151.196.63
+0 1 1 2733 0 0
+-
+216.19.203.219
+0 1 1 9475 0 0
+-
+150.129.94.114
+0 1 1 2305 0 0
+-
+92.114.60.219
+0 1 1 9203 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 6 1 295040 1 1688602128
+/
+165.232.73.4
+0 1 1 128879 1 1688620402
+/
+cpcl47.hostingcare.net
+0 4 4 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://matrimonial.thetechnologies.net/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css
+0 1
+http://matrimonial.thetechnologies.net/wp-content/uploads/elementor/css/post-108.css
+0 1
+http://matrimonial.thetechnologies.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+0 1
+- (Direct Request)
+0 23
+http://matrimonial.thetechnologies.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+0 1
+http://matrimonial.thetechnologies.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 1
+http://matrimonial.thetechnologies.net/
+0 48
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 1
+WordPress/6.2.2; http://matrimonial.thetechnologies.net
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E
+0 55
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

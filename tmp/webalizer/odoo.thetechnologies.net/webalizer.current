@@ -1,0 +1,175 @@
+# Webalizer V2.23-08 Incremental Data - 06/30/2023 16:42:15
+2023 6 30 16 42 15
+14 5 10 3 1 10 2641 9 8 0
+1 1 8 2 30
+0 0 0 0 0 0
+1 0 292 1 1 1
+0 0 0 0 0 0
+2 0 490 2 2 2
+1 0 245 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 5 1124 6 3 2
+0 0 0 0 0 0
+2 0 490 1 2 2
+0 0 0 0 0 0
+1 0 245 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 245 1
+0 0 0 0
+0 0 0 0
+8 5 1124 3
+0 0 0 0
+0 0 0 0
+1 0 292 1
+1 0 245 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 245 1
+0 0 0 0
+0 0 0 0
+1 0 245 1
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/4ZL9D949T2ZBQKNCCUR1-36SHVR1S8_N
+0 1 0 64 0 0
+/.well-known/acme-challenge/mmhPdfWLpFJB3IOtU9rcJIhQT7b-mXk3xW7ZEFRNZxw
+0 3 0 261 0 0
+/.well-known/acme-challenge/C00I0MPLJX7LO3BGJXRWVXLLHJ2R4V39
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+higgins.probe.onyphe.net
+0 1 0 292 1 1685718541
+-
+205.169.39.205
+0 2 0 490 1 1687955775
+-
+ec2-34-254-238-145.eu-west-1.compute.amazonaws.com
+0 1 0 245 1 1685921509
+-
+ec2-35-88-230-185.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-54-246-222-183.eu-west-1.compute.amazonaws.com
+0 1 0 245 1 1685909217
+-
+unn-185-156-46-162.datapacket.com
+0 1 0 245 1 1687955884
+-
+ec2-18-216-70-104.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+ec2-3-80-221-23.compute-1.amazonaws.com
+0 1 0 245 1 1685958655
+-
+outbound2i.letsencrypt.org
+0 1 1 87 0 0
+-
+cpcl47.hostingcare.net
+0 4 2 618 2 1688143335
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpcl47.hostingcare.net
+0 2 0 490 2 1688143335
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 14
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+0 1
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.121 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

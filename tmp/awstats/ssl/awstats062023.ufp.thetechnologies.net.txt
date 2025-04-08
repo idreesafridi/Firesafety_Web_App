@@ -1,0 +1,462 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.ufp.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2691                
+POS_VISITOR 7543                
+POS_DAY 8861                
+POS_DOMAIN 3422                
+POS_LOGIN 3750                
+POS_ROBOT 3905                
+POS_WORMS 4113                
+POS_EMAILSENDER 4244                
+POS_EMAILRECEIVER 4387                
+POS_SESSION 9348                
+POS_SIDER 9554                
+POS_FILETYPES 4522                
+POS_DOWNLOADS 4769                
+POS_OS 4817                
+POS_BROWSER 4951                
+POS_SCREENSIZE 5196                
+POS_UNKNOWNREFERER 5270                
+POS_UNKNOWNREFERERBROWSER 5464                
+POS_ORIGIN 5653                
+POS_SEREFERRALS 5792                
+POS_PAGEREFS 5955                
+POS_SEARCHWORDS 6103                
+POS_KEYWORDS 6255                
+POS_MISC 2354                
+POS_ERRORS 6314                
+POS_CLUSTER 3606                
+POS_SIDER_404 6462                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230703004115 1 0 19375822814079
+FirstTime 0
+LastTime 20230627081421
+LastUpdate 20230703081104 1 0 0 0 0
+TotalVisits 59                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 30                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 13 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 200 370 38890868 152 351 51577549
+1 175 401 27129159 118 287 45993357
+2 187 226 32860333 137 313 53847851
+3 114 222 16035732 60 147 13834477
+4 65 300 17534957 27 92 9532910
+5 25 25 5154218 5 32 1542270
+6 35 50 8144683 16 55 278020
+7 35 151 9454029 9 39 1213124
+8 13 13 3414789 1 18 112645
+9 2 2 473718 2 6 20613
+10 2 2 102696 0 4 27174
+11 2 2 9068 2 3 1590
+12 1 1 4177 1 3 13616
+13 0 0 0 0 0 0
+14 0 0 0 1 1 6603
+15 0 0 0 0 0 0
+16 0 0 0 1 1 394
+17 0 0 0 0 0 0
+18 1 1 4129 1 1 394
+19 1 1 4129 1 2 418
+20 0 0 0 1 1 394
+21 1 1 4177 2 3 820
+22 44 117 8379692 24 63 8828140
+23 76 97 13723014 68 145 20899403
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+cn 711 1344 113491243
+pk 258 614 67309136
+au 3 17 493332
+ru 2 2 8258
+us 2 2 8354
+de 1 1 4177
+vn 1 1 4177
+in 1 1 4891
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 7 168 20230630095024 7
+bot[\s_+:,\.\;\/\\-] 1 4177 20230605041049 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff2 20 551788 0 0
+css 219 5797670 0 0
+Unknown 680 119602202 0 0
+js 724 20057273 0 0
+woff 7 182084 0 0
+png 20 373380 0 0
+jpeg 13 1517308 0 0
+html 272 30416909 0 0
+jpg 27 2824954 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx12 1 1
+macosx15 1213 692
+Unknown 3 3
+android 4 4
+win10 761 279
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome94.0.4606.61 1 1
+chrome114.0.0.0 1801 924
+chrome112.0.0.0 1 1
+chrome110.0.0.0 2 2
+chrome61.0.3163.100 1 1
+chrome103.0.5060.114 1 1
+Unknown 3 3
+chrome71.0.3578.98 1 1
+chrome113.0.0.0 171 45
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WhatsApp/2.23.10.77_A 20230609040835
+WhatsApp/2.2323.2_W 20230627074856
+WhatsApp/2.2322.2_W 20230622012418
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.23.10.77_A 20230609040835
+WhatsApp/2.2322.2_W 20230622012418
+WhatsApp/2.2323.2_W 20230627074856
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 138 138
+From1 0 0
+From2 1 1
+From3 0 0
+From4 840 1843
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 1062 7053534
+500 360 200516585
+206 4 90499
+419 1 6609
+302 119 60190
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/assets/plugin/waves/waves.min.js.map 47 -
+/static/admin/javascript/hetong.js 1 -
+/wp-content/themes/twentyseventeen/page/index.php 1 www.google.com
+/assets/plugin/bootstrap/css/bootstrap.min.css.map 50 -
+/api/index.php/v1/config/application 2 -
+/assets/plugin/bootstrap/js/bootstrap.min.js.map 47 -
+/avatar/1636970410.jpg 2 https://ufp.thetechnologies.net/Quotes
+/assets/plugin/tinymce/skins/lightgray/content.min.css 4 https://ufp.thetechnologies.net/Products/834/edit
+/summary/1 1 https://ufp.thetechnologies.net/summary/12
+/Products/834/assets/plugin/tinymce/content.min.css 4 https://ufp.thetechnologies.net/Products/834/edit
+/Public/home/js/check.js 1 -
+/cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js 902 https://ufp.thetechnologies.net/Invoice
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 30
+223.123.92.15 232 302 23533399 20230619034653
+39.33.185.206 177 298 42657176 20230623072814
+223.123.95.6 167 392 25317006 20230621034623
+223.123.88.33 118 121 23579753 20230622021222
+223.123.95.105 85 89 6443657 20230613030614
+39.33.251.116 69 289 21768001 20230613065205
+223.123.93.194 28 39 3103549 20230614010519
+223.123.89.175 22 22 7330745 20230623025253
+223.123.85.250 17 129 7155700 20230627081421
+223.123.96.60 12 47 2161383 20230612030156
+223.123.96.177 12 16 4443379 20230619235700
+223.123.89.131 7 66 6394983 20230626003515
+223.123.98.253 6 115 2374491 20230609040732
+39.33.170.204 4 5 852585 20230627074856
+39.33.169.68 4 4 1075319 20230624024732
+101.53.234.37 3 17 493332 20230609045234
+223.123.88.199 2 3 808909 20230623001501
+182.176.130.7 2 16 487679 20230615061549
+47.88.94.159 1 1 4177 20230613124627
+93.159.230.90 1 1 4129 20230617185934
+45.132.224.131 1 1 4891 20230610115731
+45.90.61.167 1 1 4177 20230614215345
+87.179.143.171 1 1 4177 20230605074850
+223.123.100.81 1 1 4891 20230612000357
+223.123.91.46 1 1 419699 20230626010039
+93.159.230.87 1 1 4129 20230624195652
+39.41.218.128 1 1 48677 20230610102040
+223.123.88.27 1 1 419699 20230624092814
+171.244.43.14 1 1 4177 20230613113720
+39.33.248.57 1 1 419699 20230626022521
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20230605 1 1 4177 1
+20230609 41 276 15865262 4
+20230610 12 12 3508919 3
+20230612 21 164 6254562 4
+20230613 108 121 9038164 7
+20230614 50 55 6521655 5
+20230615 29 44 4622452 4
+20230617 3 3 62277 2
+20230618 51 121 5076214 1
+20230619 217 224 27979903 4
+20230620 41 49 10865660 3
+20230621 228 450 36669927 3
+20230622 113 225 29083325 3
+20230623 28 29 9029258 5
+20230624 6 6 1499147 4
+20230626 9 68 7234381 3
+20230627 21 134 8008285 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 6
+5mn-15mn 7
+1h+ 9
+30s-2mn 3
+0s-30s 25
+2mn-5mn 2
+15mn-30mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 134
+/ 272 30416909 22 21
+/summary 142 11746447 5 2
+/salesReport 45 11452532 0 1
+/login 41 178288 25 9
+/sales-by-products 41 2146514 0 0
+/Invoice 33 24268649 0 2
+/invoices-by-stats 26 9224497 0 4
+/invoice-recieve-payment/564 19 830891 0 0
+/summary/1 19 991245 2 1
+/invoices-by-customer/1178 14 4932735 0 1
+/assets/fonts/font-awesome/webfonts/fa-solid-900.woff2 11 441628 0 2
+/cashmemo-by-stats 10 2116785 0 0
+/assets/fonts/font-awesome/webfonts/fa-regular-400.woff2 9 110160 0 0
+/User 9 454340 0 1
+/sales-by-customers 9 426496 0 2
+/summary/6 8 402792 0 2
+/Category 7 385083 0 0
+/summary/12 7 351548 0 0
+/invoices-by-product/491 7 1431340 0 1
+/Invoice/504 7 153447 0 0
+/invoices-by-product/461/1/2023 6 1270356 0 0
+/Quotes 6 11184516 1 2
+/clear-cache 6 4728 0 0
+/invoice-payments/564 6 261113 0 1
+/summary/3 6 296553 1 0
+/invoices-by-product/1435/1/2023 1 211726 0 0
+/invoices-by-product/14/1/2023 2 444874 0 0
+/cashmemos-by-product/62/1/2023 3 626511 0 0
+/Supplier 1 48570 0 0
+/cashmemos-by-customer/1609/1/2023 1 208830 0 0
+/invoices-by-customer/1678/1/2023 1 214496 0 0
+/invoices-by-product/1513 2 434582 0 0
+/invoices-by-product/701/1/2023 2 434236 0 0
+/invoices-by-product/331 4 754093 0 0
+/expenses 5 193087 0 0
+/invoices-by-customer/1367 1 209177 0 0
+/Expenses 2 72926 0 0
+/invoices-by-product/1539 2 418208 0 0
+/SalesTaxInvoice/492 1 28558 0 0
+/Invoice/497 2 41754 0 0
+/_ignition/health-check 2 58 0 0
+/invoices-by-customer/1670/1/2023 1 211894 0 0
+/invoices-by-product/700/6/2023 2 439568 0 0
+/cashmemos-by-customer/1703/1/2023 1 208847 0 0
+/Invoice/499 2 49056 0 0
+/invoices-by-customer/1434 1 228559 0 0
+/Invoice/569 3 56841 0 0
+/invoices-by-category/12/3/2023 1 214550 0 0
+/Invoice/512 1 17158 0 0
+/Invoice/503 1 29722 0 0
+/invoices-by-product/199 1 209104 0 0
+/invoices-by-category/14/3/2023 4 863072 0 0
+/Branch/8/edit 1 15543 0 0
+/Invoice/492 4 104428 0 0
+/SalesTaxInvoice/325 2 53242 0 0
+/invoices-by-product/1435 3 630418 0 0
+/invoice-recieve-payment/563 5 220324 0 0
+/update-invoce-payment/6 1 44122 0 0
+/invoices-by-customer/1431 1 248432 0 0
+/User/9/edit 2 93103 0 0
+/invoices-by-product/62 4 732823 0 1
+/CashMemo/199 2 25006 0 1
+/invoices-by-customer/1609/1/2023 2 423452 0 0
+/invoices-by-product/494 2 418172 0 0
+/assets/fonts/font-awesome/webfonts/fa-solid-900.woff 2 101048 2 0
+/CashMemo 5 1520434 0 0
+/invoices-by-customer/1178/1/2023 2 450184 0 0
+/invoice-payments/567 1 42459 0 0
+/invoices-by-customer/1152/3/2023 1 211770 0 0
+/invoices-by-customer/1178/3/2023 1 262208 0 0
+/invoices-by-product/560/1/2023 4 858124 0 0
+/Invoice/create 1 243081 0 0
+/invoice-recieve-payment/567 2 86234 0 0
+/User/20/edit 2 90426 0 0
+/invoices-by-product/700 1 223086 0 0
+/invoices-by-category/9/3/2023 2 520178 0 0
+/Branch 2 90192 0 0
+/home 4 1314433 0 0
+/invoices-by-product/14 1 401716 0 0
+/Invoice/505 3 69867 0 0
+/CashMemo/197 3 44949 0 0
+/Products 5 6147202 0 1
+/CashMemo/191 1 18203 0 0
+/Invoice/495 3 69867 0 0
+/invoices-by-product/542/1/2023 4 847576 0 0
+/User/22/edit 1 45269 0 0
+/invoice-payments/569 3 127341 0 0
+/invoices-by-customer/1434/1/2023 1 211886 0 0
+/CashMemo/create 1 397398 0 0
+/Invoice/494 3 72483 0 1
+/invoices-by-product/562 1 209086 0 0
+/assets/fonts/font-awesome/webfonts/fa-regular-400.woff 2 29424 0 0
+/Invoice/564 1 18956 0 0
+/Invoice/325 1 24998 0 0
+/invoice-recieve-payment/561 1 43999 0 0
+/invoices-by-product/149 1 243290 0 0
+/cashmemos-by-customer/1735/1/2023 1 208837 0 0
+/Invoice/496 2 34306 0 0
+/Invoice/566 1 17165 0 0
+/Invoice/502 2 37926 0 0
+/Products/834/edit 3 144374 0 0
+/downloadInvoice/325 2 49710 0 0
+/Customer 2 544917 0 0
+/SalesTaxInvoice/414 2 92154 0 1
+/invoices-by-product/571/1/2023 4 847040 0 0
+/invoices-by-product/560 1 321872 0 0
+/cashmemos-by-category/4/3/2023 1 208837 0 1
+/invoices-by-customer/1678/3/2023 1 214496 0 0
+/Invoice/509 2 63658 0 0
+/invoices-by-product/162/6/2023 1 214599 0 0
+/invoices-by-product/504 2 418208 0 0
+/assets/plugin/tinymce/skins/lightgray/fonts/tinymce.woff 3 51612 0 0
+/invoices-by-customer/1489/3/2023 1 211760 0 0
+/Salary/create 1 42256 0 0
+/CashMemo/204 1 11598 0 0
+/invoices-by-product/800 4 826258 0 1
+/invoice-payments/565 1 42701 0 0
+/invoices-by-product/1539/1/2023 2 418208 0 0
+/invoices-by-customer/1489/1/2023 1 211760 0 0
+/invoices-by-product/157/1/2023 2 423788 0 0
+/Invoice/491 2 83218 0 0
+/invoices-by-product/646/1/2023 2 423788 0 0
+/User/create 2 100648 0 0
+/invoices-by-product/325 1 144000 1 0
+/Invoice/453 1 18982 0 0
+/pending-invoices 6 1908684 0 0
+/invoices-by-product/659 1 206382 0 0
+/invoices-by-product/700/1/2023 4 868472 0 0
+/invoices-by-product/364 1 203709 0 0
+/Invoice/498 1 17164 0 0
+/invoices-by-customer/1736/1/2023 1 211736 0 0
+/invoices-by-customer/1703/1/2023 1 209104 0 0
+/invoice-recieve-payment/565 1 43121 0 0
+/invoices-by-category/4/3/2023 1 259854 0 0
+END_SIDER

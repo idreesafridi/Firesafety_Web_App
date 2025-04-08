@@ -1,0 +1,197 @@
+# Webalizer V2.23-08 Incremental Data - 07/06/2023 05:41:45
+2023 7 6 5 41 45
+74 68 8 11 1 10 584185 63 21 0
+5 2 37 1 6
+11 7 136878 2 8 5
+43 43 157972 2 40 5
+3 3 55209 2 3 2
+4 4 55233 2 3 2
+5 5 73636 2 4 3
+8 6 105257 5 5 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 6609 0
+0 0 0 0
+1 0 6609 0
+13 13 202481 11
+3 3 36830 2
+6 6 92039 5
+1 1 18403 1
+2 2 18427 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 6609 1
+4 3 61818 4
+2 2 36806 2
+1 1 18403 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+37 37 65933 35
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 13218 0
+0
+0
+0
+68
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/api/UsersList
+0 3 0 4731 0 0
+/api/logout
+0 1 0 52 0 0
+/api/GetUserMsg
+0 6 0 17460 0 0
+/api/Login
+0 7 0 598 1 0
+/api/Notifications
+0 2 0 16788 0 0
+/avatar/avatar.png
+0 1 0 17340 0 0
+/avatar/1651213670.png
+0 1 0 3836 0 0
+/privacy-policy
+0 26 0 478478 18 11
+/api/LatestMessage
+0 8 0 392 0 1
+/robots.txt
+0 5 0 120 0 0
+/api/PresetMessages
+0 8 0 4736 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.139.196.219
+0 2 0 13218 0 0
+-
+crawl-66-249-75-160.googlebot.com
+0 3 3 36830 1 1688615474
+/privacy-policy
+crawl-66-249-75-161.googlebot.com
+0 1 1 18403 1 1688615763
+/privacy-policy
+rate-limited-proxy-74-125-218-64.google.com
+0 3 3 55209 3 1688392081
+/privacy-policy
+rate-limited-proxy-74-125-218-65.google.com
+0 3 3 55209 3 1688560196
+/privacy-policy
+crawl-66-249-73-104.googlebot.com
+0 1 1 18403 1 1688621869
+/privacy-policy
+cpcl47.hostingcare.net
+0 60 56 368510 11 1688542776
+/privacy-policy
+crawl-66-249-73-103.googlebot.com
+0 1 1 18403 1 1688622105
+/privacy-policy
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.139.196.219
+0 2 0 13218 0 0
+-
+crawl-66-249-75-160.googlebot.com
+0 3 3 36830 1 1688615474
+/privacy-policy
+crawl-66-249-75-161.googlebot.com
+0 1 1 18403 1 1688615763
+/privacy-policy
+crawl-66-249-73-104.googlebot.com
+0 1 1 18403 1 1688621869
+/privacy-policy
+crawl-66-249-73-103.googlebot.com
+0 1 1 18403 1 1688622105
+/privacy-policy
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 74
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 23
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1
+Mozilla
+0 1
+Dalvik/2.1.0 (Linux; U; Android 11; SM-R890 Build/RWS3.220419.001)
+0 2
+okhttp/4.7.2
+0 35
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 2
+PlayStore-Google
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

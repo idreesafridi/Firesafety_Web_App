@@ -1,0 +1,349 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.sparetrac.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2037                
+POS_TIME 2710                
+POS_VISITOR 7641                
+POS_DAY 8489                
+POS_DOMAIN 3387                
+POS_LOGIN 3646                
+POS_ROBOT 3801                
+POS_WORMS 3933                
+POS_EMAILSENDER 4064                
+POS_EMAILRECEIVER 4207                
+POS_SESSION 8827                
+POS_SIDER 9014                
+POS_FILETYPES 4342                
+POS_DOWNLOADS 4619                
+POS_OS 4700                
+POS_BROWSER 4805                
+POS_SCREENSIZE 4992                
+POS_UNKNOWNREFERER 5066                
+POS_UNKNOWNREFERERBROWSER 5153                
+POS_ORIGIN 5235                
+POS_SEREFERRALS 5372                
+POS_PAGEREFS 5535                
+POS_SEARCHWORDS 5683                
+POS_KEYWORDS 5835                
+POS_MISC 2373                
+POS_ERRORS 5894                
+POS_CLUSTER 3502                
+POS_SIDER_404 6051                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501032526 1 0 10955105315980
+FirstTime 20230419132105
+LastTime 20230430073815
+LastUpdate 20230501083645 1 0 0 0 0
+TotalVisits 26                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 12 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 1 1 7061 1 1 418
+2 0 0 0 1 1 434
+3 0 1 0 2 2 7027
+4 0 0 0 1 1 418
+5 8 114 10559983 9 13 47915
+6 31 244 26535372 25 35 149320
+7 27 54 6675551 21 30 141697
+8 10 75 10781452 23 34 214057
+9 15 63 11847231 14 20 94570
+10 14 124 12681517 9 25 4490018
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 14 121 11151333 13 19 93748
+14 0 0 0 0 0 0
+15 8 140 20420646 17 28 140781
+16 46 141 35029418 47 66 324176
+17 15 28 2635222 14 30 166775
+18 59 472 41097870 52 80 351572
+19 9 14 1878007 16 23 95958
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+in 252 1587 191265086
+us 3 3 21319
+ru 2 2 14258
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+jpeg 5 54188 0 0
+Unknown 229 39744810 0 0
+jpg 122 13437656 0 0
+css 245 9331030 0 0
+woff2 14 1305640 0 0
+pdf 2 202734 0 0
+webp 4 98608 0 0
+png 646 74372053 0 0
+avif 14 59338 0 0
+js 307 52691226 0 0
+svg 4 3380 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/files/1682204646.pdf 1 0 202734
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+linux 14 8
+android 635 92
+win10 943 157
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome112.0.0.0 1428 226
+chrome109.0.0.0 131 24
+chrome103.0.5060.114 1 1
+chrome94.0.4606.61 3 3
+chrome111.0.0.0 28 2
+chrome110.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 2 2
+From3 0 0
+From4 230 1565
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+419 2 13218
+404 243 1604529
+500 27 178443
+206 14 4482340
+302 90 38704
+405 2 1650
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/Public/home/js/check.js 1 -
+/factory/assets/fonts/poppins/Poppins-Medium.ttf 36 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/customer/assets/images/Vector.png 1 https://sparetrac.thetechnologies.net/customer/dashboard
+/factory/assets/fonts/poppins/Poppins-Regular.ttf 36 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/static/admin/javascript/hetong.js 1 -
+/image/1672949170.jpg 5 https://sparetrac.thetechnologies.net/customer/dashboard
+/customer/images/icon-park-outline_order.png 3 https://sparetrac.thetechnologies.net/customer/history
+/factory/assets/fonts/poppins/Poppins-Bold.ttf 36 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/customer/images/ep_arrow-down.png 12 https://sparetrac.thetechnologies.net/customer/bankinfo
+/factory/fonts/font-awesome-4.7.0/css/font-awesome.min.css 36 https://sparetrac.thetechnologies.net/login
+/factory/js/main.js 36 https://sparetrac.thetechnologies.net/login
+/customer/images/mini/Cross.png 3 https://sparetrac.thetechnologies.net/customer/feedback
+/factory/assets/fonts/montserrat/Montserrat-Bold.ttf 36 https://sparetrac.thetechnologies.net/factory/assets/css/main.css
+/customer/product/images/ep_arrow-down.png 1 https://sparetrac.thetechnologies.net/customer/product/51
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+106.215.89.57 63 403 40193283 20230424063349
+103.57.87.48 50 362 33622105 20230426180926
+103.57.87.238 29 174 22840655 20230428173838
+106.198.213.240 24 72 18209532 20230419170238
+103.57.87.220 22 139 16663663 20230430073815
+106.223.22.0 15 63 11847231 20230422094458
+106.223.0.41 14 121 11151333 20230419133004
+106.198.149.216 12 54 13281376 20230419170139
+122.177.108.237 10 31 4482260 20230427101548
+122.180.185.25 7 46 9032945 20230429080643
+223.225.66.68 4 93 8199257 20230427101311
+176.53.218.73 1 1 7129 20230429185525
+45.90.61.69 1 1 7129 20230427184515
+136.144.19.228 1 1 7061 20230423012415
+47.88.94.161 1 1 7129 20230427184101
+49.44.81.5 1 14 870723 20230429080647
+49.44.83.7 1 14 870723 20230429080621
+89.104.101.200 1 1 7129 20230428185452
+106.198.149.24 0 1 0 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20230419 50 247 42642241 3
+20230420 24 132 15989239 2
+20230421 23 44 3090867 1
+20230422 60 415 41783573 3
+20230423 1 1 7061 1
+20230424 12 123 14306917 2
+20230426 9 115 10492023 1
+20230427 38 290 34002584 5
+20230428 8 11 1540975 2
+20230429 28 204 23860499 5
+20230430 4 10 3584684 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 8
+30mn-1h 2
+30s-2mn 5
+2mn-5mn 5
+5mn-15mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/login 42 297068 24 17
+/admin/admin_orders 21 21334007 0 3
+/admin/dashboard 19 1969445 1 1
+/admin/contactlist 17 3147244 0 0
+/admin/usermanagement 14 1415204 1 1
+/avatar/1680000163.avif 12 56736 0 1
+/factory/assets/fonts/boxicons.woff2 11 1025860 0 0
+/admin/admin_orders/create 10 1087660 0 0
+/admin/getBuyerData 10 1921 0 0
+/admin/rawmaterial 9 993366 0 0
+/admin/priceRequests 8 761158 0 0
+/admin/contactlist/create 8 973488 0 0
+/admin/product_list/create 7 969514 0 0
+/admin/usermanagement/1 5 434635 0 0
+/admin/filter-status-orders 5 729870 0 0
+/customer/cookie 3 3 0 0
+/customers/assets/fonts/boxicons.woff2 3 279780 0 0
+/admin/category 3 313806 0 0
+/admin/admin_orders/85 3 245577 0 0
+/customer/dashboard 3 475032 0 0
+/customer/pricerequest 3 382798 0 0
+/admin/role 2 210580 0 0
+/admin/imagesSearch 2 188470 0 0
+/admin/images 2 188434 0 0
+/admin/equipmenttype 2 199022 0 0
+/admin/admin_orders/84 1 90884 0 0
+/admin/subcategory 1 106569 0 0
+/admin/equipmenttype/10/edit 1 89111 0 0
+/customer/history 1 136794 0 0
+/customer/product/51 1 152624 0 0
+/admin/subcategory/23/edit 1 90542 0 0
+/admin/contactlist/74/edit 1 123301 0 0
+/customer/order 1 199846 0 1
+/admin/role/16/edit 1 88735 0 0
+/customer/bankinfo 1 122488 0 0
+/admin/role/18/edit 1 88724 0 0
+/customer/feedback 1 128697 0 1
+/admin/details/86 1 78873 0 0
+/admin/getRMData 1 693 0 0
+/admin/profile 2 165050 0 1
+/admin/admin_orders/82 1 86366 0 0
+/admin/details/85 1 85464 0 0
+/customer/filter 2 523796 0 0
+/admin/details/83 2 177786 0 0
+/admin/category/10/edit 1 88838 0 0
+/customer/cart 1 136693 0 0
+/admin/equipmentmake 2 226120 0 0
+/admin/usermanagement/create 2 248276 0 0
+/admin/equipmentmake/50/edit 1 89108 0 0
+/admin/getProductData 1 1205 0 0
+/equipment/1672926332.avif 2 2602 0 0
+/admin/admin_orders/62 1 99925 0 0
+END_SIDER

@@ -1,0 +1,300 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.msg.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2708                
+POS_VISITOR 6560                
+POS_DAY 7097                
+POS_DOMAIN 3432                
+POS_LOGIN 3688                
+POS_ROBOT 3843                
+POS_WORMS 4046                
+POS_EMAILSENDER 4177                
+POS_EMAILRECEIVER 4320                
+POS_SESSION 7384                
+POS_SIDER 7559                
+POS_FILETYPES 4455                
+POS_DOWNLOADS 4659                
+POS_OS 4707                
+POS_BROWSER 4828                
+POS_SCREENSIZE 4993                
+POS_UNKNOWNREFERER 5067                
+POS_UNKNOWNREFERERBROWSER 5214                
+POS_ORIGIN 5356                
+POS_SEREFERRALS 5494                
+POS_PAGEREFS 5638                
+POS_SEARCHWORDS 5786                
+POS_KEYWORDS 5938                
+POS_MISC 2372                
+POS_ERRORS 5997                
+POS_CLUSTER 3544                
+POS_SIDER_404 6131                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501040252 104 19283 9762340377333
+FirstTime 20230419094413
+LastTime 20230430111027
+LastUpdate 20230501083641 104 0 103 0 0
+TotalVisits 16                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 124 125 10329
+1 0 0 0 122 122 3660
+2 0 0 0 120 120 3600
+3 0 0 0 128 129 150848
+4 0 0 0 138 145 299658
+5 0 0 0 125 125 41848
+6 1 1 0 129 129 3600
+7 1 1 46 120 120 3600
+8 2 17 422081 121 121 10215
+9 2 2 36806 120 120 3600
+10 0 0 0 126 126 43290
+11 2 2 36806 124 124 30060
+12 2 2 36806 187 187 12195
+13 482 538 1396839 287 288 231931
+14 323 323 644650 180 182 365795
+15 15 15 165 148 148 188820
+16 0 0 0 133 133 30330
+17 0 0 0 169 169 5070
+18 0 0 0 136 136 4080
+19 0 0 0 103 103 3090
+20 0 0 0 120 120 3600
+21 3 20 890781 169 169 57750
+22 3 3 18495 273 276 133377
+23 1 15 419986 162 164 31248
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 831 918 3481196
+cn 5 5 230
+in 1 16 422035
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Googlebot/ 32 441864 20230430034844 8
+Dalvik/ 2 21176 20230429144655 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+Unknown 832 2207511 0 0
+js 28 299388 0 0
+woff2 3 93260 0 0
+wav 1 0 0 0
+jpg 2 151884 0 0
+png 17 12722 0 0
+html 2 7483 0 0
+css 54 1131213 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+android10 16 1
+Unknown 367 367
+linux 19 2
+win10 537 467
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome112.0.0.0 537 466
+chrome83.0.4103.116 15 1
+chrome74.0.3729.169 1 1
+Unknown 367 367
+chrome112.0.5615.121 19 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+okhttp/4.7.2 20230429144938
+PlayStore-Google 20230430111027
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+PlayStore-Google 20230430111027
+okhttp/4.7.2 20230429144938
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 372 372
+From1 0 0
+From2 0 0
+From3 0 0
+From4 465 567
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 161 1058400
+302 25 10150
+404 15 39654
+401 3345 100350
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 11
+/bk 1 -
+/backup 1 -
+/wordpress 1 -
+/bc 1 -
+/main 1 -
+/home 1 -
+/app-ads.txt 4 -
+/old 1 -
+/wp 1 -
+/new 1 -
+/ads.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+73.8.102.160 819 875 2023251 20230429151420
+74.125.151.86 4 4 73612 20230430111027
+74.125.151.90 2 2 36806 20230430095429
+65.154.226.168 2 19 890735 20230423211453
+211.97.128.235 2 2 92 20230427220136
+74.125.151.94 2 2 36806 20230423120814
+3.86.41.92 1 15 419986 20230422230019
+69.167.12.25 1 1 0 20230421062842
+103.188.218.196 1 16 422035 20230425082816
+1.189.165.251 1 1 46 20230422085614
+112.47.188.145 1 1 46 20230428073813
+111.167.41.34 1 1 46 20230424214834
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20230419 1 1 18403 1
+20230420 2 2 36806 2
+20230421 1 1 0 1
+20230422 2 16 420032 2
+20230423 5 22 945944 3
+20230424 1 1 46 1
+20230425 1 16 422035 1
+20230427 2 2 92 1
+20230428 1 1 46 1
+20230429 819 875 2023251 1
+20230430 2 2 36806 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+15mn-30mn 1
+30s-2mn 1
+1h+ 1
+0s-30s 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/getUpdatesAjax 437 11151 0 1
+/api/GetUserMsg 147 468631 0 0
+/api/LatestMessage 97 28074 1 0
+/api/MarkNotificationRead 30 2220 0 0
+/api/SendUserMsg 26 86867 0 0
+/api/PresetMessages 26 15392 0 0
+/dashboard 25 1335410 0 0
+/api/UsersList 21 33285 0 0
+/privacy-policy 10 184030 9 9
+/api/Login 6 406 4 4
+/api/Notifications 4 34495 0 0
+/public/assets/fonts/boxicons.woff2 3 93260 0 1
+/api/SendMessages 2 118 0 0
+/ 2 7483 2 1
+/login 1 7432 0 0
+END_SIDER

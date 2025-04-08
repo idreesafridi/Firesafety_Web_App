@@ -1,0 +1,292 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.account.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2035                
+POS_TIME 2706                
+POS_VISITOR 7595                
+POS_DAY 8046                
+POS_DOMAIN 3237                
+POS_LOGIN 3502                
+POS_ROBOT 3657                
+POS_WORMS 3789                
+POS_EMAILSENDER 3920                
+POS_EMAILRECEIVER 4063                
+POS_SESSION 8226                
+POS_SIDER 8415                
+POS_FILETYPES 4198                
+POS_DOWNLOADS 4379                
+POS_OS 4427                
+POS_BROWSER 4527                
+POS_SCREENSIZE 4699                
+POS_UNKNOWNREFERER 4773                
+POS_UNKNOWNREFERERBROWSER 4895                
+POS_ORIGIN 5012                
+POS_SEREFERRALS 5147                
+POS_PAGEREFS 5310                
+POS_SEARCHWORDS 5458                
+POS_KEYWORDS 5610                
+POS_MISC 2370                
+POS_ERRORS 5669                
+POS_CLUSTER 3358                
+POS_SIDER_404 5780                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230509140845 1 0 6829340121228
+FirstTime 20230420200944
+LastTime 20230430181840
+LastUpdate 20230510084707 1 0 0 0 0
+TotalVisits 11                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 122 8030248 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 1 1 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 1 1 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 24 155 18825588 4 203 1163131
+15 5 30 5591012 0 33 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 9 63 8705269 0 110 0
+19 0 0 0 0 0 0
+20 1 21 876020 0 0 0
+21 0 0 0 1 1 0
+22 0 0 0 1 1 0
+23 1 1 46983 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+mx 26 215 22320387
+pk 19 134 13636416
+us 7 43 6118317
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 114 3233145 0 0
+jpg 7 1009995 0 0
+png 95 12756620 0 0
+woff2 9 839340 0 0
+js 124 22845994 0 0
+html 43 1390026 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+linux 1 0
+win10 390 51
+Unknown 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome109.0.0.0 35 2
+Unknown 1 1
+chrome63.0.3239.108 1 0
+chrome112.0.0.0 265 44
+chrome106.0.0.0 20 1
+chrome111.0.0.0 70 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.2314.5_W 20230426150210
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.2314.5_W 20230426150210
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16 17
+From1 0 0
+From2 3 3
+From3 0 0
+From4 33 372
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 12 1162864
+301 1 267
+404 336 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+/frontend/dressel/diver/assets/images/avatars/avatar-5.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-10.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-9.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-1.png 31 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-8.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/ 1 -
+/frontend/dressel/diver/assets/images/avatars/avatar-7.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/ 4 -
+/frontend/dressel/diver/assets/images/avatars/avatar-2.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-6.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-4.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-11.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+/frontend/dressel/diver/assets/images/avatars/avatar-3.png 30 https://account.thetechnologies.net/frontend/dressel/diver/newtrip.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+39.45.45.7 17 99 10492376 20230424145813
+189.174.188.196 10 74 4861409 20230421002115
+189.174.184.232 8 42 7826178 20230430181840
+38.65.158.234 6 22 5239226 20230426150210
+187.184.24.176 4 29 5540958 20230424154525
+189.198.158.5 2 35 991961 20230421002100
+189.199.71.6 2 35 3099881 20230421001806
+58.27.225.7 2 35 3144040 20230424143425
+54.160.165.226 1 21 879091 20230430181611
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20230420 2 22 923003 2
+20230421 12 122 8030248 3
+20230424 23 163 19177374 3
+20230426 6 22 5239226 1
+20230430 9 63 8705269 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 2
+2mn-5mn 1
+5mn-15mn 1
+0s-30s 5
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/frontend/dressel/diver/login.html 7 344236 6 4
+/frontend/dressel/admin/assets/fonts/boxicons.woff2 5 466300 0 3
+/frontend/dressel/diver/allschedule.html 4 72858 0 0
+/frontend/dressel/diver/ 4 83984 1 0
+/frontend/dressel/diver/assets/fonts/boxicons.woff2 4 373040 0 0
+/frontend/dressel/admin/attended.html 3 213405 1 1
+/frontend/dressel/diver/newtrip.html 3 91782 0 2
+/frontend/dressel/admin/guide.html 3 71913 1 0
+/frontend/dressel/admin/confirmedschedule.html 3 80928 1 0
+/frontend/dressel/admin/alldivers.html 2 56596 1 0
+/frontend/dressel/admin/ 2 52302 0 0
+/frontend/dressel/admin/client-information.html 2 43391 0 0
+/frontend/dressel/admin/createplanningtime.html 2 50816 0 0
+/frontend/dressel/admin/allschedule.html 2 71108 0 0
+/frontend/dressel/diver/schedule.html 2 49444 0 0
+/frontend/dressel/admin/overview.html 1 35594 0 0
+/frontend/dressel/diver/certification.html 1 24355 0 0
+/frontend/dressel/diver/driveinfo.html 1 24469 0 1
+/frontend/dressel/diver/diver.html 1 22845 0 0
+END_SIDER

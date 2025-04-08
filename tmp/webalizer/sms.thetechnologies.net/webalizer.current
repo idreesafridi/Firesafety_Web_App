@@ -1,0 +1,204 @@
+# Webalizer V2.23-08 Incremental Data - 07/05/2023 14:09:18
+2023 7 5 14 9 18
+87 45 2 24 9 6 867896 26 4 0
+2 1 36 2 5
+0 0 0 0 0 0
+11 1 0 1 11 1
+21 20 453083 1 1 1
+36 18 401735 1 0 0
+19 6 13078 2 14 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 5 389 0
+0 0 0 0
+56 38 854430 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+24 2 12301 24
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 388 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 388 1
+0 0 0 0
+0
+0
+0
+45
+0
+0
+0
+0
+0
+0
+0
+6
+4
+0
+18
+0
+0
+0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/public/uploads/library.png
+0 3 0 30586 0 0
+/public/uploads/student.png
+0 3 0 64892 0 0
+/public/uploads/parent.png
+0 1 0 28009 0 0
+/public/uploads/profile.png
+0 3 0 59388 0 0
+/public/uploads/transaction.png
+0 3 0 14222 0 0
+/public/uploads/marks.png
+0 3 0 49420 0 0
+/public/uploads/teacher.png
+0 3 0 43946 0 0
+/public/uploads/dashboard.png
+0 3 0 32320 0 0
+/public/uploads/front-office.png
+0 3 0 25014 0 0
+/public/uploads/examination.png
+0 3 0 52088 0 0
+/public/uploads/bank.png
+0 3 0 29698 0 0
+/.well-known/acme-challenge/fJS7MeIeAAPfE3YkpmrGU-wehiJvksq6G8xkqqtWYfI
+0 3 0 261 0 0
+/public/uploads/academic.png
+0 3 0 16574 0 0
+/public/uploads/reports.png
+0 3 0 37782 0 0
+/login
+0 2 0 3079 0 0
+/public/uploads/events.png
+0 3 0 10580 0 0
+/public/uploads/parents.png
+0 3 0 47072 0 0
+/public/uploads/attendance.png
+0 3 0 46704 0 0
+/public/uploads/admin.png
+0 1 0 22951 0 0
+/public/uploads/administration.png
+0 3 0 115034 0 0
+/public/uploads/newspaper.png
+0 3 109 48648 0 0
+/.well-known/acme-challenge/7PFUJ-0RKVLN_41YRQ2-9DI_XQC3HSEY
+0 1 3616727145452483117 64 0 0
+/public/uploads/student-fee.png
+0 3 28015 79502 0 0
+/.well-known/acme-challenge/F0LYA477C2OVNLVFO4N9BE5ROE5_MIJ1
+0 1 7242295994815427630 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.166.232.158
+0 1 0 388 1 1688566158
+-
+cpcl47.hostingcare.net
+0 86 45 867508 3 1688540343
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.166.232.158
+0 1 0 388 1 1688566158
+-
+cpcl47.hostingcare.net
+0 18 6 12690 1 1688540343
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.sms.thetechnologies.net/new/
+0 1
+http://www.sms.thetechnologies.net/
+0 1
+http://sms.thetechnologies.net/
+0 1
+- (Direct Request)
+0 24
+http://p.phonicsacademia.edu.pk/
+0 56
+http://www.sms.thetechnologies.net/old/
+0 1
+http://www.sms.thetechnologies.net/wordpress/
+0 1
+http://www.sms.thetechnologies.net/wp/
+0 1
+http://www.sms.thetechnologies.net/blog/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 14
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 3
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 56
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

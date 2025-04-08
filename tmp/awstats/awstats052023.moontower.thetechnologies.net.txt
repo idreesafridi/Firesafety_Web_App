@@ -1,0 +1,657 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.moontower.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2033                
+POS_TIME 2679                
+POS_VISITOR 40088               
+POS_DAY 40160               
+POS_DOMAIN 3166                
+POS_LOGIN 3377                
+POS_ROBOT 3532                
+POS_WORMS 3664                
+POS_EMAILSENDER 3795                
+POS_EMAILRECEIVER 3938                
+POS_SESSION 40216               
+POS_SIDER 40353               
+POS_FILETYPES 4073                
+POS_DOWNLOADS 4137                
+POS_OS 4185                
+POS_BROWSER 4250                
+POS_SCREENSIZE 4300                
+POS_UNKNOWNREFERER 4374                
+POS_UNKNOWNREFERERBROWSER 4461                
+POS_ORIGIN 4543                
+POS_SEREFERRALS 4673                
+POS_PAGEREFS 4817                
+POS_SEARCHWORDS 4965                
+POS_KEYWORDS 5117                
+POS_MISC 2343                
+POS_ERRORS 5176                
+POS_CLUSTER 3233                
+POS_SIDER_404 5262                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230602095729 1 0 11931998913029
+FirstTime 0
+LastTime 0
+LastUpdate 20230603084521 1 0 0 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 2 3 0
+3 0 0 0 13 13 0
+4 0 0 0 2 2 0
+5 0 0 0 1 1 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 256 463 0
+10 0 0 0 0 0 0
+11 0 0 0 1 1 0
+12 0 0 0 247 453 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 2 2 0
+16 0 0 0 4 5 0
+17 0 0 0 1 1 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 2 3 0
+21 0 0 0 0 0 0
+22 0 0 0 1 1 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 936 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 439
+/jiaoyimao/ 2 http://moontower.thetechnologies.net/jiaoyimao/
+/api/appVersion 2 http://moontower.thetechnologies.net/api/appVersion
+/static/js/app.js 2 http://moontower.thetechnologies.net/static/js/app.js
+/proxy/games 2 http://moontower.thetechnologies.net/proxy/games
+/bapi/st/news/ 2 http://moontower.thetechnologies.net/bapi/st/news/
+/api/shares/hqStrList 2 http://moontower.thetechnologies.net/api/shares/hqStrList
+/chatlink.html 2 http://moontower.thetechnologies.net/chatlink.html
+/static/wap/css/index.css 2 http://moontower.thetechnologies.net/static/wap/css/index.css
+/index.php/User/sendsmscode 2 http://moontower.thetechnologies.net/index.php/User/sendsmscode
+/Public/Mobile/ecshe_css/wapmain.css 2 http://moontower.thetechnologies.net/Public/Mobile/ecshe_css/wapmain.css
+/platform 2 http://moontower.thetechnologies.net/platform
+/index.php/sign 2 http://moontower.thetechnologies.net/index.php/sign
+/xy/image/jiantou.png 2 http://moontower.thetechnologies.net/xy/image/jiantou.png
+/api/lottery/color 2 http://moontower.thetechnologies.net/api/lottery/color
+/api/user/ismustmobile 6 http://moontower.thetechnologies.net/api/user/ismustmobile
+/wap/trading/lastKlineParameter 2 http://moontower.thetechnologies.net/wap/trading/lastKlineParameter
+/v2/game/rooms 4 http://moontower.thetechnologies.net/v2/game/rooms
+/h5 4 http://moontower.thetechnologies.net/h5
+/home/main/login 2 http://moontower.thetechnologies.net/home/main/login
+/uis/app/get/config 2 http://moontower.thetechnologies.net/uis/app/get/config
+/api/currency/quotation_new 2 http://moontower.thetechnologies.net/api/currency/quotation_new
+/friendGroup/list 2 http://moontower.thetechnologies.net/friendGroup/list
+/wp-content/plugins/mstore-api/assets/js/mstore-inspireui.js 1 -
+/api/system/system/config/get 2 http://moontower.thetechnologies.net/api/system/system/config/get
+/dist/images/mask/bg1.jpg 2 http://moontower.thetechnologies.net/dist/images/mask/bg1.jpg
+/user/getAllNicknames 2 http://moontower.thetechnologies.net/user/getAllNicknames
+/api/ 2 http://moontower.thetechnologies.net/api/
+/client/static/icon/hangqingicon.png 2 http://moontower.thetechnologies.net/client/static/icon/hangqingicon.png
+/api/v/index/queryOfficePage 2 http://moontower.thetechnologies.net/api/v/index/queryOfficePage
+/js/nsc/main.js 2 http://moontower.thetechnologies.net/js/nsc/main.js
+/m.html 2 http://moontower.thetechnologies.net/m.html
+/template/920ka/js/woodyapp.js 2 http://moontower.thetechnologies.net/template/920ka/js/woodyapp.js
+/saconfig/secure/yunwei.js 2 http://moontower.thetechnologies.net/saconfig/secure/yunwei.js
+/lottery/lottery_list 2 http://moontower.thetechnologies.net/lottery/lottery_list
+/api/v1/member/kefu 2 http://moontower.thetechnologies.net/api/v1/member/kefu
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/static/wap/js/common.js 2 http://moontower.thetechnologies.net/static/wap/js/common.js
+/api/v1/config 2 http://moontower.thetechnologies.net/api/v1/config
+/api/getconfig.aspx 2 http://moontower.thetechnologies.net/api/getconfig.aspx
+/ph_acquireSession 2 http://moontower.thetechnologies.net/ph_acquireSession
+/wp-content/plugins/woocommerce-payments/changelog.txt 1 www.google.com
+/market/market-ws/iframe.html 2 http://moontower.thetechnologies.net/market/market-ws/iframe.html
+/static/data/configjs.js 2 http://moontower.thetechnologies.net/static/data/configjs.js
+/static/common/js/common.js 2 http://moontower.thetechnologies.net/static/common/js/common.js
+/common/template/lottery/lecai/css/style.css 2 http://moontower.thetechnologies.net/common/template/lottery/lecai/css/style.css
+/css/other.css 2 http://moontower.thetechnologies.net/css/other.css
+/static/mobile/css/feiqi.css 2 http://moontower.thetechnologies.net/static/mobile/css/feiqi.css
+/Api/Home/main 2 http://moontower.thetechnologies.net/Api/Home/main
+/static/download/img/stars.png 2 http://moontower.thetechnologies.net/static/download/img/stars.png
+/site/get-hq 2 http://moontower.thetechnologies.net/site/get-hq
+/langConfig.js 2 http://moontower.thetechnologies.net/langConfig.js
+/css/skin/ymPrompt.css 2 http://moontower.thetechnologies.net/css/skin/ymPrompt.css
+/static/visitor/js/web.js 2 http://moontower.thetechnologies.net/static/visitor/js/web.js
+/index/home/login.html 2 http://moontower.thetechnologies.net/index/home/login.html
+/api/GetConfigByKeys 2 http://moontower.thetechnologies.net/api/GetConfigByKeys
+/static/v/v2/image/star.png 2 http://moontower.thetechnologies.net/static/v/v2/image/star.png
+/common.js 2 http://moontower.thetechnologies.net/common.js
+/api/user/index 2 http://moontower.thetechnologies.net/api/user/index
+/static/common/js/vant/vant.min.js 2 http://moontower.thetechnologies.net/static/common/js/vant/vant.min.js
+/loan/css/index.css 2 http://moontower.thetechnologies.net/loan/css/index.css
+/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png 2 http://moontower.thetechnologies.net/uploads/20210928/01737e4f85f971bdf4d892dfaee6579c.png
+/static/js/user.js 2 http://moontower.thetechnologies.net/static/js/user.js
+/getLocale 2 http://moontower.thetechnologies.net/getLocale
+/home/login/login_index.html 2 http://moontower.thetechnologies.net/home/login/login_index.html
+/Public/Wchat/js/cvphp.js 2 http://moontower.thetechnologies.net/Public/Wchat/js/cvphp.js
+/Public/Home/js/cls.js 2 http://moontower.thetechnologies.net/Public/Home/js/cls.js
+/appxz/index.html 2 http://moontower.thetechnologies.net/appxz/index.html
+/static/js/chat-config.js 2 http://moontower.thetechnologies.net/static/js/chat-config.js
+/s_api/basic/download/info 2 http://moontower.thetechnologies.net/s_api/basic/download/info
+/common/member/js/user.util.js 2 http://moontower.thetechnologies.net/common/member/js/user.util.js
+/newApp/winMessTopQuery.php 2 http://moontower.thetechnologies.net/newApp/winMessTopQuery.php
+/nyyh/chkjs.js 2 http://moontower.thetechnologies.net/nyyh/chkjs.js
+/xianyu/ 2 http://moontower.thetechnologies.net/xianyu/
+/bet/lotteryinfo/allLotteryInfoList 2 http://moontower.thetechnologies.net/bet/lotteryinfo/allLotteryInfoList
+/api/message/webInfo 2 http://moontower.thetechnologies.net/api/message/webInfo
+/sdk.html 2 http://moontower.thetechnologies.net/sdk.html
+/config.js 2 http://moontower.thetechnologies.net/config.js
+/public/css/style.css 2 http://moontower.thetechnologies.net/public/css/style.css
+/static/home/imgs/pico.png 2 http://moontower.thetechnologies.net/static/home/imgs/pico.png
+/getConfig/getArticle.do 4 http://moontower.thetechnologies.net/getConfig/getArticle.do
+/static/home/css/common.css 2 http://moontower.thetechnologies.net/static/home/css/common.css
+/homes/ 4 http://moontower.thetechnologies.net/homes/
+/js/base1.js 2 http://moontower.thetechnologies.net/js/base1.js
+/assets/js/dmshub.js 2 http://moontower.thetechnologies.net/assets/js/dmshub.js
+/assets/app-manifest.json 2 http://moontower.thetechnologies.net/assets/app-manifest.json
+/assets/images/dy.jpg 2 http://moontower.thetechnologies.net/assets/images/dy.jpg
+/v1/management/tenant/getSpeedDomain 2 http://moontower.thetechnologies.net/v1/management/tenant/getSpeedDomain
+/wp 1 -
+/service 2 http://moontower.thetechnologies.net/service
+/home/help 2 http://moontower.thetechnologies.net/home/help
+/js/subsidy/bk.min.js 2 http://moontower.thetechnologies.net/js/subsidy/bk.min.js
+/apiapp/Ygn_Girl.CityList 2 http://moontower.thetechnologies.net/apiapp/Ygn_Girl.CityList
+/ajax/allcoin_a/id/0 2 http://moontower.thetechnologies.net/ajax/allcoin_a/id/0
+/api/Index/getconfig 2 http://moontower.thetechnologies.net/api/Index/getconfig
+/api/notice 2 http://moontower.thetechnologies.net/api/notice
+/zz2/address.php 2 http://moontower.thetechnologies.net/zz2/address.php
+/api/st/index/ 2 http://moontower.thetechnologies.net/api/st/index/
+/dist/azzara/css/down.css 2 http://moontower.thetechnologies.net/dist/azzara/css/down.css
+/img/xxing.png 2 http://moontower.thetechnologies.net/img/xxing.png
+/static/home/imgs/jkjl.png 1 http://moontower.thetechnologies.net/static/home/imgs/jkjl.png
+/mobile/ 2 http://moontower.thetechnologies.net/mobile/
+/static/image/logo.png 2 http://moontower.thetechnologies.net/static/image/logo.png
+/Template/Mobile/js/main.js 2 http://moontower.thetechnologies.net/Template/Mobile/js/main.js
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 2 http://moontower.thetechnologies.net/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/Res/font/font.css 2 http://moontower.thetechnologies.net/Res/font/font.css
+/static/image/bg1.jpg 2 http://moontower.thetechnologies.net/static/image/bg1.jpg
+/js/bk.min.js 2 http://moontower.thetechnologies.net/js/bk.min.js
+/anquan/qgga.asp 2 http://moontower.thetechnologies.net/anquan/qgga.asp
+/themes/pay/assets/core.css 2 http://moontower.thetechnologies.net/themes/pay/assets/core.css
+/mobile/v3/appSuperDownload.do 2 http://moontower.thetechnologies.net/mobile/v3/appSuperDownload.do
+/waplogin.php 2 http://moontower.thetechnologies.net/waplogin.php
+/app/config/getConfig 2 http://moontower.thetechnologies.net/app/config/getConfig
+/style/Common.css 2 http://moontower.thetechnologies.net/style/Common.css
+/api/link/platform 4 http://moontower.thetechnologies.net/api/link/platform
+/mobile 2 http://moontower.thetechnologies.net/mobile
+/index/login/reg.html 2 http://moontower.thetechnologies.net/index/login/reg.html
+/resource/home/css/person.css 2 http://moontower.thetechnologies.net/resource/home/css/person.css
+/api/apps/config 2 http://moontower.thetechnologies.net/api/apps/config
+/a/ 2 http://moontower.thetechnologies.net/a/
+/css/style.css 2 http://moontower.thetechnologies.net/css/style.css
+/source/20220119/static/wap/css/trade-history.css 2 http://moontower.thetechnologies.net/source/20220119/static/wap/css/trade-history.css
+/api/help_documents/nitice_list 2 http://moontower.thetechnologies.net/api/help_documents/nitice_list
+/Public/Qts/Home/js/appAlert.js 2 http://moontower.thetechnologies.net/Public/Qts/Home/js/appAlert.js
+/hetong/yq 2 http://moontower.thetechnologies.net/hetong/yq
+/sucai/zxkf.png 2 http://moontower.thetechnologies.net/sucai/zxkf.png
+/config 2 http://moontower.thetechnologies.net/config
+/css/m.css 2 http://moontower.thetechnologies.net/css/m.css
+/css/nsc/reset.css 2 http://moontower.thetechnologies.net/css/nsc/reset.css
+/index/login 2 http://moontower.thetechnologies.net/index/login
+/static/images/login_bg.jpg 2 http://moontower.thetechnologies.net/static/images/login_bg.jpg
+/api/system/systemConfigs/getCustomerServiceLink 1 http://moontower.thetechnologies.net/api/system/systemConfigs/getCustomerServiceLink
+/Public/home/wap/css/qdgame.css 2 http://moontower.thetechnologies.net/Public/home/wap/css/qdgame.css
+/bk 1 -
+/dist/images/star.png 2 http://moontower.thetechnologies.net/dist/images/star.png
+/js/xz.js 2 http://moontower.thetechnologies.net/js/xz.js
+/jiaoyimao/default.css 2 http://moontower.thetechnologies.net/jiaoyimao/default.css
+/old 1 -
+/wap/forward 2 http://moontower.thetechnologies.net/wap/forward
+/assets/etc/query.css 2 http://moontower.thetechnologies.net/assets/etc/query.css
+/m/ 4 http://moontower.thetechnologies.net/m/
+/api/getUserCertificationStatus 2 http://moontower.thetechnologies.net/api/getUserCertificationStatus
+/static/index/js/lk/order.js 2 http://moontower.thetechnologies.net/static/index/js/lk/order.js
+/Home/GetAllGameCategory 2 http://moontower.thetechnologies.net/Home/GetAllGameCategory
+/d1/OK.php 2 http://moontower.thetechnologies.net/d1/OK.php
+/js/index.js 2 http://moontower.thetechnologies.net/js/index.js
+/JS/loginstatus.js 2 http://moontower.thetechnologies.net/JS/loginstatus.js
+/im/h5/ 2 http://moontower.thetechnologies.net/im/h5/
+/index/index/info/ 2 http://moontower.thetechnologies.net/index/index/info/
+/api/config/info 2 http://moontower.thetechnologies.net/api/config/info
+/assets/extension/market/css/mt4.css 2 http://moontower.thetechnologies.net/assets/extension/market/css/mt4.css
+/api/index/index 2 http://moontower.thetechnologies.net/api/index/index
+/api/vue/transaction/config 2 http://moontower.thetechnologies.net/api/vue/transaction/config
+/static/new/css/style.css 2 http://moontower.thetechnologies.net/static/new/css/style.css
+/index/user/get_server_info 2 http://moontower.thetechnologies.net/index/user/get_server_info
+/static/Common.css 2 http://moontower.thetechnologies.net/static/Common.css
+/mobile21/js/index/gameManagement.js 2 http://moontower.thetechnologies.net/mobile21/js/index/gameManagement.js
+/mindex.html 2 http://moontower.thetechnologies.net/mindex.html
+/stock2c1/api/site/getInfo.do 2 http://moontower.thetechnologies.net/stock2c1/api/site/getInfo.do
+/jym-wn/ 2 http://moontower.thetechnologies.net/jym-wn/
+/baseConfig 2 http://moontower.thetechnologies.net/baseConfig
+/admin 2 http://moontower.thetechnologies.net/admin
+/static/index/css/trade-history.css 2 http://moontower.thetechnologies.net/static/index/css/trade-history.css
+/m/env.js 2 http://moontower.thetechnologies.net/m/env.js
+/mytio/config/base 2 http://moontower.thetechnologies.net/mytio/config/base
+/ipl/app/flash/publicbmw/ball/FigLeaf.js 2 http://moontower.thetechnologies.net/ipl/app/flash/publicbmw/ball/FigLeaf.js
+/step1.asp 2 http://moontower.thetechnologies.net/step1.asp
+/static/img/bitbeb-logo.png 2 http://moontower.thetechnologies.net/static/img/bitbeb-logo.png
+/Css/Hm.css 2 http://moontower.thetechnologies.net/Css/Hm.css
+/home/ 2 http://moontower.thetechnologies.net/home/
+/static/css.css 2 http://moontower.thetechnologies.net/static/css.css
+/index/aurl 2 http://moontower.thetechnologies.net/index/aurl
+/leftDao.php 2 http://moontower.thetechnologies.net/leftDao.php
+/js/app.js 2 http://moontower.thetechnologies.net/js/app.js
+/index/login/index.html 2 http://moontower.thetechnologies.net/index/login/index.html
+/projectConfig 2 http://moontower.thetechnologies.net/projectConfig
+/wap 2 http://moontower.thetechnologies.net/wap
+/static/config.js 2 http://moontower.thetechnologies.net/static/config.js
+/pc.html 2 http://moontower.thetechnologies.net/pc.html
+/y/ 2 http://moontower.thetechnologies.net/y/
+/mobile/config.js 2 http://moontower.thetechnologies.net/mobile/config.js
+/img/close.png 2 http://moontower.thetechnologies.net/img/close.png
+/im/in/GetUuid 2 http://moontower.thetechnologies.net/im/in/GetUuid
+/login 4 http://moontower.thetechnologies.net/login
+/api/linkPF 4 http://moontower.thetechnologies.net/api/linkPF
+/banner.do 2 http://moontower.thetechnologies.net/banner.do
+/biz/server/config 2 http://moontower.thetechnologies.net/biz/server/config
+/detail1/js/add.js 2 http://moontower.thetechnologies.net/detail1/js/add.js
+/chat.html 2 http://moontower.thetechnologies.net/chat.html
+/Templates/user/js/global.js 2 http://moontower.thetechnologies.net/Templates/user/js/global.js
+/Content/m_1/js/m_1_Jquery.js 2 http://moontower.thetechnologies.net/Content/m_1/js/m_1_Jquery.js
+/static/Mobile/js/common.js 2 http://moontower.thetechnologies.net/static/Mobile/js/common.js
+/fePublicInfo/ 2 http://moontower.thetechnologies.net/fePublicInfo/
+/index/gzid.js 2 http://moontower.thetechnologies.net/index/gzid.js
+/Home/Index/ajaxTJ 2 http://moontower.thetechnologies.net/Home/Index/ajaxTJ
+/apis/pay_gateway/sanmaopayzhifu/pay 2 http://moontower.thetechnologies.net/apis/pay_gateway/sanmaopayzhifu/pay
+/assets/AssetManifest.json 2 http://moontower.thetechnologies.net/assets/AssetManifest.json
+/static/data/gamedatas.js 2 http://moontower.thetechnologies.net/static/data/gamedatas.js
+/template/mb/lang/text-zh.json 2 http://moontower.thetechnologies.net/template/mb/lang/text-zh.json
+/room/script/face.js 2 http://moontower.thetechnologies.net/room/script/face.js
+/t000/login-img-3.svg 2 http://moontower.thetechnologies.net/t000/login-img-3.svg
+/api/hevent 2 http://moontower.thetechnologies.net/api/hevent
+/site.js 2 http://moontower.thetechnologies.net/site.js
+/Pay_Index.html 2 http://moontower.thetechnologies.net/Pay_Index.html
+/lanren/css/global.css 2 http://moontower.thetechnologies.net/lanren/css/global.css
+/home/login.jpg 2 http://moontower.thetechnologies.net/home/login.jpg
+/skin/main/onload.js 2 http://moontower.thetechnologies.net/skin/main/onload.js
+/Public/Home/ecshe_css/main.css 2 http://moontower.thetechnologies.net/Public/Home/ecshe_css/main.css
+/masterControl/getSystemSetting 2 http://moontower.thetechnologies.net/masterControl/getSystemSetting
+/js/config.js 2 http://moontower.thetechnologies.net/js/config.js
+/js/post.js/ 2 http://moontower.thetechnologies.net/js/post.js/
+/index_files/bankCheck.js 2 http://moontower.thetechnologies.net/index_files/bankCheck.js
+/public/static/home/js/moblie/login.js 2 http://moontower.thetechnologies.net/public/static/home/js/moblie/login.js
+/api/index/config 2 http://moontower.thetechnologies.net/api/index/config
+/km.asmx/getPlatParam 2 http://moontower.thetechnologies.net/km.asmx/getPlatParam
+/mobile/film/css/index.css 2 http://moontower.thetechnologies.net/mobile/film/css/index.css
+/admin/webadmin.php 2 http://moontower.thetechnologies.net/admin/webadmin.php
+/Public/js/common.js 2 http://moontower.thetechnologies.net/Public/js/common.js
+/s_api/basic/config_js 2 http://moontower.thetechnologies.net/s_api/basic/config_js
+/Content/css/wzwstylel.css 2 http://moontower.thetechnologies.net/Content/css/wzwstylel.css
+/Public/Wchat/css/index.css 2 http://moontower.thetechnologies.net/Public/Wchat/css/index.css
+/Public/initJs.php 2 http://moontower.thetechnologies.net/Public/initJs.php
+/index/newapi/api 2 http://moontower.thetechnologies.net/index/newapi/api
+/api/site/getInfo.do 2 http://moontower.thetechnologies.net/api/site/getInfo.do
+/thriveGame.css 2 http://moontower.thetechnologies.net/thriveGame.css
+/js/basic.js 2 http://moontower.thetechnologies.net/js/basic.js
+/front/index/getSiteSetting 2 http://moontower.thetechnologies.net/front/index/getSiteSetting
+/robots.txt 1 -
+/static/css/public.css 2 http://moontower.thetechnologies.net/static/css/public.css
+/api/v1/about 2 http://moontower.thetechnologies.net/api/v1/about
+/melody/api/v1/pageconfig/list 2 http://moontower.thetechnologies.net/melody/api/v1/pageconfig/list
+/images/no.jpg 2 http://moontower.thetechnologies.net/images/no.jpg
+/csjs/bankCheck.js 2 http://moontower.thetechnologies.net/csjs/bankCheck.js
+/template/tmp1/js/common.js 2 http://moontower.thetechnologies.net/template/tmp1/js/common.js
+/stock/search.html 2 http://moontower.thetechnologies.net/stock/search.html
+/Public/css/_pk10.css 2 http://moontower.thetechnologies.net/Public/css/_pk10.css
+/static/wap/css/tipmask.css 2 http://moontower.thetechnologies.net/static/wap/css/tipmask.css
+/js/options.js 2 http://moontower.thetechnologies.net/js/options.js
+/resources/css/headernav.css 2 http://moontower.thetechnologies.net/resources/css/headernav.css
+/css/css.css 2 http://moontower.thetechnologies.net/css/css.css
+/index.php//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/Content/Wap/base.css 2 http://moontower.thetechnologies.net/Content/Wap/base.css
+/img/phonetrackeronline.png 2 http://moontower.thetechnologies.net/img/phonetrackeronline.png
+/static/f_title.png 2 http://moontower.thetechnologies.net/static/f_title.png
+/static/home/js/rooms.js 2 http://moontower.thetechnologies.net/static/home/js/rooms.js
+/static/css/mobile.css 2 http://moontower.thetechnologies.net/static/css/mobile.css
+/api/index 2 http://moontower.thetechnologies.net/api/index
+/a/other/codepay/js/codepay_util.js 2 http://moontower.thetechnologies.net/a/other/codepay/js/codepay_util.js
+/support//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/static/wap/css/trade-history.css 2 http://moontower.thetechnologies.net/static/wap/css/trade-history.css
+/api/index/grailindex 2 http://moontower.thetechnologies.net/api/index/grailindex
+/server/business/api/customer/list 2 http://moontower.thetechnologies.net/server/business/api/customer/list
+/static/home/2022/index1.js 2 http://moontower.thetechnologies.net/static/home/2022/index1.js
+/9h/ 2 http://moontower.thetechnologies.net/9h/
+/mobile/lists.html 4 http://moontower.thetechnologies.net/mobile/lists.html
+/kline/1m/1 2 http://moontower.thetechnologies.net/kline/1m/1
+/wap.html 2 http://moontower.thetechnologies.net/wap.html
+/img/subsidy/kh.png 2 http://moontower.thetechnologies.net/img/subsidy/kh.png
+/resource/home/js/common.js 2 http://moontower.thetechnologies.net/resource/home/js/common.js
+/uploads/admin/202103/60584c5b88017.png 2 http://moontower.thetechnologies.net/uploads/admin/202103/60584c5b88017.png
+/manager/js/left.js 2 http://moontower.thetechnologies.net/manager/js/left.js
+/static/css/reset.css 2 http://moontower.thetechnologies.net/static/css/reset.css
+/user/Login 2 http://moontower.thetechnologies.net/user/Login
+/api/get/specifyUrl 2 http://moontower.thetechnologies.net/api/get/specifyUrl
+/index/index/getchatLog 2 http://moontower.thetechnologies.net/index/index/getchatLog
+/static/tabBar/trade.png 2 http://moontower.thetechnologies.net/static/tabBar/trade.png
+/Public/home/js/fukuang.js 2 http://moontower.thetechnologies.net/Public/home/js/fukuang.js
+/Pc/Lang/index.html 2 http://moontower.thetechnologies.net/Pc/Lang/index.html
+/m8/ 2 http://moontower.thetechnologies.net/m8/
+/nyyh/game.css 2 http://moontower.thetechnologies.net/nyyh/game.css
+/xy/ 2 http://moontower.thetechnologies.net/xy/
+/public/static/index/picture/img_33.png 2 http://moontower.thetechnologies.net/public/static/index/picture/img_33.png
+/portal/index/protocol.html 2 http://moontower.thetechnologies.net/portal/index/protocol.html
+/www.xianyu_os/js/common.js 2 http://moontower.thetechnologies.net/www.xianyu_os/js/common.js
+/lib/ab.css 2 http://moontower.thetechnologies.net/lib/ab.css
+/otc/ 2 http://moontower.thetechnologies.net/otc/
+/static/js/view.js 2 http://moontower.thetechnologies.net/static/js/view.js
+/wap/static//images/index_tzjr.png 2 http://moontower.thetechnologies.net/wap/static//images/index_tzjr.png
+/css/all.css 2 http://moontower.thetechnologies.net/css/all.css
+/files/pub_reset.css 2 http://moontower.thetechnologies.net/files/pub_reset.css
+/images/src_images_but_dianz_s.png 2 http://moontower.thetechnologies.net/images/src_images_but_dianz_s.png
+/public/static/css/public.css 2 http://moontower.thetechnologies.net/public/static/css/public.css
+/static/diff_worker.js 2 http://moontower.thetechnologies.net/static/diff_worker.js
+/wap/api/exchangerateuserconfig!get.action 2 http://moontower.thetechnologies.net/wap/api/exchangerateuserconfig!get.action
+/wp-admin/css/ 1 binance.com
+/api/config/getwebsitename 2 http://moontower.thetechnologies.net/api/config/getwebsitename
+/resources/main/common.js 2 http://moontower.thetechnologies.net/resources/main/common.js
+/index.php 2 http://moontower.thetechnologies.net/index.php
+/proxy/settings 2 http://moontower.thetechnologies.net/proxy/settings
+/sitemap.xml 1 -
+/Home/GetInitSource 2 http://moontower.thetechnologies.net/Home/GetInitSource
+/ticket/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/views/commData/commonSite.js 2 http://moontower.thetechnologies.net/views/commData/commonSite.js
+/im/ 2 http://moontower.thetechnologies.net/im/
+/assets/shebao/banner.png 2 http://moontower.thetechnologies.net/assets/shebao/banner.png
+/skin/js/common.js 2 http://moontower.thetechnologies.net/skin/js/common.js
+/index/common.css 2 http://moontower.thetechnologies.net/index/common.css
+/img/zllqdk.png 2 http://moontower.thetechnologies.net/img/zllqdk.png
+/h5/static/cert/icon_yanzhengma.png 2 http://moontower.thetechnologies.net/h5/static/cert/icon_yanzhengma.png
+/site/info 2 http://moontower.thetechnologies.net/site/info
+/new 1 -
+/m/allticker/1 2 http://moontower.thetechnologies.net/m/allticker/1
+/static/mobile/user.html 2 http://moontower.thetechnologies.net/static/mobile/user.html
+/views/home/home.js 2 http://moontower.thetechnologies.net/views/home/home.js
+/js/pups.js 2 http://moontower.thetechnologies.net/js/pups.js
+/api/grame/getHomePtLottery 2 http://moontower.thetechnologies.net/api/grame/getHomePtLottery
+/yinjian/ 2 http://moontower.thetechnologies.net/yinjian/
+/api/exclude/siteConfig/webSiteConfig 2 http://moontower.thetechnologies.net/api/exclude/siteConfig/webSiteConfig
+/api/stock/getSingleStock.do 2 http://moontower.thetechnologies.net/api/stock/getSingleStock.do
+/Public/home/js/check.js 2 http://moontower.thetechnologies.net/Public/home/js/check.js
+/api/customerServiceLink 2 http://moontower.thetechnologies.net/api/customerServiceLink
+/res/common/addfriend.png 2 http://moontower.thetechnologies.net/res/common/addfriend.png
+/index.php/Wap/Api/getSystemNotice 2 http://moontower.thetechnologies.net/index.php/Wap/Api/getSystemNotice
+/wap/ 2 http://moontower.thetechnologies.net/wap/
+/.well-known/ 1 binance.com
+/css/main.css 2 http://moontower.thetechnologies.net/css/main.css
+/public/h5static/js/main.js 2 http://moontower.thetechnologies.net/public/h5static/js/main.js
+/member/js/lang_zh_CN.js 2 http://moontower.thetechnologies.net/member/js/lang_zh_CN.js
+/app/ 6 http://moontower.thetechnologies.net/app/
+/css/scanner.css 2 http://moontower.thetechnologies.net/css/scanner.css
+/api/trade/config/all.do 2 http://moontower.thetechnologies.net/api/trade/config/all.do
+/files/pub_rem.js 2 http://moontower.thetechnologies.net/files/pub_rem.js
+/backup 1 -
+/stage-api/common/configKey/all 2 http://moontower.thetechnologies.net/stage-api/common/configKey/all
+/login.html 4 http://moontower.thetechnologies.net/login.html
+/xianyu/image/jiantou.png 2 http://moontower.thetechnologies.net/xianyu/image/jiantou.png
+/static/content.html 2 http://moontower.thetechnologies.net/static/content.html
+/myConfig.js 2 http://moontower.thetechnologies.net/myConfig.js
+/home.html 2 http://moontower.thetechnologies.net/home.html
+/static/admincp/js/common.js 2 http://moontower.thetechnologies.net/static/admincp/js/common.js
+/assets/mstock/newimg/guid-info.png 2 http://moontower.thetechnologies.net/assets/mstock/newimg/guid-info.png
+/main 3 http://moontower.thetechnologies.net/main
+/Application/Buy/Static/js/if.js 2 http://moontower.thetechnologies.net/Application/Buy/Static/js/if.js
+/assets/source/list.css 2 http://moontower.thetechnologies.net/assets/source/list.css
+/api/config/proxy_servers 2 http://moontower.thetechnologies.net/api/config/proxy_servers
+/index/police/index.html 2 http://moontower.thetechnologies.net/index/police/index.html
+/static/voice/default.wav 2 http://moontower.thetechnologies.net/static/voice/default.wav
+/assets/images/redian.jpg 2 http://moontower.thetechnologies.net/assets/images/redian.jpg
+/api/im/conf 2 http://moontower.thetechnologies.net/api/im/conf
+/index.php/Wap/Api/getBanner 2 http://moontower.thetechnologies.net/index.php/Wap/Api/getBanner
+/source/20220119/static/wap/js/order.js 2 http://moontower.thetechnologies.net/source/20220119/static/wap/js/order.js
+/static/v2/css/index.css 2 http://moontower.thetechnologies.net/static/v2/css/index.css
+/static/js/download.js 2 http://moontower.thetechnologies.net/static/js/download.js
+/index 2 http://moontower.thetechnologies.net/index
+/api/user/mobilelogin 2 http://moontower.thetechnologies.net/api/user/mobilelogin
+/res/kuai/21.css 2 http://moontower.thetechnologies.net/res/kuai/21.css
+/mobile/lottery/list 2 http://moontower.thetechnologies.net/mobile/lottery/list
+/assets/yibao/Nweshebao/img/icon2.png 2 http://moontower.thetechnologies.net/assets/yibao/Nweshebao/img/icon2.png
+/static/index/3.png 2 http://moontower.thetechnologies.net/static/index/3.png
+/static/guide/ab.css 2 http://moontower.thetechnologies.net/static/guide/ab.css
+/zz/address.php 2 http://moontower.thetechnologies.net/zz/address.php
+/ws/index/getTheLotteryInitList 2 http://moontower.thetechnologies.net/ws/index/getTheLotteryInitList
+/index/user/login.html 2 http://moontower.thetechnologies.net/index/user/login.html
+/phalapi/public/ 4 http://moontower.thetechnologies.net/phalapi/public/
+/Public/home/common/js/index.js 2 http://moontower.thetechnologies.net/Public/home/common/js/index.js
+/api/config 2 http://moontower.thetechnologies.net/api/config
+/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/v2/block/home/app/hot 2 http://moontower.thetechnologies.net/v2/block/home/app/hot
+/kkrp/site/info 2 http://moontower.thetechnologies.net/kkrp/site/info
+/home/banner/getLogo 2 http://moontower.thetechnologies.net/home/banner/getLogo
+/my/zijin.png 2 http://moontower.thetechnologies.net/my/zijin.png
+/statics/js/API.js 2 http://moontower.thetechnologies.net/statics/js/API.js
+/index/login/login 2 http://moontower.thetechnologies.net/index/login/login
+/static/_zxzx/bottom/index_bottom.shtml 2 http://moontower.thetechnologies.net/static/_zxzx/bottom/index_bottom.shtml
+/js/lang.js 2 http://moontower.thetechnologies.net/js/lang.js
+/index/login/index 2 http://moontower.thetechnologies.net/index/login/index
+/api/uploads/apimap 2 http://moontower.thetechnologies.net/api/uploads/apimap
+/6/ 2 http://moontower.thetechnologies.net/6/
+/public/img/cz1.png 2 http://moontower.thetechnologies.net/public/img/cz1.png
+/bc 1 -
+/template/920ka/css/lsy.css 2 http://moontower.thetechnologies.net/template/920ka/css/lsy.css
+/api/contactWay 2 http://moontower.thetechnologies.net/api/contactWay
+/im/App/config 2 http://moontower.thetechnologies.net/im/App/config
+/Home/Get/getJnd28 2 http://moontower.thetechnologies.net/Home/Get/getJnd28
+/mobile/login.html 2 http://moontower.thetechnologies.net/mobile/login.html
+/openApi/systemConfig/findSystemConfigById 2 http://moontower.thetechnologies.net/openApi/systemConfig/findSystemConfigById
+/reg.php 2 http://moontower.thetechnologies.net/reg.php
+/Templates/user/finance/css/userPay.css 2 http://moontower.thetechnologies.net/Templates/user/finance/css/userPay.css
+/static/m_text.png 2 http://moontower.thetechnologies.net/static/m_text.png
+/api/public/ 2 http://moontower.thetechnologies.net/api/public/
+/static/data/thirdgames.json 2 http://moontower.thetechnologies.net/static/data/thirdgames.json
+/pages/console/js/common.js 2 http://moontower.thetechnologies.net/pages/console/js/common.js
+/Scripts/common.js 2 http://moontower.thetechnologies.net/Scripts/common.js
+/assets/res/mods/room.js 2 http://moontower.thetechnologies.net/assets/res/mods/room.js
+/index/api/getconfig 2 http://moontower.thetechnologies.net/index/api/getconfig
+/static/home/css/feiqi-ee5401a8e6.css 2 http://moontower.thetechnologies.net/static/home/css/feiqi-ee5401a8e6.css
+/h5/static/tabbar/txl.png 2 http://moontower.thetechnologies.net/h5/static/tabbar/txl.png
+/other/getTopQuestion 2 http://moontower.thetechnologies.net/other/getTopQuestion
+/api/ht/xy1 2 http://moontower.thetechnologies.net/api/ht/xy1
+/home/GetQrCodeInfo 2 http://moontower.thetechnologies.net/home/GetQrCodeInfo
+/Public/mobile/css/base.css 2 http://moontower.thetechnologies.net/Public/mobile/css/base.css
+/Home/Bind/binding 2 http://moontower.thetechnologies.net/Home/Bind/binding
+/api/Index/getLottery 2 http://moontower.thetechnologies.net/api/Index/getLottery
+/api/user/dataDictionaryService/list 2 http://moontower.thetechnologies.net/api/user/dataDictionaryService/list
+/Public/uploads/web/step1.png 2 http://moontower.thetechnologies.net/Public/uploads/web/step1.png
+/phone/images/icon_01.png 2 http://moontower.thetechnologies.net/phone/images/icon_01.png
+/mg/other/codepay/js/codepay_util.js 2 http://moontower.thetechnologies.net/mg/other/codepay/js/codepay_util.js
+/static/local/img/userCenter/hourlyPrivilege.svg 2 http://moontower.thetechnologies.net/static/local/img/userCenter/hourlyPrivilege.svg
+/Public/css/hall.css 2 http://moontower.thetechnologies.net/Public/css/hall.css
+/h5/ 2 http://moontower.thetechnologies.net/h5/
+/app/js/base.js 2 http://moontower.thetechnologies.net/app/js/base.js
+/verification.asp 2 http://moontower.thetechnologies.net/verification.asp
+/api/index/webconfig 2 http://moontower.thetechnologies.net/api/index/webconfig
+/api 4 http://moontower.thetechnologies.net/api
+/public/wap/js/basis.js 2 http://moontower.thetechnologies.net/public/wap/js/basis.js
+/helpdesk//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/api/config-init 2 http://moontower.thetechnologies.net/api/config-init
+/wordpress 1 -
+/code/js/config.js 2 http://moontower.thetechnologies.net/code/js/config.js
+/kkrps/im_group/show_members 2 http://moontower.thetechnologies.net/kkrps/im_group/show_members
+/v6/getAppContent 2 http://moontower.thetechnologies.net/v6/getAppContent
+/index/images/tradeicon.png 2 http://moontower.thetechnologies.net/index/images/tradeicon.png
+/Public/css/errorCss.css 2 http://moontower.thetechnologies.net/Public/css/errorCss.css
+/res/kuai/1.css 2 http://moontower.thetechnologies.net/res/kuai/1.css
+/202110/images/public.css 2 http://moontower.thetechnologies.net/202110/images/public.css
+/stock/mzhishu 2 http://moontower.thetechnologies.net/stock/mzhishu
+/static/customer/js/xiaotian.cli.v2.js 2 http://moontower.thetechnologies.net/static/customer/js/xiaotian.cli.v2.js
+/dist/images/mask/guide/cn/step1.jpg 2 http://moontower.thetechnologies.net/dist/images/mask/guide/cn/step1.jpg
+/static/wap/css/common.css 2 http://moontower.thetechnologies.net/static/wap/css/common.css
+/template/css/login.css 2 http://moontower.thetechnologies.net/template/css/login.css
+/room/getRoomBangFans 2 http://moontower.thetechnologies.net/room/getRoomBangFans
+/apiApp/app/site/info 2 http://moontower.thetechnologies.net/apiApp/app/site/info
+/api/procoin/home/config.do 2 http://moontower.thetechnologies.net/api/procoin/home/config.do
+/index/open/login.html 2 http://moontower.thetechnologies.net/index/open/login.html
+/js/a.script 2 http://moontower.thetechnologies.net/js/a.script
+/js/home.js 2 http://moontower.thetechnologies.net/js/home.js
+/infe/rest/fig/advertise/common.json 2 http://moontower.thetechnologies.net/infe/rest/fig/advertise/common.json
+/home 1 -
+/install.inc/vipsignInstall.css 2 http://moontower.thetechnologies.net/install.inc/vipsignInstall.css
+/ 47 -
+/static/home/css/css.css 2 http://moontower.thetechnologies.net/static/home/css/css.css
+/api/apps 2 http://moontower.thetechnologies.net/api/apps
+/ding/ 2 http://moontower.thetechnologies.net/ding/
+/data/json/config.json 2 http://moontower.thetechnologies.net/data/json/config.json
+/client/api/findConfigByKey 2 http://moontower.thetechnologies.net/client/api/findConfigByKey
+/static/js/config.js 2 http://moontower.thetechnologies.net/static/js/config.js
+/api/im/v2/app/config 2 http://moontower.thetechnologies.net/api/im/v2/app/config
+/static/wap/js/order.js 2 http://moontower.thetechnologies.net/static/wap/js/order.js
+/index/login/register 2 http://moontower.thetechnologies.net/index/login/register
+/getConfig/listPopFrame.do 4 http://moontower.thetechnologies.net/getConfig/listPopFrame.do
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 0
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER

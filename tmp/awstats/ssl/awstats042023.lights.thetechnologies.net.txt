@@ -1,0 +1,288 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/ssl/awstats.lights.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2706                
+POS_VISITOR 6192                
+POS_DAY 6311                
+POS_DOMAIN 3252                
+POS_LOGIN 3483                
+POS_ROBOT 3638                
+POS_WORMS 3770                
+POS_EMAILSENDER 3901                
+POS_EMAILRECEIVER 4044                
+POS_SESSION 6446                
+POS_SIDER 6630                
+POS_FILETYPES 4179                
+POS_DOWNLOADS 4392                
+POS_OS 4737                
+POS_BROWSER 4816                
+POS_SCREENSIZE 4890                
+POS_UNKNOWNREFERER 4964                
+POS_UNKNOWNREFERERBROWSER 5051                
+POS_ORIGIN 5133                
+POS_SEREFERRALS 5267                
+POS_PAGEREFS 5411                
+POS_SEARCHWORDS 5559                
+POS_KEYWORDS 5711                
+POS_MISC 2370                
+POS_ERRORS 5770                
+POS_CLUSTER 3339                
+POS_SIDER_404 5883                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501081900 1 0 17639657292406
+FirstTime 20230421112547
+LastTime 20230428095800
+LastUpdate 20230501083641 1 0 0 0 0
+TotalVisits 5                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 29 29 7613822 7 7 15891
+9 167 167 33839580 36 36 16384
+10 0 0 0 0 0 0
+11 24 62 23062917 3 4 18880
+12 0 0 0 0 0 0
+13 5 5 307779 0 0 0
+14 0 0 0 0 0 0
+15 2 4 216178 0 0 0
+16 67 68 8116005 16 16 7264
+17 0 0 0 0 0 0
+18 0 0 0 1 1 406
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 1 1 422
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+pa 294 335 58203570
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 11 1372612 0 0
+woff2 2 107224 0 0
+Unknown 290 39627263 0 0
+pdf 2 15687929 0 0
+js 15 696301 0 0
+html 2 94866 0 0
+css 8 606430 0 0
+svg 5 10945 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/LightingSchedule/532761682626145.pdf 1 54 12562636
+/LightingSchedule/217771678734799.pdf 1 8 1362720
+/LightingSchedule/99831678734799.pdf 0 4 768468
+/LightingSchedule/416551678734799.pdf 0 2 438803
+/LightingSchedule/294311678734799.pdf 0 2 191170
+/LightingSchedule/777431678734799.pdf 0 2 364132
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+win10 407 294
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+chrome112.0.0.0 407 294
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1 1
+From1 0 0
+From2 0 0
+From3 0 0
+From4 293 406
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+419 1 13167
+302 62 27988
+500 1 16942
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+181.118.54.236 294 407 58203570 20230428095800
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20230421 27 65 23232470 2
+20230427 71 74 8470409 2
+20230428 196 196 41453402 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+15mn-30mn 1
+30s-2mn 1
+30mn-1h 1
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 42
+/Lighting-Schedule 57 4089232 1 1
+/loadDataByLampLuminaireProfile 44 20430 0 1
+/create-custom-lamp/40 35 3502905 1 1
+/CheckSubLabel 34 9213 0 0
+/loadDataByLuminaireProfile 32 16640 0 0
+/Lighting-Schedule/40 23 1354695 0 0
+/CustomLamp/375/edit 11 1069692 0 1
+/create-custom-lamp/39 4 400332 1 0
+/add-more/39 4 276028 1 0
+/add-more/40 4 275772 0 0
+/create/39 3 230643 0 1
+/loadDataByBrand 3 6 0 0
+/csv_file_export/40 2 8870072 0 0
+/ 2 94866 0 0
+/CustomLamp/377/edit 2 194178 0 0
+/Flex-Strip-Lamps 2 161120 1 0
+/CustomLamp/376/edit 2 194179 0 0
+/loadDataByBrandFinish 2 72 0 0
+/Lighting-Schedule/create 2 123462 0 0
+/CustomLamp/378/edit 2 194178 0 0
+/location 2 94204 0 0
+/create/40 2 110322 0 0
+/CustomLamp/365/edit 1 97098 0 0
+/CustomLamp/363/edit 1 97100 0 0
+/login 1 4683 0 0
+/CustomLamp/367/edit 1 97088 0 0
+/csv_file_export_final/40 1 3979845 0 0
+/PCDevice/create 1 29535 0 0
+/CustomLamp/361/edit 1 97098 0 0
+/Flex-Strip-Lamps/32 1 31299 0 0
+/CustomLamp/359/edit 1 97096 0 0
+/CustomLamp/358/edit 1 97101 0 0
+/assets/fonts/Simple-Line-Iconsb26c.woff2 1 30064 0 0
+/CustomLamp/364/edit 1 97090 0 0
+/assets/fonts/fontawesome-webfont3e6e.woff2 1 77160 0 0
+/csv_file_export_final/39 1 13193654 0 0
+/CustomLamp/366/edit 1 97088 0 0
+/CustomLamp/362/edit 1 97098 0 0
+/PCDevice 1 35737 0 0
+/CustomLamp/379/edit 1 97091 0 0
+/CustomLamp/381/edit 1 97091 0 0
+/CustomLamp/360/edit 1 97096 0 0
+END_SIDER

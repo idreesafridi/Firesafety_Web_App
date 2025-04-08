@@ -1,0 +1,367 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/thetechnologies/tmp/awstats/awstats.sms.thetechnologies.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2699                
+POS_VISITOR 7746                
+POS_DAY 8568                
+POS_DOMAIN 3293                
+POS_LOGIN 3587                
+POS_ROBOT 3742                
+POS_WORMS 3922                
+POS_EMAILSENDER 4053                
+POS_EMAILRECEIVER 4196                
+POS_SESSION 9007                
+POS_SIDER 9190                
+POS_FILETYPES 4331                
+POS_DOWNLOADS 4512                
+POS_OS 4560                
+POS_BROWSER 4695                
+POS_SCREENSIZE 5046                
+POS_UNKNOWNREFERER 5120                
+POS_UNKNOWNREFERERBROWSER 5348                
+POS_ORIGIN 5468                
+POS_SEREFERRALS 5603                
+POS_PAGEREFS 5764                
+POS_SEARCHWORDS 5939                
+POS_KEYWORDS 6091                
+POS_MISC 2363                
+POS_ERRORS 6150                
+POS_CLUSTER 3443                
+POS_SIDER_404 6273                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601002706 1 0 16869888793972
+FirstTime 20230502023253
+LastTime 20230531073801
+LastUpdate 20230601084759 1 0 0 0 0
+TotalVisits 24                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 56 2878670 4 4 1616
+1 3 42 1329823 7 7 7987
+2 11 35 1624796 8 8 8168
+3 1 21 520509 1 1 288
+4 28 117 8163672 10 12 9601
+5 5 5 169708 6 6 7748
+6 14 15 466797 4 4 3736
+7 22 84 5752347 4 6 4239
+8 1 1 67814 0 0 0
+9 0 0 0 0 0 0
+10 2 2 3079 11 11 404
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 13 13 11823
+18 0 0 0 1 1 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 1 41 905390 23 23 11823
+23 0 20 452695 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+pk 78 224 13818754
+us 15 191 8060705
+in 2 2 0
+de 1 1 3059
+zz 1 1 87
+cn 0 20 452695
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Slackbot\-LinkExpanding 1 3059 20230529074921 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+Unknown 88 3105523 0 0
+js 50 8550478 0 0
+css 41 2093071 0 0
+woff 4 171376 0 0
+woff2 5 267536 0 0
+png 251 8147316 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+Unknown 5 5
+linux 8 2
+win7 2 1
+macosx6 1 1
+win10 337 84
+macosx15 86 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome86.0.4240.111 1 1
+chrome112.0.0.0 40 0
+chrome79.0.3945.79 4 1
+chrome113.0.0.0 364 78
+mozilla 3 3
+chrome20.0.1132.57 2 2
+chrome83.0.4103.61 2 1
+chrome40.0.2214.93 1 1
+chrome112.0.5615.121 8 2
+chrome85.0.4183.102 1 1
+chrome74.0.3729.169 2 2
+Unknown 2 2
+chrome108.0.5351.0 8 2
+chrome104.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20230505003511
+Cpanel-HTTP-Client/1.0 20230505003439
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20230505003439
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 17
+From1 0 0
+From2 1 1
+From3 1 1
+From4 78 420
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.upwork.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 54 52992
+302 23 7556
+301 14 3538
+508 1 288
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 32
+/.well-known/ 2 binance.com
+/ticket/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/uploads 2 binance.com
+/bc 2 -
+/wp/wp-login.php 1 http://sms.thetechnologies.net
+/new 2 -
+/admin/controller/extension/extension 2 binance.com
+/blog/wp-login.php 1 http://sms.thetechnologies.net
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/cloud.css 1 -
+/public/backend/css/metisMenu.min.css.map 1 -
+/wp-login.php 1 http://sms.thetechnologies.net
+/index.php//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/public/backend/js/metisMenu.min.js.map 1 -
+/helpdesk//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/home 2 -
+/public/backend/js/summernote.js.map 1 -
+/backup 2 -
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/public/backend/css/bootstrap.min.css.map 1 -
+/wordpress 2 -
+/wp 2 -
+/main 2 -
+/public/backend/js/pdfmake.min.js.map 1 -
+/images 2 binance.com
+/files 2 binance.com
+/support//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/sites/default/files 2 binance.com
+/old 2 -
+/wp-admin/css 2 binance.com
+/bk 2 -
+/public/uploads/images/ 7 http://sms.thetechnologies.net/profile/my_profile
+/wordpress/wp-login.php 1 http://sms.thetechnologies.net
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+110.39.11.3 78 224 13818754 20230531073801
+107.161.191.226 2 2 128 20230505003439
+205.169.39.233 2 6 1150887 20230505003821
+65.154.226.167 1 4 818925 20230526001015
+85.215.188.208 1 1 3059 20230509013344
+3.142.70.200 1 1 87 20230505003511
+54.211.217.51 1 1 3079 20230527104703
+65.154.226.169 1 4 818925 20230505023019
+45.137.192.5 1 1 0 20230509102759
+15.204.137.236 1 1 3079 20230517061937
+54.201.243.184 1 1 87 20230505003511
+162.211.65.229 1 1 3079 20230514000907
+35.203.255.119 1 4 818905 20230530044558
+43.241.70.75 1 1 0 20230502023253
+107.178.232.255 1 4 818905 20230530044645
+69.167.24.10 1 1 0 20230522221000
+165.227.21.6 1 1 3059 20230513053740
+23.178.112.107 1 1 87 20230505003511
+223.123.92.57 0 20 452695 
+139.135.36.134 0 160 3621560 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20230502 1 21 452695 1
+20230505 8 15 1970201 6
+20230507 0 20 452695 0
+20230509 2 22 455754 2
+20230513 1 1 3059 1
+20230514 1 1 3079 1
+20230515 0 20 452695 0
+20230516 0 20 452695 0
+20230517 1 21 455774 1
+20230518 0 20 452695 0
+20230521 0 20 452695 0
+20230522 1 1 0 1
+20230526 1 4 818925 1
+20230527 1 1 3079 1
+20230529 4 66 4964046 1
+20230530 35 124 8496506 5
+20230531 41 62 2448707 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 1
+0s-30s 19
+30mn-1h 2
+1h+ 1
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 34
+/login 16 39907 15 13
+/dashboard 15 1017210 2 3
+/frontoffice 12 576156 2 2
+/profile/my_profile 9 275013 0 0
+/reports/student_attendance_report 3 95814 0 0
+/public/backend/fonts/fontawesome-webfont.woff2 3 231480 0 0
+/public/backend/fonts/themify.woff 3 168324 1 1
+/.well-known/acme-challenge/6K-wIhRT5rMG0gLq98mqv7Zf-tk6HBtYluXpEq1EHBs 3 261 3 3
+/parents 3 89418 0 0
+/students 2 63275 0 0
+/teachers 2 108436 0 0
+/public/backend/fonts/glyphicons-halflings-regular.woff2 2 36056 0 0
+/transactions/income 2 60022 0 0
+/administration/general_settings 2 147878 0 1
+/admission_enquiries/52 1 748 0 0
+/books 1 32457 0 0
+/reports/exam_report 1 33157 0 0
+/notices 1 174490 0 0
+/accounts 1 31424 0 0
+/marks 1 30633 0 0
+/notices/144 1 1319 0 0
+/.well-known/acme-challenge/27Z4C-279CMRUR8DI80IFWHBO77KF5QA 1 64 0 1
+/public/backend/fonts/dropify.woff 1 3052 0 0
+/events 1 34811 0 0
+/reports/exam_routine 1 31189 0 0
+/profile/edit 1 31908 0 0
+/reports/income_expense_report 1 31038 0 0
+/student/attendance 1 34164 0 0
+/class 1 39403 0 0
+/exams 1 29803 0 0
+/.well-known/acme-challenge/9-Z56BTOB4HYZN34X_FMG06FRBBOJ2D_ 1 64 1 0
+/staff/attendance 1 32559 0 0
+/reports/staff_attendance_report 1 31045 0 0
+/reports/class_routine 1 31857 0 0
+END_SIDER
